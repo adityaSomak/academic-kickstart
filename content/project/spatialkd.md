@@ -13,7 +13,7 @@ image_preview = "headers/vqa_spatial_kd.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["deep-learning", "soft-logic"]`
-tags = ["deep-learning", "soft-logic"]
+tags = ["deep-learning", "soft-logic", "Vision and Language"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://repository.asu.edu/items/50115"

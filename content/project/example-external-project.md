@@ -13,7 +13,7 @@ image_preview = "headers/sdg.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["machine-learning", "deep-learning"]`
-tags = ["demo"]
+tags = ["common-sense", "Vision and Language", "Knowledge Acqusition"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://imagesdg.wordpress.com/image-to-scene-description-graph/"

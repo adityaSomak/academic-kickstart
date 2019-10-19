@@ -13,7 +13,7 @@ image_preview = "headers/kp.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["other"]`
-tags = ["demo"]
+tags = ["common-sense", "NLP", "Semantic Prasing", "Knowledge Acqusition"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://kparser.org"
