@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Somak Aditya
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: Adobe Research
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Knowledge Representation and Reasoning
+- Natural Language Processing
+- Probabilistic Logical Reasoning
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Computer Science
+    institution: Arizona State University
+    year: 2018
+  - course: MEng in Computer Science
+    institution: Indian Institute of Science, Bangalore
+    year: 2011
+  - course: BE in Computer Science
+    institution: Jadavpur University, Kolkata
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -44,21 +44,21 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:saditya1@asu.edu'  # For a direct email link, use "mailto:test@example.org".
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/somakaditya
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=2shiHpwAAAAJ&hl=en
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/adityaSomak
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+- icon: cv
+  icon_pack: ai
+  link: files/SomakAditya_LatestCV.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -70,6 +70,9 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I have joined Adobe Research (BEL) as a Research Scientist. I have completed my Ph.D. in Computer Science from [CIDSE, Arizona State University](http://cidse.engineering.asu.edu/). <span style="font-weight: bold;">I have successfully defended my thesis on June 27, 2018!</span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+For my doctoral studies, I have worked on Image Understanding using a combination of Deep Learning, Commonsense Reasoning and Knowledge Representation Techniques under the supervision of [Prof. Chitta Baral](http://www.public.asu.edu/~cbaral/) (President of KR.inc, 2016-Present). I have also closely collaborated with and partially funded by [Dr. Yezhou Yang](http://yezhouyang.engineering.asu.edu/) (Assistant Professor, ASU). 
+My current efforts have been published in AAAI, IJCAI, UAI, NAACL, CVIU (journal), WACV.
+ 
+I have completed my Masters (ME) in Computer Science from the [Department of CSA in Indian Institute of Science, Bangalore](http://www.csa.iisc.ernet.in/) in 2011 with a concentration in Machine Learning under the supervision of [Prof. M Narasimha Murty](http://scholar.google.com/citations?user=VQZTmpcAAAAJ&hl=en) (Dean, Faculty of Engineering, IISc and author of Data Clustering: A Review which has more than 13,000 citations). I have done my Bachelors in CS from Jadavpur University in 2009. After a brief stint at Yahoo, I joined Strand Life Sciences where I worked in the NGS team for nearly two and half years before joining ASU to pursue PhD. 
