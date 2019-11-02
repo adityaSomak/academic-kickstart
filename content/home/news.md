@@ -25,10 +25,10 @@ weight = 20
     })(jQuery);
 </script>
 
-<div class="mCustomScrollbar" data-mcs-theme="inset-dark" style="height:640px;width:900px;font:25px/30px;font-face: Inherit; overflow:auto;">
+<div class="mCustomScrollbar" data-mcs-theme="inset-dark" style="height:640px;width:850px;font:25px/30px;font-face: Inherit; overflow:auto;">
 :star: <span style="font-weight: bold;">[Oct 2019]</span>  AAAI-20: Exploratory Navigation and Selective Readoing got accepted as AAAI demo.
 <br/><br/>
-:star: <span style="font-weight: bold;">[Sep 2019]</span>  Adobe Research News: Knowledge Graph Research appears in <a href="https://research.adobe.com/news/knowledge-graphs-turning-complex-information-into-helpful-answers/">Adobe News</a> !
+:star: <span style="font-weight: bold;">[Sep 2019]</span>  Adobe News: Knowledge Graph Research appears in <a href="https://research.adobe.com/news/knowledge-graphs-turning-complex-information-into-helpful-answers/">Adobe News</a> !
 <br/><br/>
 :star: <span style="font-weight: bold;">[Aug 2019]</span>  AAAI-20: Invited as an AAAI 2020 PC Member!
 <br/><br/>
