@@ -26,6 +26,10 @@ weight = 20
 </script>
 
 <div class="mCustomScrollbar" data-mcs-theme="inset-dark" style="height:640px;width:850px;font:25px/30px;font-face: Inherit; overflow:auto;">
+:star: <span style="font-weight: bold;">[Dec 2019]</span>  AAAI-20: "Uncovering Relations for Marketing Knowledge Representation" accepted in StarAI workshop full paper.
+<br/><br/>
+:star: <span style="font-weight: bold;">[Dec 2019]</span>  IJCAI-20: Invited as PC Member.
+<br/><br/>
 :star: <span style="font-weight: bold;">[Oct 2019]</span>  AAAI-20: Exploratory Navigation and Selective Readoing got accepted as AAAI demo.
 <br/><br/>
 :star: <span style="font-weight: bold;">[Sep 2019]</span>  Adobe News: Knowledge Graph Research appears in <a href="https://research.adobe.com/news/knowledge-graphs-turning-complex-information-into-helpful-answers/">Adobe News</a> !

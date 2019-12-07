@@ -15,7 +15,7 @@ weight = 110
 +++
 Research & Development groups
 
-- BioAI lab, Arizona State University 
+- [Cognition-Intelligence Lab](https://cogintlab-asu.github.io/), Arizona State University 
 - [Active Perception Group](http://yezhouyang.engineering.asu.edu/research-group/), Arizona State University (Closely Affiliated with)
 - [Perception and Robotics Group](http://prg.cs.umd.edu/), UMIACS, University of Maryland, College Park (closely collaborated with Prof. Yiannis Aloimonos, Dr. Cornelia Fermuller on several projects)
 
