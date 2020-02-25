@@ -36,3 +36,4 @@ Internship Mentoring:
 
 - (2019) Pranil Joshi (IIT-B), Abhinav Mishra (IIT-G), Bhavy Khatri (IIT-K): Knowledge-sharing between Cross-domain Agents
     - Mentored with Kushal Chawla (USC), Sharmila Nangi Reddy
+    - (Feb 2020]) Patent accepted and to be filed in USPTO.

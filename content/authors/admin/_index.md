@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Researcher
+role: Postdoc Researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Adobe Research
+- name: Microsoft Research
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -70,9 +70,9 @@ user_groups:
 - Visitors
 ---
 
-I have joined Adobe Research (BEL) as a Research Scientist. I have completed my Ph.D. in Computer Science from [CIDSE, Arizona State University](http://cidse.engineering.asu.edu/). <span style="font-weight: bold;">I have successfully defended my thesis on June 27, 2018!</span>
+I have joined Microsoft Research India as a Postdoctoral Researcher. I have completed my Ph.D. in Computer Science from [CIDSE, Arizona State University](http://cidse.engineering.asu.edu/). <span style="font-weight: bold;">I have successfully defended my thesis on June 27, 2018!</span>
 
-For my doctoral studies, I have worked on Image Understanding using a combination of Deep Learning, Commonsense Reasoning and Knowledge Representation Techniques under the supervision of [Prof. Chitta Baral](http://www.public.asu.edu/~cbaral/) (President of KR.inc, 2016-Present). I have also closely collaborated with and partially funded by [Dr. Yezhou Yang](http://yezhouyang.engineering.asu.edu/) (Assistant Professor, ASU). 
+For my doctoral studies, I have worked on Image Understanding using a combination of Deep Learning, Commonsense Reasoning and Knowledge Representation Techniques under the supervision of [Prof. Chitta Baral](http://www.public.asu.edu/~cbaral/) (Past President of KR.inc, 2016-2018). I have also closely collaborated with and partially funded by [Dr. Yezhou Yang](http://yezhouyang.engineering.asu.edu/) (Assistant Professor, ASU). 
 My current efforts have been published in AAAI, IJCAI, UAI, NAACL, CVIU (journal), WACV.
  
-I have completed my Masters (ME) in Computer Science from the [Department of CSA in Indian Institute of Science, Bangalore](http://www.csa.iisc.ernet.in/) in 2011 with a concentration in Machine Learning under the supervision of [Prof. M Narasimha Murty](http://scholar.google.com/citations?user=VQZTmpcAAAAJ&hl=en) (Dean, Faculty of Engineering, IISc and author of Data Clustering: A Review which has more than 13,000 citations). I have done my Bachelors in CS from Jadavpur University in 2009. After a brief stint at Yahoo, I joined Strand Life Sciences where I worked in the NGS team for nearly two and half years before joining ASU to pursue PhD. 
+I have completed my Masters (ME) in Computer Science from the [Department of CSA in Indian Institute of Science, Bangalore](http://www.csa.iisc.ernet.in/) in 2011 with a concentration in Machine Learning under the supervision of [Prof. M Narasimha Murty](http://scholar.google.com/citations?user=VQZTmpcAAAAJ&hl=en) (Dean, Faculty of Engineering, IISc and author of Data Clustering: A Review which has more than 13K citations). I have done my Bachelors in CS from Jadavpur University in 2009. After a brief stint at Yahoo, I joined Strand Life Sciences where I worked in the NGS team for nearly two and half years before joining ASU to pursue PhD. 
