@@ -26,6 +26,8 @@ weight = 20
 </script>
 
 <div class="mCustomScrollbar" data-mcs-theme="inset-dark" style="height:640px;width:850px;font:25px/30px;font-face: Inherit; overflow:auto;">
+:star: <span style="font-weight: bold;">[Mar 2020]</span>  LANTERN@COLING-20: Invited as PC Member.
+<br/><br/>
 :star: <span style="font-weight: bold;">[Jan 2020]</span>  ACL-20: Invited as PC Member.
 <br/><br/>
 :star: <span style="font-weight: bold;">[Dec 2019]</span> USPTO: "Knowledge-sharing between cross-domain Agents" work approved internally to be filed..

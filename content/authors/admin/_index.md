@@ -22,8 +22,8 @@ bio: My research interests include integrating knowledge and enabling higher-ord
 
 interests:
 - Knowledge Representation and Reasoning
-- Natural Language Processing
 - Probabilistic Logical Reasoning
+- Natural Language Processing
 
 education:
   courses:
@@ -72,11 +72,14 @@ user_groups:
 
 I have joined Microsoft Research India as a Postdoctoral Researcher where I will be working with the NLP team (primarily with Dr. Monojit Choudhury), exploring applications of 
 model-based knowledge integration approaches for natural language inferencing. Knowledge integration has three aspects: knowledge acqusition, representation and reasoning. 
-While my former efforts had a higher concentration on the latter two; at MSR, I plan to work on some aspects of acquisition such as weighted rule learning in probailistic logics.
+While my former efforts had a higher concentration on the latter two; at MSR, I plan to work on some aspects of acquisition such as weighted rule learning in probabilistic logics.
 
-I have completed my Ph.D. in Computer Science from [CIDSE, Arizona State University](http://cidse.engineering.asu.edu/) on June 27, 2018.
-For my doctoral studies, I have worked on Image Understanding using a combination of Deep Learning, Commonsense Reasoning and Knowledge Representation Techniques under the supervision of [Prof. Chitta Baral](http://www.public.asu.edu/~cbaral/) (Past President of KR.inc, 2016-2018). I have also closely collaborated with and partially funded by [Dr. Yezhou Yang](http://yezhouyang.engineering.asu.edu/) (Assistant Professor, ASU). 
+Prior to this, I completed my Ph.D. in Computer Science from [CIDSE, Arizona State University](http://cidse.engineering.asu.edu/) on June 27, 2018.
+For my doctoral studies, I worked on Image Understanding using a combination of Deep Learning, Commonsense Reasoning and Knowledge Representation Techniques under the 
+supervision of [Prof. Chitta Baral](http://www.public.asu.edu/~cbaral/) (Past President of KR.inc, 2016-2018). 
+I was also co-advised by [Dr. Yezhou Yang](http://yezhouyang.engineering.asu.edu/) (Assistant Professor, ASU). 
 My current efforts have been published in AAAI, IJCAI, UAI, NAACL, CVIU (journal), WACV.
  
-I have completed my Masters (ME) in Computer Science from the [Department of CSA in Indian Institute of Science, Bangalore](http://www.csa.iisc.ernet.in/) in 2011 with a concentration in Machine Learning under the supervision of [Prof. M Narasimha Murty](http://scholar.google.com/citations?user=VQZTmpcAAAAJ&hl=en) (Dean, Faculty of Engineering, IISc). I have done my Bachelors in CS from Jadavpur University in 2009. 
+I have completed my Masters (ME) in Computer Science from the [Department of CSA in Indian Institute of Science, Bangalore](http://www.csa.iisc.ernet.in/) in 2011 with a concentration in Machine Learning under the supervision of [Prof. M Narasimha Murty](http://scholar.google.com/citations?user=VQZTmpcAAAAJ&hl=en) (Dean, Faculty of Engineering, IISc). 
+I have done my Bachelors in CS from Jadavpur University in 2009. 
 After a brief stint at Yahoo, I joined Strand Life Sciences where I worked in the NGS team for nearly 2.5 years before joining ASU to pursue PhD. 
