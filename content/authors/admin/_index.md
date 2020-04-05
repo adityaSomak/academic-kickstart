@@ -70,7 +70,7 @@ user_groups:
 - Visitors
 ---
 
-I have joined Microsoft Research India as a Postdoctoral Researcher where I will be working with the NLP team (primarily with Dr. Monojit Choudhury), exploring applications of 
+I have joined Microsoft Research India as a Postdoctoral Researcher where I am working with the NLP team (primarily with Dr. Monojit Choudhury), exploring applications of 
 model-based knowledge integration approaches for natural language inferencing. Knowledge integration has three aspects: knowledge acqusition, representation and reasoning. 
 While my former efforts had a higher concentration on the latter two; at MSR, I plan to work on some aspects of acquisition such as weighted rule learning in probabilistic logics.
 
@@ -80,6 +80,6 @@ supervision of [Prof. Chitta Baral](http://www.public.asu.edu/~cbaral/) (Past Pr
 I was also co-advised by [Dr. Yezhou Yang](http://yezhouyang.engineering.asu.edu/) (Assistant Professor, ASU). 
 My current efforts have been published in AAAI, IJCAI, UAI, NAACL, CVIU (journal), WACV.
  
-I have completed my Masters (ME) in Computer Science from the [Department of CSA in Indian Institute of Science, Bangalore](http://www.csa.iisc.ernet.in/) in 2011 with a concentration in Machine Learning under the supervision of [Prof. M Narasimha Murty](http://scholar.google.com/citations?user=VQZTmpcAAAAJ&hl=en) (Dean, Faculty of Engineering, IISc). 
+I have completed my Masters (ME) in Computer Science from the [Indian Institute of Science, Bangalore](http://www.csa.iisc.ernet.in/) in 2011 with a concentration in Machine Learning under the supervision of [Prof. M Narasimha Murty](http://scholar.google.com/citations?user=VQZTmpcAAAAJ&hl=en) (Dean, Faculty of Engineering, IISc). 
 I have done my Bachelors in CS from Jadavpur University in 2009. 
 After a brief stint at Yahoo, I joined Strand Life Sciences where I worked in the NGS team for nearly 2.5 years before joining ASU to pursue PhD. 
