@@ -22,7 +22,7 @@ multiple groups.
 - CSE-471 Introduction To Artificial Intelligence, Spring 2016
 - CSE-310 Data Structures and Algorithms, Spring 2015
 
-I mentored and collaborated with the following Masters Students:
+I collaborated with the following Masters Students:
 
 - Rudra Saha (2017 -- 2018), Graduated, MS Student, Computer Science, ASU, Currently Researcher@Verisk
    - Spatial Knowledge Distillation to aid Visual Reasoning
@@ -32,7 +32,7 @@ I mentored and collaborated with the following Masters Students:
 - Trideep Rath (2015 -- 2017), Graduated, MS, Computer Science, ASU. Currently Data Scientist, Kayak
    - Thesis: [Word and Relation Embedding for Sentence Representation](https://repository.asu.edu/attachments/186590/content/Rath_asu_0010N_17130.pdf)
 
-Internship Mentoring:
+Internship Mentoring/Collaborating:
 
 - (2019) Pranil Joshi (IIT-B), Abhinav Mishra (IIT-G), Bhavy Khatri (IIT-K): Knowledge-sharing between Cross-domain Agents
     - Mentored with Kushal Chawla (USC), Sharmila Nangi Reddy
