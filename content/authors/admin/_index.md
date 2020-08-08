@@ -78,7 +78,7 @@ variants that may fill this gap?
 Parallel to exploring neuro-symbolic methods under the lens of NLI, 
 I am also exploring multi-hop reasoning capabilities of neural methods in symbolic domains with Dr. Navin Goyal. 
 
-Overall, my central goal in research has been devloping models that are both data-driven, yet enriched by knowledge. My work is guided by the three central aspects:
+Overall, my central goal in research has been devloping models that are both data-driven, yet enriched by knowledge. Developing such models require three central considerations:
  knowledge acqusition, representation and reasoning. 
 While at MSRI, I am primarily focusing on reasoning capabilities, my former efforts had a higher concentration on the latter two. 
 I completed my Ph.D. in Computer Science from [CIDSE, Arizona State University](http://cidse.engineering.asu.edu/) on June 27, 2018.
