@@ -26,7 +26,7 @@ weight = 20
 </script>
 
 <div class="mCustomScrollbar" data-mcs-theme="inset-dark" style="height:640px;width:850px;font:25px/30px;font-face: Inherit; overflow:auto;">
-:star: <span style="font-weight: bold;">[Mar 2020]</span>  EACL-2021: Invited as PC Member.
+:star: <span style="font-weight: bold;">[Aug 2020]</span>  EACL-2021: Invited as PC Member.
 <br/><br/>
 :star: <span style="font-weight: bold;">[Mar 2020]</span>  EMNLP-20: Invited as PC Member.
 <br/><br/>

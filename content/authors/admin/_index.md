@@ -71,23 +71,22 @@ user_groups:
 ---
 
 I have joined [Microsoft Research India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/) as a Postdoctoral Researcher. 
-At MSRI, with Dr. Monojit Choudhury, I am developing models with logical reasoning capabilities required for natural language understanding (NLU). Specifically, 
-we ask: what reasoning capabilities are required for tasks such as Natural Language Inferencing? 
-Are neural models capable of performing such reasoning? Are there possible neuro-symbolic
-variants that may fill this gap? 
-Parallel to exploring neuro-symbolic methods under the lens of NLI, 
+At MSRI, with Dr. Monojit Choudhury, I am exploring different types of reasoning capabilities required for natural language understanding (NLU) 
+tasks; and developing logically coherent models that are capable of such reasoning. We explore both traditional neural models and possible neuro-symbolic
+variants. Parallel to exploring neuro(symbolic) methods under the lens of NLI, 
 I am also exploring multi-hop reasoning capabilities of neural methods in symbolic domains with Dr. Navin Goyal. 
 
-Overall, my central goal in research has been devloping models that are both data-driven, yet enriched by knowledge. Developing such models require three central considerations:
- knowledge acqusition, representation and reasoning. 
-While at MSRI, I am primarily focusing on reasoning capabilities, my former efforts had a higher concentration on the latter two. 
-I completed my Ph.D. in Computer Science from [CIDSE, Arizona State University](http://cidse.engineering.asu.edu/) on June 27, 2018.
+Overall, my central goal in research has been devloping models that are both data-driven, yet enriched by knowledge. 
+Developing such models require three central considerations: knowledge acqusition, representation and reasoning. 
+While at MSRI, I am primarily focusing on reasoning capabilities, efforts during my PhD had an equal distribution of both representation and reasoning. 
 For my doctoral studies, I worked on Image Understanding using a combination of Deep Learning, Commonsense Reasoning and Knowledge Representation Techniques under the 
 supervision of [Prof. Chitta Baral](http://www.public.asu.edu/~cbaral/) (Past President of KR.inc, 2016-2018). 
 I was also co-advised by [Dr. Yezhou Yang](http://yezhouyang.engineering.asu.edu/) (Assistant Professor, ASU). 
-My current efforts have been published in AAAI, IJCAI, UAI, NAACL, CVIU (journal), WACV.
+My current efforts have been published in AAAI, IJCAI, UAI, NAACL, CVIU (journal), WACV. 
+I completed my Ph.D. in Computer Science from [CIDSE, Arizona State University](http://cidse.engineering.asu.edu/) on June 27, 2018.
+
  
 I completed my Masters (ME) in Computer Science from the [Indian Institute of Science, Bangalore](http://www.csa.iisc.ernet.in/) in 2011 with a concentration in 
 Machine Learning under the supervision of [Prof. M Narasimha Murty](http://scholar.google.com/citations?user=VQZTmpcAAAAJ&hl=en) (Dean, Faculty of Engineering, IISc). 
-I have done my Bachelors in CS from Jadavpur University in 2009. 
-After a brief stint at Yahoo, I joined Strand Life Sciences where I worked in the NGS team for nearly 2.5 years before joining ASU to pursue PhD. 
+I have done my Bachelors in CS from Jadavpur University in 2009. Prior to joining PhD, I worked as a developer in the Next-Generation Sequencing (NGS) team at Strand Life Sciences 
+for nearly 2.5 years. 
