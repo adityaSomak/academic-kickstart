@@ -90,7 +90,7 @@ email = "saditya1@asu.edu"
 
 # Address
 # For country_code, use the 2-letter ISO code (see https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2 )
-address = {street = "Prestige Tech Park", city = "Bangalore", region = "KA", postcode = "560037", country = "India", country_code = "IN"}
+address = {street = "#9 Vigyan Lavelle Road", city = "Bangalore", region = "KA", postcode = "560001", country = "India", country_code = "IN"}
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
