@@ -22,18 +22,19 @@ multiple groups.
 - CSE-471 Introduction To Artificial Intelligence, Spring 2016
 - CSE-310 Data Structures and Algorithms, Spring 2015
 
-I collaborated with the following Masters Students:
+I collaborated with an amazing bunch of bright students (during their Post-graduate or under-graduate study):
 
-- Rudra Saha (2017 -- 2018), Graduated, MS Student, Computer Science, ASU, Currently Researcher@Verisk
+- [Rudra Saha](https://www.linkedin.com/in/saharudra/) (2017 -- 2018), Graduated, MS Student, Computer Science, ASU, Currently Researcher@Verisk
    - Spatial Knowledge Distillation to aid Visual Reasoning
-- Divyanshu Bandil (2016 -- 2017), Graduated MS Student, Computer Engineering. [linkedin profile](https://www.linkedin.com/in/divyanshubandil/)
-   - Visual Question Categorization. 
-   - Visual Question Answering in Dynamic Environments
-- Trideep Rath (2015 -- 2017), Graduated, MS, Computer Science, ASU. Currently Data Scientist, Kayak
+   - Thesis: [Multimodal Representation Learning for Visual Reasoning and Text-to-Image Translation](https://repository.asu.edu/items/51644)
+- [Divyanshu Bandil](https://www.linkedin.com/in/divyanshubandil/)(2016 -- 2017), Graduated MS Student, Computer Engineering. 
+   - Visual Question Categorization. Visual Question Answering in Dynamic Environments
+- [Trideep Rath](https://www.linkedin.com/in/trideeprath/) (2015 -- 2017), Graduated, MS, Computer Science, ASU. Currently Data Scientist, Kayak
    - Thesis: [Word and Relation Embedding for Sentence Representation](https://repository.asu.edu/attachments/186590/content/Rath_asu_0010N_17130.pdf)
 
 Internship Mentoring/Collaborating:
 
 - (2019) Pranil Joshi (IIT-B), Abhinav Mishra (IIT-G), Bhavy Khatri (IIT-K): Knowledge-sharing between Cross-domain Agents
     - Mentored with Kushal Chawla (USC), Sharmila Nangi Reddy
-    - (Feb 2020]) Patent accepted and to be filed in USPTO.
+    - (Feb 2020) Patent accepted and to be filed in USPTO.
+- (2020) Pratik Joshi, Aalok Sathe: TaxiNLI: Taking a ride up the NLU Hill.

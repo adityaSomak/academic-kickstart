@@ -13,7 +13,7 @@ image_preview = "headers/VQAFigure.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["deep-learning", "soft-logic"]`
-tags = ["deep-learning", "soft-logic", "Vision and Language"]
+tags = ["deep-learning", "soft-logic", "Vision and Language", "Vision", "Language"]
 
 # Optional external URL for project (replaces project detail page).
 external_link = "https://visionandreasoning.wordpress.com"
