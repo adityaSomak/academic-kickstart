@@ -10,7 +10,7 @@ publication = "In WACV 2019"
 publication_short = "In *WACV 2019*"
 selected = true
 title = "Spatial Knowledge Distillation to aid Visual Reasoning"
-url_pdf = ""
+url_pdf = "https://www.public.asu.edu/~cbaral/papers/2019-wacv.pdf"
 url_project = ""
 # url_slides = "#"
 

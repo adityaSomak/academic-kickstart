@@ -9,6 +9,7 @@ publication_types = ["1"]
 publication = "In AAAI 2020, StarAI Workshop"
 publication_short = "In *AAAI 2020, StarAI Workshp*"
 selected = true
+featured = false
 title = "Uncovering Relations for Marketing Knowledge Representation"
 url_pdf = "https://arxiv.org/pdf/1912.08374.pdf"
 url_project = ""

@@ -9,6 +9,7 @@ publication_types = ["1"]
 publication = "In AAAI 2018"
 publication_short = "In *AAAI 2018*"
 selected = true
+featured = true
 title = "Explicit Reasoning over End-to-End Neural Architectures"
 url_pdf = "http://www.public.asu.edu/~cbaral/papers/2018-aaai-psl.pdf"
 url_project = "https://visionandreasoning.wordpress.com"
@@ -16,9 +17,9 @@ url_project = "https://visionandreasoning.wordpress.com"
 
 
 # Optional featured image (relative to `static/img/` folder).
-[header]
-image = "headers/VQAFigure.png"
-caption = "My caption :smile:"
+# [header]
+# image = "headers/VQAFigure.png"
+# caption = "My caption :smile:"
 
 +++
 

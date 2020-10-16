@@ -10,7 +10,7 @@ subtitle = ""
 widget = "custom"
 
 # Order that this section will appear in.
-weight = 20
+weight = 30
 
 +++
 <script>
@@ -25,7 +25,7 @@ weight = 20
     })(jQuery);
 </script>
 
-<div class="mCustomScrollbar" data-mcs-theme="inset-dark" style="height:640px;width:850px;font:25px/30px;font-face: Inherit; overflow:auto;">
+<div class="mCustomScrollbar" data-mcs-theme="inset-dark" style="height:640px;width:100%;font:25px/30px;font-face: Inherit; overflow:auto;">
 :star: <span style="font-weight: bold;">[Sep 2020]</span>  CoNLL-2020: <a href="https://arxiv.org/abs/2009.14505">TaxiNLI: Taking a ride up the NLU Hill</a> accepted at CoNLL.
 <br/><br/>
 :star: <span style="font-weight: bold;">[Aug 2020]</span>  EACL-2021: Invited as PC Member.

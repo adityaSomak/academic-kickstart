@@ -77,10 +77,9 @@ Overall, my central goal in research has been devloping models that learns from 
 Developing such models require three central considerations: *knowledge acqusition*, *representation* and *reasoning*. 
 At MSRI and during my PhD, a fundamental observation was that, often an  equal measure of concentration is required for each application.
 
-During my doctoral studies, my efforts revolved around Image Understanding under the  
-supervision of [Prof. Chitta Baral](http://www.public.asu.edu/~cbaral/) (Past President of KR.inc, 2016-2018). 
+During my doctoral studies, my efforts revolved around Image Understanding under the supervision of [Prof. Chitta Baral](http://www.public.asu.edu/~cbaral/) (Past President of KR.inc, 2016-2018). 
 I was also co-advised by [Dr. Yezhou Yang](http://yezhouyang.engineering.asu.edu/) (Assistant Professor, ASU). 
-Through a combination of Deep Learning, Knowledge Representation and Probabilistic Logical Reasoning; I demonstrated the benefits of using reasoning and knowledge in Question-Answering (IJCAI, AAAI), Captioning (CVIU), puzzle solving (UAI) and visual reasoning (WACV). I completed my Ph.D. in Computer Science from [CIDSE, Arizona State University](http://cidse.engineering.asu.edu/) on June 27, 2018.
+Through a combination of Deep Learning, Knowledge Representation and Probabilistic Logical Reasoning; I demonstrated the benefits of using reasoning and knowledge in Visual Question-Answering (IJCAI, AAAI), Captioning (CVIU), image puzzle solving (UAI) and visual reasoning (WACV). I completed my Ph.D. in Computer Science from [CIDSE, Arizona State University](http://cidse.engineering.asu.edu/) on June 27, 2018.
 
  
 I completed my Masters (ME) in Computer Science from the [Indian Institute of Science, Bangalore](http://www.csa.iisc.ernet.in/) in 2011 with a concentration in 
