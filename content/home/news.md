@@ -26,7 +26,9 @@ weight = 30
 </script>
 
 <div class="mCustomScrollbar" data-mcs-theme="inset-dark" style="height:500px;width:100%;font:25px/30px;font-face: Inherit; overflow:auto;">
-<i class="fas fa-star fa-sm" style="color:gold;text-shadow:2px 2px 2px #000;"></i> <span style="font-weight: bold;">[Sep 2020]</span>  CoNLL-2020: <a href="https://github.com/microsoft/TaxiNLI">TaxiNLI</a> dataset released publicly!
+<i class="fas fa-star fa-sm" style="color:gold;text-shadow:2px 2px 2px #000;"></i> 
+<i class="fa fa-bullhorn" style="color:red;text-shadow:1px 1px 1px #000;"></i> 
+<span style="font-weight: bold;">[Sep 2020]</span>  CoNLL-2020: <a href="https://github.com/microsoft/TaxiNLI">TaxiNLI</a> dataset released publicly!
 <br/>
 <i class="fas fa-star fa-sm" style="color:gold;text-shadow:2px 2px 2px #000;"></i> <span style="font-weight: bold;">[Sep 2020]</span>  CoNLL-2020: <a href="https://arxiv.org/abs/2009.14505">TaxiNLI: Taking a ride up the NLU Hill</a> accepted at CoNLL.
 <br/>
@@ -36,7 +38,8 @@ weight = 30
 <br/>
 <i class="fas fa-star fa-sm" style="color:gold;text-shadow:2px 2px 2px #000;"></i> <span style="font-weight: bold;">[Mar 2020]</span>  LANTERN@COLING-20: Invited as PC Member.
 <br/>
-<i class="fas fa-star fa-sm" style="color:gold;text-shadow:2px 2px 2px #000;"></i> <span style="font-weight: bold;">[Feb 2020]</span>  Joined MSR India as a Postdoc Researcher.
+<i class="fas fa-star fa-sm" style="color:gold;text-shadow:2px 2px 2px #000;"></i> <i class="fa fa-bullhorn" style="color:red;text-shadow:1px 1px 1px #000;"></i> 
+<span style="font-weight: bold;">[Feb 2020]</span>  Joined MSR India as a Postdoc Researcher.
 <br/>
 <i class="fas fa-star fa-sm" style="color:gold;text-shadow:2px 2px 2px #000;"></i> <span style="font-weight: bold;">[Jan 2020]</span>  ACL-20: Invited as PC Member.
 <br/>
@@ -67,7 +70,7 @@ talks are avaibale at: <a href="https://sites.google.com/view/r2k2018/schedule">
 <br/>
 <i class="fas fa-star fa-sm" style="color:gold;text-shadow:2px 2px 2px #000;"></i> <span style="font-weight: bold;">[Aug 2018]</span>  UAI-18: We presented this <a href="https://drive.google.com/file/d/1ZwNZDw656IHWb4FLb0pcDltn9rrTHZlg/view?usp=sharing">poster</a> for "Combining Knowledge and Reasoning through Probabilistic Soft Logic for Image Puzzle Solving" in UAI 2018.
 <br/>
-<i class="fas fa-star fa-sm" style="color:gold;text-shadow:2px 2px 2px #000;"></i> <span style="font-weight: bold;">[June 2018]</span>  Successfully defended my thesis. My slides are available on <a href="https://www.dropbox.com/s/xzkr2c7r95wgkpq/PhDDefenseTalk2018.pdf?dl=0">dropbox</a>.
+<i class="fas fa-star fa-sm" style="color:gold;text-shadow:2px 2px 2px #000;"></i> <i class="fa fa-bullhorn" style="color:red;text-shadow:1px 1px 1px #000;"></i> <span style="font-weight: bold;">[June 2018]</span>  Successfully defended my thesis. My slides are available on <a href="https://www.dropbox.com/s/xzkr2c7r95wgkpq/PhDDefenseTalk2018.pdf?dl=0">dropbox</a>.
 <br/>
 <i class="fas fa-star fa-sm" style="color:gold;text-shadow:2px 2px 2px #000;"></i> <span style="font-weight: bold;">[June 2018]</span> Published the Image Riddles code for public use that was used in UAI-18 work. Visit <a href="https://github.com/adityaSomak/ImageRiddleSolving">Github</a>.
 <br/>
