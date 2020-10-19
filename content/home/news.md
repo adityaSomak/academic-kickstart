@@ -102,7 +102,7 @@ talks are avaibale at: <a href="https://sites.google.com/view/r2k2018/schedule">
 <br/>
   <i class="fas fa-star fa-sm" style="color:gold;text-shadow:2px 2px 2px #000;"></i> <span style="font-weight: bold;">[July 2017]</span>  Work on Image Riddles accepted as Extended Abstract on <a href="http://www.visionmeetscognition.org/schedule.html">Vision Meets Cognition Workshop, CVPR 2017</a>.
 <br/>
-<i class="fas fa-star fa-sm" style="color:gold;text-shadow:2px 2px 2px #000;"></i> <span style="font-weight: bold;">[May 2017]</span>  Thesis proposal accepted, and officially advanced to candidacy.
+<i class="fas fa-star fa-sm" style="color:gold;text-shadow:2px 2px 2px #000;"></i> <i class="fa fa-bullhorn" style="color:red;text-shadow:1px 1px 1px #000;"></i> <span style="font-weight: bold;">[May 2017]</span>  Thesis proposal accepted, and officially advanced to candidacy.
 <br/>
 <i class="fas fa-star fa-sm" style="color:gold;text-shadow:2px 2px 2px #000;"></i> <span style="font-weight: bold;">[May 2017]</span>  Joined JDE, Verisk Analytics as Cognitive Analytics and Machine Learning Research Intern, under Dr. Maneesh Singh, Director, JDE, Cognitive Analytics.
 <br/>

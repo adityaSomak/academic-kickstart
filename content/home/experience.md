@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 90  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -27,7 +27,7 @@ date_format = "Jan 2006"
   location = "Bangalore"
   date_start = "2020-02-24"
   date_end = ""
-  description = """ I am continuing my explorations on different aspects of knowledge integration approaches to natural language inferencing with Dr. Monojit Choudhury. I will be also exploring few fundamental problems such as structure learning in probabilistic logic
+  description = """ I am continuing my explorations on different aspects of knowledge integration approaches to natural language inferencing with Dr. Monojit Choudhury. I will be also exploring few fundamental problems such as structure learning in probabilistic logic.
   """
   
 [[experience]]
