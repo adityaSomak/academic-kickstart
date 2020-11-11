@@ -11,7 +11,7 @@ publication_short = "In *CoNLL 2020*"
 selected = true
 featured = true
 title = "TaxiNLI: Taking a Ride up the NLU Hill"
-url_pdf = "https://arxiv.org/abs/2009.14505"
+url_pdf = "https://www.aclweb.org/anthology/2020.conll-1.4/"
 url_project = ""
 # url_slides = "#"
 
