@@ -74,7 +74,7 @@ I have joined [Microsoft Research India](https://www.microsoft.com/en-us/researc
 At MSRI, with Dr. Monojit Choudhury, I am exploring *evaluation* and *enhancement* of Neural language models using the combined theories of Language and Logic. Our exploration leads us to consider both traditional neural models and neuro-symbolic variants. Parallel to exploring neuro(symbolic) methods in the context of NLI, I am also exploring multi-hop reasoning capabilities of neural methods in symbolic domains with Dr. Navin Goyal. 
 
 Overall, my central goal in research has been devloping models that learns from data, yet enriched by knowledge and capable of reasoning with such knowledge. 
-Developing such models require three central considerations: *knowledge acqusition*, *representation* and *reasoning*. 
+Developing such models require three central considerations: *knowledge acquisition*, *representation* and *reasoning*. 
 At MSRI and during my PhD, a fundamental observation was that, often an  equal measure of concentration is required for each application.
 
 During my doctoral studies, my efforts revolved around Image Understanding under the supervision of [Prof. Chitta Baral](http://www.public.asu.edu/~cbaral/) (Past President of KR.inc, 2016-2018). 
