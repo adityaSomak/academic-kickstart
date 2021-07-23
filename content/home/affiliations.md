@@ -34,6 +34,10 @@ Industrial Organizations
 <div>
 <ul class="fa-ul">
 <li>
+<i class="fa-li fas fa-briefcase fa-xs" style="color:black;"></i> Postdoc Researcher, Microsoft Research India
+under <a href=https://www.microsoft.com/en-us/research/people/monojitc/>Dr. Monojit Choudhury</a>
+</li>
+<li>
 <i class="fa-li fas fa-briefcase fa-xs" style="color:black;"></i> Cognitive Analytics and Machine Learning Research Intern, JDE, Verisk Analytics
 under <a href=https://www.linkedin.com/in/maneesh-singh-phd-3523ab9/>Dr. Maneesh Singh</a>, Director, Cognitive Analytics
 </li>
@@ -55,17 +59,18 @@ Universities
 <div>
 <ul class="fa-ul">
 <li>
-<i class="fa-li fas fa-graduation-cap fa-xs" style="color:black;"></i> <a href=http://cidse.engineering.asu.edu/>[Computer Science, Arizona State University</a>
+<i class="fa-li fas fa-graduation-cap fa-xs" style="color:black;"></i> <a href=http://cidse.engineering.asu.edu/>Computer Science, Arizona State University</a>
 <ul>
-<li>ASU Computer Science Ranking rises. Read <a href=https://engineering.asu.edu/factbook/rankings/>here</a> and <a href=https://asunow.asu.edu/content/asu-computer-science-program-sees-rise-reputation>here</a>.</li>
+<!-- <li>ASU Computer Science Ranking rises. Read <a href=https://engineering.asu.edu/factbook/rankings/>here</a> and <a href=https://asunow.asu.edu/content/asu-computer-science-program-sees-rise-reputation>here</a>.
+</li> -->
 </ul>
 </li>
 <li>
 <i class="fa-li fas fa-graduation-cap fa-xs" style="color:black;"></i> <a href=http://www.csa.iisc.ernet.in/>Indian Institute of Science, Bangalore. India</a>
 <ul>
-<li>
+<!-- <li>
 IISc Bangalore Makes Indian Debut in top 100 World university (THE ranking). Read <a href=http://indianexpress.com/article/india/india-news-india/iisc-makes-indian-debut-in-top-100-world-university-ranking/>Here</a>.
-</li>
+</li> -->
 </ul>
 </li>
 <li>
@@ -74,4 +79,4 @@ IISc Bangalore Makes Indian Debut in top 100 World university (THE ranking). Rea
 </ul>
 </div>
 
-{{< figure src="/img/affiliations.png" title="" width="80%">}}
+<!-- {{< figure src="/img/affiliations.png" title="" width="80%">}} -->

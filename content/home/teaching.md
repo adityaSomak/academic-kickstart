@@ -32,9 +32,11 @@ I collaborated with an amazing bunch of bright students (during their Post-gradu
 - [Trideep Rath](https://www.linkedin.com/in/trideeprath/) (2015 -- 2017), Graduated, MS, Computer Science, ASU. Currently Data Scientist, Kayak
    - Thesis: [Word and Relation Embedding for Sentence Representation](https://repository.asu.edu/attachments/186590/content/Rath_asu_0010N_17130.pdf)
 
-Internship Mentoring/Collaborating:
+Internship Collaborating/Mentoring:
 
+- (2021) Ishan Tarunesh: CheckList NLI Project
+- (2021) Vishesh Agarwal: Polynomial Simplification Project
+- (2020) Pratik Joshi, Aalok Sathe: TaxiNLI: Taking a ride up the NLU Hill.
 - (2019) Pranil Joshi (IIT-B), Abhinav Mishra (IIT-G), Bhavy Khatri (IIT-K): Knowledge-sharing between Cross-domain Agents
     - Mentored with Kushal Chawla (USC), Sharmila Nangi Reddy
     - (Feb 2020) Patent accepted and to be filed in USPTO.
-- (2020) Pratik Joshi, Aalok Sathe: TaxiNLI: Taking a ride up the NLU Hill.
