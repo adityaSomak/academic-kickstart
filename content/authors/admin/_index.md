@@ -70,19 +70,19 @@ user_groups:
 - Visitors
 ---
 
-I have joined [Microsoft Research India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/) as a Postdoctoral Researcher. 
-At MSRI, with Dr. Monojit Choudhury, I am exploring *evaluation* and *enhancement* of Neural language models using the combined theories of Language and Logic. Our exploration leads us to consider both traditional neural models and neuro-symbolic variants. Parallel to exploring neuro(symbolic) methods in the context of NLI, I am also exploring multi-hop reasoning capabilities of neural methods in symbolic domains with Dr. Navin Goyal. 
+I am a Postdoctoral Researcher at [Microsoft Research India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/). 
+At MSRI, with Dr. Monojit Choudhury, I am exploring *evaluation* and *enhancement* of reasoning capabilities of Neural language models. Our exploration leads us to consider both traditional neural models and neuro-symbolic variants. Parallel to exploring neuro(symbolic) methods in the context of NLI, I am also exploring multi-hop reasoning capabilities of neural methods in symbolic domains with Dr. Navin Goyal. 
 
-Overall, my central goal in research has been devloping models that learns from data, yet enriched by knowledge and capable of reasoning with such knowledge. 
+Overall, my research is driven by three fundamental hypotheses: 1) knowledge and reasoning is fundamental to machine understanding, 2) different types of reasoning may require different types of methods and 3) knowledge and reasoning plays an important role in interpretability and extrinsic human-AI trust establishment. During my PhD (from [CIDSE, Arizona State University](http://cidse.engineering.asu.edu/)), under the supervision of [Prof. Chitta Baral](http://www.public.asu.edu/~cbaral/) and [Prof. Yezhou Yang](http://yezhouyang.engineering.asu.edu/), I have explored the first hypothesis in the context of image understanding. Through a combination of Deep Learning, Knowledge Representation and Probabilistic Logical Reasoning; I demonstrated the benefits of using reasoning and knowledge in Visual Question-Answering (IJCAI, AAAI), Captioning (CVIU), image puzzle solving (UAI) and visual reasoning (WACV). During my PostDoc, I have concentrated more on the second and third hypotheses. In future, I aspire to strike a balance as all three hypotheses are in many ways inter-dependent.
+
+<!-- my agenda in research is to devlop models that simultaneously learns from data, while being enriched by knowledge and capable of reasoning with such knowledge. 
 Developing such models require three central considerations: *knowledge acquisition*, *representation* and *reasoning*. 
-At MSRI and during my PhD, a fundamental observation was that, often an  equal measure of concentration is required for each application.
+At MSRI and during my PhD, a fundamental observation was that, often an  equal measure of concentration is required for each application. -->
 
-During my doctoral studies, my efforts revolved around Image Understanding under the supervision of [Prof. Chitta Baral](http://www.public.asu.edu/~cbaral/) (Past President of KR.inc, 2016-2018). 
-I was also co-advised by [Dr. Yezhou Yang](http://yezhouyang.engineering.asu.edu/) (Assistant Professor, ASU). 
-Through a combination of Deep Learning, Knowledge Representation and Probabilistic Logical Reasoning; I demonstrated the benefits of using reasoning and knowledge in Visual Question-Answering (IJCAI, AAAI), Captioning (CVIU), image puzzle solving (UAI) and visual reasoning (WACV). I completed my Ph.D. in Computer Science from [CIDSE, Arizona State University](http://cidse.engineering.asu.edu/) on June 27, 2018.
-
+<!-- I completed my Ph.D. in Computer Science from [CIDSE, Arizona State University](http://cidse.engineering.asu.edu/). During my doctoral studies, 
+Through a combination of Deep Learning, Knowledge Representation and Probabilistic Logical Reasoning; I demonstrated the benefits of using reasoning and knowledge in Visual Question-Answering (IJCAI, AAAI), Captioning (CVIU), image puzzle solving (UAI) and visual reasoning (WACV). -->
  
-I completed my Masters (ME) in Computer Science from the [Indian Institute of Science, Bangalore](http://www.csa.iisc.ernet.in/) in 2011 with a concentration in 
+<!-- I completed my Masters (ME) in Computer Science from the [Indian Institute of Science, Bangalore](http://www.csa.iisc.ernet.in/) in 2011 with a concentration in 
 Machine Learning under the supervision of [Prof. M Narasimha Murty](http://scholar.google.com/citations?user=VQZTmpcAAAAJ&hl=en) (Dean, Faculty of Engineering, IISc). 
 I have done my Bachelors in CS from Jadavpur University in 2009. Prior to joining PhD, I worked as a developer in the Next-Generation Sequencing (NGS) team at Strand Life Sciences 
-for nearly 2.5 years. 
+for nearly 2.5 years.  -->
