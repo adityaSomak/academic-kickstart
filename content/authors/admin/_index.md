@@ -20,22 +20,22 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include integrating knowledge and enabling higher-order reasoning in AI.
 
-interests:
-- Knowledge Representation and Reasoning
-- Probabilistic Logical Reasoning
-- Natural Language Processing
+# interests:
+# - Knowledge Representation and Reasoning
+# - Probabilistic Logical Reasoning
+# - Natural Language Processing
 
-education:
-  courses:
-  - course: PhD in Computer Science
-    institution: Arizona State University
-    year: 2018
-  - course: MEng in Computer Science
-    institution: Indian Institute of Science, Bangalore
-    year: 2011
-  - course: BE in Computer Science
-    institution: Jadavpur University, Kolkata
-    year: 2009
+# education:
+#   courses:
+#   - course: PhD in Computer Science
+#     institution: Arizona State University
+#     year: 2018
+#   - course: MEng in Computer Science
+#     institution: Indian Institute of Science, Bangalore
+#     year: 2011
+#   - course: BE in Computer Science
+#     institution: Jadavpur University, Kolkata
+#     year: 2009
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
