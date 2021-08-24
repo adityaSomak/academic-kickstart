@@ -11,7 +11,7 @@ publication_short = "In *IJCAI, 2015*"
 selected = true
 title = "Towards Addressing the Winograd Schema Challenge-Building and Using a Semantic Parser and a Knowledge Hunting Module."
 url_pdf = "http://www.aaai.org/ocs/index.php/IJCAI/IJCAI15/paper/download/11096/10846"
-url_project = "https://kparser.org"
+url_demo = "https://kparser.org"
 # url_slides = "#"
 
 

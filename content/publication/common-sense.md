@@ -11,7 +11,7 @@ publication_short = "In *AAAI Spring Symposium, 2015*"
 selected = true
 title = "Visual common-sense for scene understanding using perception, semantic parsing and reasoning."
 url_pdf = "http://www.public.asu.edu/~cbaral/papers/cs2015vision.pdf"
-url_project = "#"
+# url_project = "#"
 url_slides = "pdf/commonsense15.pdf"
 
 # Optional featured image (relative to `static/img/` folder).

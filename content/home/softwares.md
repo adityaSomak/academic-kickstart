@@ -8,6 +8,7 @@ draft = false
 title = "Softwares"
 subtitle = ""
 widget = "custom"
+active = false  # Activate this widget? true/false
 
 # Order that this section will appear in.
 weight = 75

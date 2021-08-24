@@ -1,4 +1,19 @@
-+++
+---
+title: Teaching and Mentoring 
+
+# View.
+#   1 = List
+#   2 = Compact
+#   3 = Card
+#   4 = Citation
+# view: 2
+
+# Optional header image (relative to `static/img/` folder).
+header:
+  caption: ""
+  image: ""
+---
+<!-- +++
 # An example of using the custom widget to create your own homepage section.
 # To create more sections, duplicate this file and edit the values below as desired.
 
@@ -8,12 +23,11 @@ draft = false
 title = "Teaching and Mentoring"
 subtitle = ""
 widget = "custom"
-active = false  # Activate this widget? true/false
 
 # Order that this section will appear in.
 weight = 100
 
-+++
++++ -->
 
 I have served as a teaching assistant for the following courses at Arizona State University:
 

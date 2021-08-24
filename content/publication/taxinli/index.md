@@ -12,7 +12,7 @@ selected = true
 featured = true
 title = "TaxiNLI: Taking a Ride up the NLU Hill"
 url_pdf = "https://www.aclweb.org/anthology/2020.conll-1.4/"
-url_project = "https://github.com/microsoft/TaxiNLI"
+url_dataset = "https://github.com/microsoft/TaxiNLI"
 url_slides = "https://slideslive.com/38939466/taxinli-taking-a-ride-up-the-nlu-hill"
 
 
