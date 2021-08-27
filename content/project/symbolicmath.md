@@ -23,6 +23,17 @@ math = false
 
 +++
 
-In a recent work ([PolySimp ICLR 2021 MathAI Workshop](https://mathai-iclr.github.io/papers/papers/MATHAI_6_paper.pdf)) with Navin Goyal and Vishesh Agarwal, we explore Transformers' abilities to perform multiple-step reasoning in well-defined purely symbolic tasks such as step-wise polynomial simplification.  Polynomials can be written in a simple normal form as a sum of monomials which are ordered in a lexicographic order. For a polynomial which is not necessarily in this normal form, a sequence of simplification steps is applied to reach the fully simplified (i.e., in the normal form) polynomial. We propose a synthetic Polynomial dataset generation algorithm that generates polynomials with unique proof steps. Through varying coefficient configurations, input representation, proof granularity, and extensive hyper-parameter tuning, we observe that
-Transformers consistently struggle with numeric multiplication. We explore two ways to mitigate this: Curriculum Learning and a Symbolic Calculator approach
-(where the numeric operations are offloaded to a calculator). Both approaches provide significant gains over the vanilla Transformers-based baseline
+In a recent work ([PolySimp ICLR 2021 MathAI Workshop](https://mathai-iclr.github.io/papers/papers/MATHAI_6_paper.pdf)) with Navin Goyal and Vishesh Agarwal, we explored Transformers' abilities to perform multiple-step reasoning in well-defined purely symbolic tasks such as step-wise polynomial simplification.  Polynomials can be written in a simple normal form as a sum of monomials which are ordered in a lexicographic order. For a polynomial which is not necessarily in this normal form, a sequence of simplification steps is applied to reach the fully simplified (i.e., in the normal form) polynomial. We propose a synthetic Polynomial dataset generation algorithm that generates polynomials with unique proof steps. 
+
+Through varying coefficient configurations, input representation, proof granularity, and extensive hyper-parameter tuning, we observe that Transformers consistently struggle with numeric multiplication. We explore two ways to mitigate this: Curriculum Learning and a Symbolic Calculator approach (where the numeric operations are offloaded to a calculator). Both approaches provide significant gains over the vanilla Transformers-based baseline.
+
+
+<div>
+<div id="References" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><h3 style="margin-bottom:0px;">References</h3>
+<hr style="float: center"></div>
+</div>
+<ul>
+<li>
+Vishesh Agarwal, Somak Aditya, Navin Goyal. Analyzing the Nuances of Transformers' Polynomial Simplification Abilities. ICLR 2021 MathAI Workshop. 
+</li>
+</ul>
