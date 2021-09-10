@@ -29,7 +29,9 @@ weight = 100
 
 +++ -->
 
-I have served as a teaching assistant for the following courses at Arizona State University:
+<h3> Teaching </h3>
+<hr style="float: center">
+Teaching Assistant Duties:
 
 - CSE-576 Natural Language Processing, Fall 2015 and Fall 2016
    - Responsibilities included: Creating Homework assignments, proposing class projects, and mentoring
@@ -37,7 +39,19 @@ multiple groups.
 - CSE-471 Introduction To Artificial Intelligence, Spring 2016
 - CSE-310 Data Structures and Algorithms, Spring 2015
 
-I collaborated with an amazing bunch of bright students (during their Post-graduate or under-graduate study):
+
+<h3> Mentoring (Post Ph.D) </h3>
+<hr style="float: center">
+
+- (2021) Ishan Tarunesh: CheckList NLI Project
+- (2021) Vishesh Agarwal: Polynomial Simplification Project
+- (2020) Pratik Joshi, Aalok Sathe: TaxiNLI: Taking a ride up the NLU Hill.
+- (2019) Pranil Joshi (IIT-B), Abhinav Mishra (IIT-G), Bhavy Khatri (IIT-K): Knowledge-sharing between Cross-domain Agents
+    - Mentored with Kushal Chawla (USC), Sharmila Nangi Reddy
+    - (Feb 2020) Patent accepted and to be filed in USPTO.
+
+<h3> Mentoring (During Ph.D) </h3>
+<hr style="float: center">
 
 - [Rudra Saha](https://www.linkedin.com/in/saharudra/) (2017 -- 2018), Graduated, MS Student, Computer Science, ASU, Currently Researcher@Verisk
    - Spatial Knowledge Distillation to aid Visual Reasoning
@@ -46,12 +60,3 @@ I collaborated with an amazing bunch of bright students (during their Post-gradu
    - Visual Question Categorization. Visual Question Answering in Dynamic Environments
 - [Trideep Rath](https://www.linkedin.com/in/trideeprath/) (2015 -- 2017), Graduated, MS, Computer Science, ASU. Currently Data Scientist, Kayak
    - Thesis: [Word and Relation Embedding for Sentence Representation](https://repository.asu.edu/attachments/186590/content/Rath_asu_0010N_17130.pdf)
-
-Internship Collaborating/Mentoring:
-
-- (2021) Ishan Tarunesh: CheckList NLI Project
-- (2021) Vishesh Agarwal: Polynomial Simplification Project
-- (2020) Pratik Joshi, Aalok Sathe: TaxiNLI: Taking a ride up the NLU Hill.
-- (2019) Pranil Joshi (IIT-B), Abhinav Mishra (IIT-G), Bhavy Khatri (IIT-K): Knowledge-sharing between Cross-domain Agents
-    - Mentored with Kushal Chawla (USC), Sharmila Nangi Reddy
-    - (Feb 2020) Patent accepted and to be filed in USPTO.

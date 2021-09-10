@@ -58,3 +58,8 @@ a {
     font-family: 'IM Fell Great Primer', serif;
     font-style: italic;
 }
+
+.card-simple {
+    background: #f8f9f9;
+    padding: 10px 15px;
+}
