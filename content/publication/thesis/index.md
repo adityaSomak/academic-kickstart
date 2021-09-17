@@ -9,6 +9,7 @@ publication_types = ["7"]
 publication = "In Ph.D Dissertation 2018"
 publication_short = "In *Ph.D Dissertation, Defended 2018*"
 selected = true
+projects = ["Vision", "NLP"]
 title = "Knowledge and Reasoning for Image Understanding"
 url_pdf = "https://repository.asu.edu/items/50115"
 url_project = ""

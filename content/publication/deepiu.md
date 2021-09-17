@@ -10,6 +10,7 @@ publication = "In  Advances in Cognitive Systems (ACS) 4 (2016)"
 publication_short = "In *ACS, 2016*"
 selected = true
 title = "DeepIU: An Architecture for Image Understanding"
+projects = ["Vision", "NLP"]
 url_pdf = "http://www.public.asu.edu/~cbaral/papers/acs2016.pdf"
 url_project = "https://imagesdg.wordpress.com/image-to-scene-description-graph/"
 url_slides = "pdf/DeepIU.pdf"

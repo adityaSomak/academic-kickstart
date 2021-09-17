@@ -11,6 +11,7 @@ publication_short = "In *AAAI 2018*"
 selected = true
 featured = true
 title = "Explicit Reasoning over End-to-End Neural Architectures"
+projects = ["Vision", "NLP"]
 url_pdf = "http://www.public.asu.edu/~cbaral/papers/2018-aaai-psl.pdf"
 url_project = "https://visionandreasoning.wordpress.com"
 url_code = "https://github.com/adityaSomak/PSLQA"

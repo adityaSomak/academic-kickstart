@@ -10,6 +10,7 @@ publication = "In IJCAI 2019"
 publication_short = "In *IJCAI 2019*"
 selected = true
 title = "Integrating Knowledge and Reasoning in Image Understanding"
+projects = ["Vision", "NLP"]
 url_pdf = "https://www.ijcai.org/proceedings/2019/0873.pdf"
 url_project = ""
 # url_slides = "#"

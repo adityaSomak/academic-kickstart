@@ -11,6 +11,7 @@ publication_short = "In *USPTO 2021*"
 selected = true
 featured = false
 title = "Creating a knowledge graph based on text-based knowledge corpora"
+projects = ["NLP"]
 url_pdf = "https://patents.google.com/patent/US20210117509A1/en"
 url_project = ""
 # url_slides = "#"

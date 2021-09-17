@@ -3,7 +3,7 @@
 date = "2016-02-24"
 
 # Project title.
-title = "Natural Language Processing"
+title = "Reasoning in NLP"
 
 # Project summary to display on homepage.
 summary = "We investigate how to evaluate, explain and enhance neural models under the lens of reasoning."

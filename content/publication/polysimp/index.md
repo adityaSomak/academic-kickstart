@@ -11,6 +11,7 @@ publication_short = "In *ICLR 2021 MathAI*"
 selected = true
 featured = true
 title = "Analyzing the Nuances of Transformers' Polynomial Simplification Abilities"
+projects = ["symbolicmath"]
 url_pdf = "https://mathai-iclr.github.io/papers/papers/MATHAI_6_paper.pdf"
 url_poster = "https://mathai-iclr.github.io/papers/posters/MATHAI_6_poster.pdf"
 url_video = "https://www.youtube.com/watch?v=Qjh76c3_qLI&feature=youtu.be"

@@ -10,6 +10,7 @@ publication = "In The 3rd Workshop on EVENTS: Definition, Detection, Coreference
 publication_short = "In *NAACL-HLT 2015 Workshop on EVENTS*"
 selected = true
 title = "Identifying various kinds of event mentions in k-parser output"
+projects = ["NLP"]
 url_pdf = "https://aclanthology.org/W15-0811.pdf"
 # url_demo = "https://kparser.org"
 # url_slides = "#"

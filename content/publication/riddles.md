@@ -10,6 +10,7 @@ publication = "In UAI. 2018"
 publication_short = "In *UAI 2018*"
 selected = true
 title = "Combining Knowledge and Reasoning through Probabilistic Soft Logic for Image Puzzle Solving"
+projects = ["Vision", "NLP"]
 url_pdf = "http://auai.org/uai2018/proceedings/papers/83.pdf"
 url_project = "https://imageriddle.wordpress.com/imageriddle/"
 url_code = "https://github.com/adityaSomak/ImageRiddleSolving"
