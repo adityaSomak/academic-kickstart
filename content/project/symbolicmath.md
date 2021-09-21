@@ -28,7 +28,7 @@ In a recent work ([PolySimp ICLR 2021 MathAI Workshop](https://mathai-iclr.githu
 Through varying coefficient configurations, input representation, proof granularity, and extensive hyper-parameter tuning, we observe that Transformers consistently struggle with numeric multiplication. We explore two ways to mitigate this: Curriculum Learning and a Symbolic Calculator approach (where the numeric operations are offloaded to a calculator). Both approaches provide significant gains over the vanilla Transformers-based baseline.
 
 
-<div>
+<!-- <div>
 <div id="References" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><h3 style="margin-bottom:0px;">References</h3>
 <hr style="float: center"></div>
 </div>
@@ -36,4 +36,4 @@ Through varying coefficient configurations, input representation, proof granula
 <li>
 Vishesh Agarwal, Somak Aditya, Navin Goyal. Analyzing the Nuances of Transformers' Polynomial Simplification Abilities. ICLR 2021 MathAI Workshop. 
 </li>
-</ul>
+</ul> -->

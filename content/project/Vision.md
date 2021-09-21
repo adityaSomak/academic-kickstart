@@ -35,7 +35,7 @@ We have proposed instantiations of this abstract architecture to solve image puz
 Later on, for an end-to-end (differentiable) integration of spatial knowledge, we explore a combination of knowledge distillation, probabilistic logic, and relational network in our [WACV 2019 CLEVR](https://www.public.asu.edu/~cbaral/papers/2019-wacv.pdf).
 
 
-<div>
+<!-- <div>
 <div id="References" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><h3 style="margin-bottom:0px;">References</h3>
 <hr style="float: center"></div>
 </div>
@@ -67,4 +67,4 @@ Somak Aditya, Yezhou Yang, Chitta Baral, Cornelia Fermuller, Yiannis Aloimonos. 
 <li>
 Somak Aditya, Yiannis Aloimonos, Chitta Baral, Cornelia Fermuller and Yezhou Yang. Visual common-sense for scene understanding using perception, semantic parsing and reasoning. Common-sense 2015, AAAI 2015 Spring Symposium. (Appenidix with code.)
 </li>
-</ul>
+</ul> -->

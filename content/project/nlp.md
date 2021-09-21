@@ -23,7 +23,7 @@ math = false
 
 +++
 
-Using Natural Language Inference task (NLI) as a representative task for natural language understanding (NLU), my goal is the *evaluate*, *enhance* and *explain* the reasoning capabilities of language models.
+Models that claim to understand language, should also be able to demonstrate its abilities to reason across various dimensions. My present goal is to *evaluate*, *enhance* and *explain* the reasoning capabilities of such systems (or language models).
 
 <h3> Natural Language Inference </h3>
 Large pre-trained language models show high performance in popular NLP benchmarks (GLUE, SuperGLUE), while failing poorly in datasets with targeted linguistic and logical phenomena. We consolidate the interesting reasoning phenomena
@@ -32,10 +32,13 @@ in Taxonomy of reasoning w.r.t the NLI task. Our first work along this line publ
 We did a follow-up, adapting the CheckList methodology, where we create a large [CheckList-NLI](https://arxiv.org/abs/2107.07229) dataset to individually yet collectively test different reasoning capabilities, including pragmatic ones. Through our test-suite, we show that such a post-hoc evaluation provides a more comprehensive overview of the behavioral nature of the language models. A thorough human study with Linguistic Olympiad participants shows that behavioral summary leads to better explanation and RoBERTa's behavior is more predictable than BERT.
 
 <hr style="width:100%;text-align:left;margin-left:0">
-<h3> Semantic Parsing </h3>
-We (along with co-authors Arpit Sharma and Nguyen Vo) have explored mapping of natural language to formal representation, that enbales logical reasoning. Through several papers ([K-Parser IJCAI-15](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.717.6262&rep=rep1&type=pdf), [K-Parser NAACL 15](https://aclanthology.org/W15-0811.pdf)), we showed how such semantic parsing enables us to find event mentions, and (even patially but interpretably) solved Winograd Schema challenge problems.
 
-<div>
+Previously I have been interested in mapping natural language to formal language representation and reasoning with it. My proposed solutions towards Question-Answering and Winograd Schema Challenge during my Ph.D have been motivated by the central idea of semantic parsing, followed by logical (or probabilistic logical) reasoning.
+
+<h3> Semantic Parsing (K-Parser) </h3>
+We (led by co-authors Arpit Sharma and Nguyen Vo) have explored mapping of natural language to formal representation, that enbales logical reasoning. Through several papers ([K-Parser IJCAI-15](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.717.6262&rep=rep1&type=pdf), [K-Parser NAACL 15](https://aclanthology.org/W15-0811.pdf)), we showed how such semantic parsing enables us to find event mentions, and (even patially but interpretably) solved Winograd Schema challenge problems.
+
+<!-- <div>
 <div id="References" align="left" style="width: 100%; overflow-y: hidden;" class="wcustomhtml"><h3 style="margin-bottom:0px;">References</h3>
 <hr style="float: center"></div>
 </div>
@@ -51,7 +54,7 @@ Somak Aditya, Chitta Baral, Nguyen Ha Vo, Joohyung Lee, Jieping Ye, Zaw Naung, B
 </li><li>
 Arpit Sharma, Nguyen H. Vo, Somak Aditya and Chitta Baral. Identifying Various Kinds of Event Mentions in K-Parser Output The 3rd Workshop on EVENTS: Definition, Detection, Coreference, and Representation. HLT-NAACL 2015.
 </li>
-</ul>
+</ul> -->
 
 
 
