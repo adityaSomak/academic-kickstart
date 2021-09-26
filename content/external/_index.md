@@ -1,5 +1,5 @@
 ---
-title: External (Collaborations, Affiliations) 
+title: Collaborations and Affiliations
 
 # View.
 #   1 = List
@@ -29,17 +29,18 @@ weight = 100
 
 +++ -->
 
-<h3> Collaborators (Present and past) </h3>
+<h3> Collaborators </h3>
 <hr style="float: center">
 <ul class="fa-ul">
-<li><i class="fa-li fas fa-star fa-xs" style="color:black;"></i> Dr. Monojit Choudhury, Microsoft Research India </li>
+<li><i class="fa-li fas fa-star fa-xs" style="color:black;"></i> (Ph.D Advisor) Prof. Chitta Baral, Arizona State University, USA </li>
+<li><i class="fa-li fas fa-star fa-xs" style="color:black;"></i> (Ph.D Advisor) Prof. Yezhou Yang, Arizona State University, USA </li>
+<li><i class="fa-li fas fa-star fa-xs" style="color:black;"></i> (Ph.D Committee Member and Mentor) Prof. Yiannis Aloimonos, UMD College Park, USA </li>
+<li><i class="fa-li fas fa-star fa-xs" style="color:black;"></i> (PostDoc Advisor) Dr. Monojit Choudhury, Microsoft Research, India </li>
 <li><i class="fa-li fas fa-star fa-xs" style="color:black;"></i> Dr. Navin Goyal, Microsoft Research India </li>
-<li><i class="fa-li fas fa-star fa-xs" style="color:black;"></i> Dr. Atanu Sinha, Adobe Research India </li>
-<li><i class="fa-li fas fa-star fa-xs" style="color:black;"></i> Prof. Chitta Baral, Arizona State University, USA </li>
-<li><i class="fa-li fas fa-star fa-xs" style="color:black;"></i> Prof. Yezhou Yang, Arizona State University, USA </li>
-<li><i class="fa-li fas fa-star fa-xs" style="color:black;"></i> Prof. Yiannis Aloimonos, UMD College Park, USA </li>
 <li><i class="fa-li fas fa-star fa-xs" style="color:black;"></i> Dr. Cornelia Fermüller, UMD College Park, USA </li>
 <li><i class="fa-li fas fa-star fa-xs" style="color:black;"></i> Dr. Maneesh Singh, Verisk Analyitics, NJ, USA </li>
+<li><i class="fa-li fas fa-star fa-xs" style="color:black;"></i> Prof. Jyothi Vedurada, IIT Hyderabad </li>
+<li><i class="fa-li fas fa-star fa-xs" style="color:black;"></i> Dr. Atanu Sinha, Adobe Research India </li>
 </ul>
 
 <h3>Past Affiliations</h3>
@@ -55,7 +56,7 @@ University labs
 <i class="fa-li fas fa-star fa-xs" style="color:black;"></i> <a href=http://yezhouyang.engineering.asu.edu/research-group/>Active Perception Group</a>, Arizona State University (Closely Affiliated with)
 </li>
 <li>
-<i class="fa-li fas fa-star fa-xs" style="color:black;"></i> <a href=http://prg.cs.umd.edu/>Perception and Robotics Group</a>, UMIACS, University of Maryland, College Park (closely collaborated with Prof. Yiannis Aloimonos, Dr. Cornelia Fermuller on several projects)
+<i class="fa-li fas fa-star fa-xs" style="color:black;"></i> <a href=http://prg.cs.umd.edu/>Perception and Robotics Group</a>, UMIACS, University of Maryland, College Park (closely collaborated with Prof. Yiannis Aloimonos, Dr. Cornelia Fermüller on several projects)
 </li>
 </ul>
 </div>
