@@ -29,7 +29,7 @@ weight = 100
 
 +++ -->
 
-I am actively looking to take motivated Ph.D, MTeach and BTech students who are interested in pursuing their thesis in the exciting juncture where classical AI, and statistical AI meets. For prospective students, please read the FAQs (will be updated). 
+I am actively looking to take motivated Ph.D, MTech, and BTech students who are interested in pursuing their thesis in the exciting juncture of classical and statistical AI. For prospective students, I have prepared some answers for some FAQs (will be updated).
 
 <h3> FAQs for Propsective Students </h3>
 <!-- Some answers are tailored towards Ph.D students; but should be applicable to MTech and BTech thesis students as well. 
@@ -74,8 +74,8 @@ The same goes for MTech and BTech students, in a somewhat fast-tracked way. Init
 </li> -->
 
 <li>
-<span style="font-weight: bold"> How do I apply or contact you? </span><br/>
-If you are interested, please send an inquiry to <a href="mailto:saditya1@asu.edu">my email</a>. Kindly mention which program at IIT KGP you are enrolled in. If you are not a KGP student, kindly visit the IIT Kharagpur website to see how to enroll in the Ph.D or Masters program. 
+<span style="font-weight: bold"> How do I contact you? </span><br/>
+If you are a IIT KGP student, please send an inquiry to <a href="mailto:saditya1@asu.edu">my email</a>. Kindly mention which program you are enrolled in. If you are not a KGP student, kindly visit the IIT Kharagpur website to see how to enroll in the Ph.D or Masters program. 
 
 <!-- <br/>
 Ph.D. Positions:   For details about PhD application procedure, please visit <a href="http://www.iitkgp.ac.in/phd">HERE</a>. <br/>
