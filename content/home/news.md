@@ -26,9 +26,9 @@ weight = 30
 </script>
 
 <div class="mCustomScrollbar" data-mcs-theme="inset-dark" style="height:500px;width:100%;font:24px/28px;font-face: Inherit; overflow:auto;">
-<i class="fas fa-star fa-xs" style="color:gold;text-shadow:2px 2px 2px #000;vertical-align: middle;"></i> <i class="fa fa-bullhorn" style="color:red;text-shadow:1px 1px 1px #000;"></i> <span style="font-weight: bold;">[Sep 2021]</span>  EMNLP 2021 (MRL 2021 workshop): Work on "Analyzing the Effects of Reasoning Types on Cross-Lingual Transfer Performance" accepted, with co-authors Karthikeyan K, Aalok Sathe and Monojit Choudhury.
+<i class="fas fa-star fa-xs" style="color:gold;text-shadow:2px 2px 2px #000;vertical-align: middle;"></i> <span style="font-weight: bold;">[Sep 2021]</span>  EMNLP 2021 (MRL 2021 workshop): Work on "Analyzing the Effects of Reasoning Types on Cross-Lingual Transfer Performance" accepted, with co-authors Karthikeyan K, Aalok Sathe and Monojit Choudhury.
 <br/>
-<i class="fas fa-star fa-xs" style="color:gold;text-shadow:2px 2px 2px #000;vertical-align: middle;"></i> <span style="font-weight: bold;">[Aug 2021]</span>  MILA Chandar Lab Reading Group: Invited as a speaker.
+<i class="fas fa-star fa-xs" style="color:gold;text-shadow:2px 2px 2px #000;vertical-align: middle;"></i> <span style="font-weight: bold;">[Aug 2021]</span>  MILA Philosopy of NLP Reading Group: Invited as a speaker.
 <br/>
 <i class="fas fa-star fa-xs" style="color:gold;text-shadow:2px 2px 2px #000;vertical-align: middle;"></i> <span style="font-weight: bold;">[Aug 2021]</span>  IndoML 2021: Invited to be a part of the organizing committee (specifically <a href="http://indoml.in/">datathon@IndoML</a>). See <a href="https://labs.iitgn.ac.in/datascience/indoml/">IndoML 2020</a> for reference.
 <br/>

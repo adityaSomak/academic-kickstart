@@ -12,7 +12,7 @@ selected = true
 featured = true
 title = "Analyzing the Effects of Reasoning Types on Cross-Lingual Transfer Performance"
 projects = ["nlp"]
-url_pdf = ""
+url_pdf = "https://sites.google.com/view/mrl-2021/program?authuser=0"
 url_dataset = "https://github.com/microsoft/TaxiXNLI"
 url_video = ""
 
