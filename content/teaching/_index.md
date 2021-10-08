@@ -43,9 +43,10 @@ multiple groups.
 <h3> Mentoring (Post Ph.D) </h3>
 <hr style="float: center">
 
-- (2021) Ishan Tarunesh: CheckList NLI Project
-- (2021) Vishesh Agarwal: Polynomial Simplification Project
-- (2020) Pratik Joshi, Aalok Sathe: TaxiNLI: Taking a ride up the NLU Hill.
+- (2021) [Ishan Tarunesh](https://ishan00.github.io/): CheckList NLI
+- (2021) Vishesh Agarwal: Polynomial Simplification (Primary Mentor: Navin Goyal)
+- (2020-21) [Aalok Sathe](https://aalok-sathe.gitlab.io/): TaxiNLI and TaxiXNLI (at MIT BCS)
+- (2020) [Pratik Joshi](https://pratikmjoshi.github.io/): TaxiNLI: Taking a ride up the NLU Hill. (at CMU LTI)
 - (2019) Pranil Joshi (IIT-B), Abhinav Mishra (IIT-G), Bhavy Khatri (IIT-K): Knowledge-sharing between Cross-domain Agents
     - Mentored with Kushal Chawla (USC), Sharmila Nangi Reddy
     - (Feb 2020) Patent accepted and to be filed in USPTO.
