@@ -11,8 +11,8 @@ publication_short = "In *EMNLP 2021 MRL Workshop*"
 selected = true
 featured = true
 title = "Analyzing the Effects of Reasoning Types on Cross-Lingual Transfer Performance"
-projects = ["nlp"]
-url_pdf = "https://sites.google.com/view/mrl-2021/program?authuser=0"
+projects = ["NLP"]
+url_pdf = "https://arxiv.org/abs/2110.02386"
 url_dataset = "https://github.com/microsoft/TaxiXNLI"
 url_video = ""
 
