@@ -44,12 +44,13 @@ multiple groups.
 <hr style="float: center">
 
 - (2021) [Ishan Tarunesh](https://ishan00.github.io/): CheckList NLI
+- (2021) [Karthikeyan K](https://scholar.google.com/citations?user=KACcWC4AAAAJ&hl=en): Multi-lingual extension of TaxiNLI ([TaxiXNLI](https://github.com/microsoft/TaxiXNLI); Primary Mentor: Monojit Choudhury; at Duke U.)
 - (2021) Vishesh Agarwal: Polynomial Simplification (Primary Mentor: Navin Goyal)
 - (2020-21) [Aalok Sathe](https://aalok-sathe.gitlab.io/): TaxiNLI and TaxiXNLI (at MIT BCS)
 - (2020) [Pratik Joshi](https://pratikmjoshi.github.io/): TaxiNLI: Taking a ride up the NLU Hill. (at CMU LTI)
 - (2019) Pranil Joshi (IIT-B), Abhinav Mishra (IIT-G), Bhavy Khatri (IIT-K): Knowledge-sharing between Cross-domain Agents
     - Mentored with Kushal Chawla (USC), Sharmila Nangi Reddy
-    - (Feb 2020) Patent accepted and to be filed in USPTO.
+    - (Feb 2020) Patent filed [USPTO](https://patents.google.com/patent/US20210264111A1/en). Status <em>pending</em>.
 
 <h3> Mentoring (During Ph.D) </h3>
 <hr style="float: center">
