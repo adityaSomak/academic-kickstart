@@ -29,7 +29,17 @@ Models that claim to understand language, should also be able to demonstrate its
 Large pre-trained language models show high performance in popular NLP benchmarks (GLUE, SuperGLUE), while failing poorly in datasets with targeted linguistic and logical phenomena. We consolidate the interesting reasoning phenomena
 in Taxonomy of reasoning w.r.t the NLI task. Our first work along this line published in [CoNLL 2020](https://github.com/microsoft/TaxiNLI) showed that these models (BERT, RoBERTa) may not know how to perform certain types of reasoning such as causal, numeric, spatial, temporal; but they can identify the type of reasoning required for a new example. 
 
-We did a follow-up, adapting the CheckList methodology, where we create a large [CheckList-NLI](https://arxiv.org/abs/2107.07229) dataset to individually yet collectively test different reasoning capabilities, including pragmatic ones. Through our test-suite, we show that such a post-hoc evaluation provides a more comprehensive overview of the behavioral nature of the language models. A thorough human study with Linguistic Olympiad participants shows that behavioral summary leads to better explanation and RoBERTa's behavior is more predictable than BERT.
+We did a follow-up, adapting the CheckList methodology, where we create a large [CheckList-NLI](https://github.com/microsoft/LoNLI) dataset to individually yet collectively test different reasoning capabilities, including pragmatic ones. Through our test-suite, we show that such a post-hoc evaluation provides a more comprehensive overview of the behavioral nature of the language models. A thorough human study with Linguistic Olympiad participants shows that behavioral summary leads to better explanation and RoBERTa's behavior is more predictable than BERT. Currently, we are also exploring augmenting NLI datasets with verifiable proofs.
+
+Summary and Extensions:
+<ul> 
+<li> [TaxiNLI: Taxonomic Fragmentation of the NLI Task](https://github.com/microsoft/TaxiNLI), <em>CoNLL 2020</em>
+</li>
+<li> [TaxiXNLI: Multi-lingual Extension of TaxiNLI](https://github.com/microsoft/TaxiXNLI), <em>EMNLP 2021 MRL Workshop</em>
+</li>
+<li> [LoNLI: Testing Diverse Reasoning of NLI Systems](https://github.com/microsoft/LoNLI), <em>Under review</em>
+</li>
+</ul>
 
 <hr style="width:100%;text-align:left;margin-left:0">
 

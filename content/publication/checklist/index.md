@@ -13,6 +13,7 @@ featured = false
 title = "Trusting RoBERTa over BERT: Insights from CheckListing the Natural Language Inference Task"
 projects = ["NLP"]
 url_pdf = "https://arxiv.org/pdf/2107.07229.pdf"
+url_dataset = "https://github.com/microsoft/LoNLI"
 url_poster = ""
 url_video = ""
 
