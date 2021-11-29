@@ -26,6 +26,8 @@ weight = 30
 </script>
 
 <div class="mCustomScrollbar" data-mcs-theme="inset-dark" style="height:500px;width:100%;font:24px/28px;font-family: cambria; overflow:auto;">
+<span class="blink" style="color:red"><i class="fa fa-bullhorn" style="color:red;text-shadow:1px 1px 1px #000;"></i>   <span style="font-weight: bold;">[Nov 2021]</span>  IIT KGP: Joined IIT KGP as Assistant Professor</span>. 
+<br/>
 <i class="fas fa-star fa-xs" style="color:gold;text-shadow:2px 2px 2px #000;vertical-align: middle;"></i>  <span style="font-weight: bold;">[Oct 2021]</span>  AAAI 2022 (Demo): <em>LITMUS Predictor: An AI Assistant for Building Reliable, High-performing and Fair Multilingual NLP Systems</em> accepted in AAAI 2022 Demonstrations track (joint work with the Speech and NLP group at MSR India). 
 <br/>
 <i class="fas fa-star fa-xs" style="color:gold;text-shadow:2px 2px 2px #000;vertical-align: middle;"></i>  <span style="font-weight: bold;">[Oct 2021]</span>  IndoML 2021: <a href="https://indoml.in/"> IndoML Datathon</a> registration is open for students. Lucrative cash prize, and a series of exciting talks by thought leaders in ML/NLP awaits you! So go forth and <a href="https://docs.google.com/forms/d/e/1FAIpQLSd5qftS0eyfIH3QGk3YTwCmMHX7uLVDrk4Q7uz4fQ08nIc_Qw/viewform">register</a>.

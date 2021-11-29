@@ -281,3 +281,13 @@ a {
     vertical-align: middle;
     word-break: break-word;
 } */
+
+.blink {
+    animation: blinker 2s step-start infinite 1s;
+}
+  
+@keyframes blinker {
+    50% {
+      opacity: 30%;
+    }
+}
