@@ -29,6 +29,13 @@ weight = 100
 
 +++ -->
 
+<h3> Current Students </h3>
+<hr style="float: center">
+<ul class="fa-ul">
+<li><i class="fa-li fas fa-star fa-xs" style="color:black;"></i> Manav Kapadnis, Dual Degree (BTech+MTech), Electrical Engineering </li>
+<li><i class="fa-li fas fa-star fa-xs" style="color:black;"></i> Hari Ganesan, Dual Degree (BTech+MTech), Ocean Engineering and Naval Architecture </li>
+</ul>
+
 I am actively looking to take motivated Ph.D, MTech, and BTech students who are interested in pursuing their thesis in the exciting juncture of classical and statistical AI. For prospective students, please see answers to FAQs (to be updated).
 
 <h3> FAQs for Propsective Students </h3>
