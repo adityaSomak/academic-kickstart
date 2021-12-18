@@ -23,24 +23,30 @@ math = false
 
 +++ 
 
-<h3> Instructors </h3>
-Somak Aditya
-
-<h3>  Course Timings </h3>
-<b>Lectures</b> <p></p>
-Monday - 8:00 - 10:00 (Teams Link) <p></p>
-Tuesday - 12:00 - 1:00 (Teams Link) <p></p>
+<blockquote>
+<table id="nobd" cellspacing="0" cellpadding="2" border="0">
+<tbody><tr><td id="nobd" align="left" valign="top"><b>Instructor</b>
+    </td><td id="nobd" align="left">&nbsp;&nbsp;&nbsp;
+    </td><td id="nobd" align="left"><a href="http://cse.iitkgp.ac.in/~saditya/">Somak Aditya</a>
+</td></tr><tr><td id="nobd" valign="top" align="left"><b>Timing</b>
+    </td><td id="nobd" valign="top" align="left">&nbsp;&nbsp;&nbsp;
+    </td><td id="nobd" valign="top" align="left">Slot A3: MON (08:00-08:55) , MON (09:00-09:55) , TUE(12:00-12:55)
+</td></tr><tr><td id="nobd" valign="top" align="left"><b>Venue</b>
+    </td><td id="nobd" valign="top" align="left">&nbsp;&nbsp;&nbsp;
+    </td><td id="nobd" valign="top" align="left">TBA
+</td></tr><tr><td id="nobd" valign="top" align="left"><b>Teaching Assistants</b>
+    </td><td id="nobd" valign="top" align="left">&nbsp;&nbsp;&nbsp;
+    </td><td id="nobd" valign="top" align="left">TBA
+</td></tr></tbody></table>
+</blockquote>
 
 <!--
 <b>Office Hours</b> <p></p>
 Friday - 18:10 - 19:10 (CSE-308)
 -->
 
-<h3> Teaching Assistants </h3>
-TBA
-
 <p> </p>
-<h2>Announcements</h2>
+<h3>Announcements</h3>
 Keep a tab here for announcements.
 <p></p>
 
@@ -49,3 +55,8 @@ Tentative Weightage: Mid-sem (30 %), End-Sem (40 %), Term Project (30 %).
 <p></p>
 First Class on January TBA
 <p></p>
+
+<h3> Text and Reference Literature </h3>
+<ol>
+  <li> Manning, Christopher D., Prabhakar Raghavan, and Hinrich Schütze. <em>Introduction to information retrieval</em>, Cambridge: Cambridge university press, 2008.</li>
+</ol>
