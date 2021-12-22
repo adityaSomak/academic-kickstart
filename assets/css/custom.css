@@ -292,3 +292,19 @@ a {
     }
 }
 
+.info {
+    background-color: white; /* Blue */
+    padding: 20px;
+    color: red;
+    margin-bottom: 15px;
+    border-color: tomato;
+    border-width: 0.01cm;
+    border-style: solid;
+}
+
+.alert {
+    padding: 20px;
+    background-color: #f44336; /* Blue */
+    color: white;
+    margin-bottom: 15px;
+  }

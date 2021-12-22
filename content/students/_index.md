@@ -36,9 +36,14 @@ weight = 100
 <li><i class="fa-li fas fa-star fa-xs" style="color:black;"></i> Hari Ganesan, Dual Degree (BTech+MTech), Ocean Engineering and Naval Architecture </li>
 <li><i class="fa-li fas fa-star fa-xs" style="color:black;"></i> Alisha Raj, Integrated M.Sc, Economics/Math & Computing </li>
 <li><i class="fa-li fas fa-star fa-xs" style="color:black;"></i> Druhin Abrol, BTech, Mechanical Engineering </li>
+<li><i class="fa-li fas fa-star fa-xs" style="color:black;"></i> Yash Saraswat, BTech, Chemical Engineering </li>
 </ul>
 
-I am actively looking to take motivated Ph.D, MTech, and BTech students who are interested in pursuing <b><u>their thesis</u></b> in the exciting juncture of classical and statistical AI. For prospective students, please see answers to FAQs below (to be updated). <span style="color: red"> Please note, currently I am not entertaining any request for short-term projects or internships. My expectation is that interested students are associated with a project at least for 6 months to an year (and also motivated enough to be associated till we reach a satisfactory milestone).</span>
+I am actively looking to take motivated Ph.D, MTech, and BTech students who are interested in pursuing <b><u>their thesis</u></b> in the exciting juncture of classical and statistical AI. For prospective students, please see answers to FAQs below (to be updated). <span style="color: red"> </span>  
+
+<div class="info">
+  Please note, currently I am not entertaining any request for short-term projects or internships. My expectation is that interested students are associated with a project for at least 6 months to an year (and also motivated enough to be associated till we reach a satisfactory milestone). <u>Also</u>, I am looking for students who are deeply interested in (and has some background in) the theoretical aspects of AI techniques (machine learning, probability, and logic).
+</div>
 
 <h3> FAQs for Propsective Students </h3>
 <!-- Some answers are tailored towards Ph.D students; but should be applicable to MTech and BTech thesis students as well. 
