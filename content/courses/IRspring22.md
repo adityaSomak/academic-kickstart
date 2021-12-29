@@ -61,9 +61,20 @@ Friday - 18:10 - 19:10 (CSE-308)
 <p></p>
 
 <p></p>
-Tentative Weightage: Mid-sem (1 or 2 online tests - 30 %), End-Sem (1 or 2 online tests - 35 %), Term Project (35 %).
+Tentative Weightage: Three online proctored tests (60%), Term Project (40 %).
 <p></p>
+Please note, if the institute decides to switch back to offline mode, I might make some changes to the weightage.
 <p></p>
+
+<h3> Pre-requisites for the course </h3>
+<ul>
+<li> Data structures and algorithms </li> 
+<li> Probability and Statistics </li> 
+<li> Basics of Machine Learning </li> 
+<li> Basics of Natural Language Processing (Some might be covered during the course) </li> 
+<li> Basics of Graph algorithms (Some might be covered during the course) </li> 
+<li> Programming in Python/Java </b> </li> 
+</ul>
 
 <h3>Broad Topics</h3>
 <ul>
@@ -89,3 +100,5 @@ Tentative Weightage: Mid-sem (1 or 2 online tests - 30 %), End-Sem (1 or 2 onlin
   <li> <a href="https://nlp.stanford.edu/IR-book/information-retrieval-book.html">Manning, Christopher D., Prabhakar Raghavan, and Hinrich Schütze. <em>Introduction to information retrieval</em>, Cambridge: Cambridge university press, 2008.</a></li>
   <li> Research Papers shared in class. </li>
 </ol>
+
+<span style="color:red"> Every test should be attempted individually by each student. Plagiarism in any form -- copying from other students or from online resources -- will be severely penalized.</span>
