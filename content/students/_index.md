@@ -29,23 +29,44 @@ weight = 100
 
 +++ -->
 
-<h3> Current Group Members </h3>
+<h3>  <em>Tr</em>$^2$AIL Group Members</h3>
 <hr style="float: center">
+
 <ul class="fa-ul">
-<li><i class="fa-li fas fa-star fa-xs" style="color:black;"></i> (MTP) Vivek Karde, MTech, Computer Science and Engineering </li>
-<li><i class="fa-li fas fa-star fa-xs" style="color:black;"></i> (BTP) Abhishek Thakur, BTech, Computer Science and Engineering</li>
-<li><i class="fa-li fas fa-star fa-xs" style="color:black;"></i> (BTP) Manav Kapadnis, Dual Degree (BTech+MTech), Electrical Engineering </li>
+<li><i class="fa-li fas fa-star fa-xs" style="color:black;"></i> MTP CSE: Vivek Karde </li>
+<li><i class="fa-li fas fa-star fa-xs" style="color:black;"></i> BTP CSE: Abhishek Thakur, Jatoth Sai </li>
+</ul>
+
+
+<ul class="fa-ul">
+<li><i class="fa-li fas fa-star fa-xs" style="color:black;"></i> Manav Kapadnis, Dual Degree (BTech+MTech), Electrical Engineering </li>
 <li><i class="fa-li fas fa-star fa-xs" style="color:black;"></i> Hari Ganesan, Dual Degree (BTech+MTech), Ocean Engineering and Naval Architecture </li>
 <li><i class="fa-li fas fa-star fa-xs" style="color:black;"></i> Alisha Raj, Integrated M.Sc, Economics/Math & Computing </li>
 <li><i class="fa-li fas fa-star fa-xs" style="color:black;"></i> Druhin Abrol, BTech, Mechanical Engineering </li>
-<li><i class="fa-li fas fa-star fa-xs" style="color:black;"></i> Yash Saraswat, BTech, Chemical Engineering </li>
+<!-- <li><i class="fa-li fas fa-star fa-xs" style="color:black;"></i> Yash Saraswat, BTech, Chemical Engineering </li> -->
 </ul>
 
-I am actively looking to take motivated Ph.D students who are interested in pursuing <b><u>their thesis</u></b> in the exciting juncture of classical and statistical AI. For prospective students, please see answers to FAQs below (to be updated). <span style="color: red"> </span>  
+<h4> External Students </h4>
+<ul>
+<li> PhD Student: Deepanway Ghosal, CSE, SUTD </li>
+<li> Dual Degree Student: Abhinav Menon, CSE, IIIT Hyderabad </li>
+</ul>
+
+MTP/BTP CSE Students: Vivek Karde (MTech), Abhishek Thakur (BTech), Jatoth Sai (BTech) <br/>
+External PhD Students: Deepanway Ghosal (SUTD)
 
 <div class="info">
-  Please note, I am not entertaining any request for short-term projects or internships. My expectation is that interested students are associated with a project for 6 months to an year (and also motivated enough to be associated till we reach a satisfactory milestone). <u>Also</u>, I am looking for students who are deeply interested in (and has some background in) the theoretical aspects of AI techniques (machine learning, probability, and logic).
+Prof. Animesh Mukherjee and I are actively looking for a full-time joint PhD student to work on multi-lingual multi-modal representation and reasoning. The student is expected to start with us by Autumn 2022. Please apply though <a href="http://www.iitkgp.ac.in/phd-admission">here</a>, and send me an email.
 </div>
+
+<div class="info">
+I am also looking for motivated Ph.D students who are interested in pursuing <b><u>their thesis</u></b> in the exciting juncture of classical and statistical AI. For prospective students, please see answers to FAQs below (to be updated). 
+</div>
+<!-- <span style="color: red"> </span>   -->
+
+<!-- <div class="info">
+  Please note, I am not entertaining any request for short-term projects or internships. My expectation is that interested students are associated with a project for 6 months to an year (and also motivated enough to be associated till we reach a satisfactory milestone). <u>Also</u>, I am looking for students who are deeply interested in (and has some background in) the theoretical aspects of AI techniques (machine learning, probability, and logic).
+</div> -->
 
 <h3> FAQs for Propsective Students </h3>
 <!-- Some answers are tailored towards Ph.D students; but should be applicable to MTech and BTech thesis students as well. 
