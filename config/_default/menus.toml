@@ -44,8 +44,8 @@
   weight = 70
 
 [[main]]
-  name = "For Students"
-  url = "students/"
+  name = "Research Group"
+  url = "research/"
   weight = 80
   
 # [[main]]
