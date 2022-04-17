@@ -69,9 +69,20 @@ user_groups:
 - Researchers
 - Visitors
 ---
+<!-- <div class="info">
+I am looking for motivated full-time Ph.D students who are interested in pursuing <b><u>their thesis</u></b> in the exciting juncture of classical and statistical AI (often dubbed as neuro-symbolic methods). 
+</div> -->
+<div id="tickr-box">
+<div class="tickr-title">Latest News</div>
+<div id="tickr-scroll">
+  <ul>
+	<li>I am looking for motivated full-time Ph.D students who are interested in pursuing <b><u>their thesis</u></b> in the exciting juncture of classical and statistical AI (often dubbed as neuro-symbolic methods). </li>
+  </ul>
+</div>
+</div>
 
-<span style="color: red">!!! Major Update: I have joined IIT Kharagpur CSE as an Assistant Professor on November 2021. I am looking for motivated Ph.D, MTech, and BTech students. !!!</span> <br/>
-I was a Postdoctoral Researcher at [Microsoft Research India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/) advised by Dr. Monojit Choudhury. Prior to joining MSR India, I spent 1.5 years in Adobe Research as a full-time Researcher. I completed by Ph.D from [CIDSE, Arizona State University](http://cidse.engineering.asu.edu/) in June 2018, under the supervision of [Prof. Chitta Baral](http://www.public.asu.edu/~cbaral/) and [Prof. Yezhou Yang](http://yezhouyang.engineering.asu.edu/). 
+<!-- <span style="color: red">!!! Major Update: I have joined IIT Kharagpur CSE as an Assistant Professor on November 2021. I am looking for motivated Ph.D, MTech, and BTech students. !!!</span> <br/> -->
+I am an Assistant Professor at IIT Kharagpur Department of CSE. I was a Postdoctoral Researcher at [Microsoft Research India](https://www.microsoft.com/en-us/research/lab/microsoft-research-india/) advised by Dr. Monojit Choudhury. Prior to joining MSR India, I spent 1.5 years in Adobe Research as a full-time Researcher. I completed by Ph.D from [CIDSE, Arizona State University](http://cidse.engineering.asu.edu/) in June 2018, under the supervision of [Prof. Chitta Baral](http://www.public.asu.edu/~cbaral/) and [Prof. Yezhou Yang](http://yezhouyang.engineering.asu.edu/). 
 
 Deployable AI systems should be able to reason with knowledge that is commonplace to humans. Thus, my research aims to <b>enhance, evaluate,</b> and <b>explain</b> different types of complex <b>reasoning abilities</b> of AI systems. At MSRI, I explored *evaluation* and *enhancement* of reasoning capabilities of Transformers-based language models. Apart from end-to-end reasoning, I am paralley exploring multi-hop reasoning capabilities of neural methods in both [symbolic](https://adityasomak.github.io/project/symbolicmath/) and [natural language](https://adityasomak.github.io/project/nlp/) domains. During my Ph.D, I have explored *enhancement* of reasoning capabilities of [image understanding](https://adityasomak.github.io/project/pslvqa/) systems. Through a combination of Deep Learning, Knowledge Representation, and Probabilistic Logical Reasoning, I demonstrated the benefits of using reasoning and knowledge in Visual Question-Answering, Captioning, image puzzle solving and visual reasoning. 
 
