@@ -26,6 +26,8 @@ weight = 30
 </script>
 
 <div class="mCustomScrollbar" data-mcs-theme="inset-dark" style="height:500px;width:100%;font:24px/28px;font-family: cambria; overflow:auto;">
+<i class="fas fa-star fa-xs" style="color:gold;text-shadow:2px 2px 2px #000;vertical-align: middle;"></i>   <span style="font-weight: bold;">[Apr 2022]</span>  I was promoted to Assistant Professor Grade-I (effective from Nov 29, 2021). 
+<br/>
 <i class="fas fa-star fa-xs" style="color:gold;text-shadow:2px 2px 2px #000;vertical-align: middle;"></i>   <span style="font-weight: bold;">[Feb 2022]</span>  Rakuten Institute of Technology: Invited Talk on "Evolution of Representation and Reasoning in the era of Deep Learning". 
 <br/>
 <i class="fas fa-star fa-xs" style="color:gold;text-shadow:2px 2px 2px #000;vertical-align: middle;"></i>   <span style="font-weight: bold;">[Jan 2022]</span>  Google India: USD 5K Google Cloud Credits Award. 
