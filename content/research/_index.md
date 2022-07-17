@@ -32,22 +32,30 @@ weight = 100
 <h2> <em>Tr</em>$^2$AIL: Trust and Transparency in AI through Logic </h2>
 <hr style="float: center">
 The <em>Tr</em>$^2$AIL research group is led by Prof. Somak Aditya. The long-term goal of the lab is to achieve transparent Human-aware AI systems through Logic and Reasoning. We want the AI systems to be able to <em>reason-in-the-wild</em> and do so transparently for the end-users with whom it is expected to interact. Technically, we will work on the fundamental challenges faced by current neural and probabilistic logical systems in achieving such properties. 
+
+<div> 
+<img src="trailsummarykgp.png" alt="img" class="hp"/>
+
 <h3> <u> Group Members</u> </h3>
+
 
 <h4> FACULTY </h4>
 <ul class="fa-ul">
 <li> <i class="fa-li fas fa-star fa-xs" style="color:black;"></i> PI: Prof. Somak Aditya </li>
 </ul>
 
+<!-- <h4> PhD Students </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fas fa-star fa-xs" style="color:black;"></i> Sachin Vashishth </li>
+</ul> -->
+
 <h4> Undergraduate/Graduate Students (BTech/MTech/Dual Degree) </h4>
 <ul class="fa-ul">
 <li><i class="fa-li fas fa-star fa-xs" style="color:black;"></i> Vivek Karde, MTech CSE </li>
-<li><i class="fa-li fas fa-star fa-xs" style="color:black;"></i> Abhishek Thakur, BTech CSE </li> 
-<li><i class="fa-li fas fa-star fa-xs" style="color:black;"></i> Jatoth Sai, BTech CSE </li> 
-<!-- <li><i class="fa-li fas fa-star fa-xs" style="color:black;"></i> Hari Ganesan, Dual Degree (BTech+MTech), Ocean Engineering and Naval Architecture </li> -->
-<!-- <li><i class="fa-li fas fa-star fa-xs" style="color:black;"></i> Alisha Raj, Integrated M.Sc, Economics/Math & Computing </li> -->
 <li><i class="fa-li fas fa-star fa-xs" style="color:black;"></i> Druhin Abrol, BTech, Mechanical Engineering </li>
 <li><i class="fa-li fas fa-star fa-xs" style="color:black;"></i> Atharva Naik, BTech CSE </li>
+<li><i class="fa-li fas fa-star fa-xs" style="color:black;"></i> Abhishek Thakur, BTech CSE </li> 
+<!-- <li><i class="fa-li fas fa-star fa-xs" style="color:black;"></i> Jatoth Sai, BTech CSE </li>  -->
 </ul>
 
 <h4> External Students </h4>
@@ -56,6 +64,7 @@ The <em>Tr</em>$^2$AIL research group is led by Prof. Somak Aditya. The long-ter
 <li> Dual Degree Student: Abhinav Menon, CSE, IIIT Hyderabad (Intern) </li>
 </ul>
 
+</div>
 <div class="info">
 I am looking for motivated Ph.D students who are interested in pursuing <b><u>their thesis</u></b> in the exciting juncture of classical and statistical AI (often dubbed as neuro-symbolic methods). For prospective students, please see answers to FAQs below (to be updated). 
 </div>

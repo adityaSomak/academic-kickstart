@@ -113,6 +113,11 @@ a {
     padding-top: 0.1rem;
     /* width: 100%; */
 }
+
+.hp  {
+    float: right;    
+     margin: 0 0 0 15px;
+}
   
 @media only screen and (min-width: 1001px) {
     .universal-wrapper {
