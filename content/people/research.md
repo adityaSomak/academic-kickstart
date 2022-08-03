@@ -1,61 +1,48 @@
----
-title: 
-
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-#   4 = Citation
-# view: 2
-
-# Optional header image (relative to `static/img/` folder).
-header:
-  caption: ""
-  image: ""
----
-<!-- +++
++++
 # An example of using the custom widget to create your own homepage section.
 # To create more sections, duplicate this file and edit the values below as desired.
 
 date = "2016-04-20T00:00:00"
 draft = false
 
-title = "Teaching and Mentoring"
+title = ""
 subtitle = ""
 widget = "custom"
+active = false  # Activate this widget? true/false
 
 # Order that this section will appear in.
-weight = 100
+weight = 5
 
-+++ -->
-
++++
 <h2> <em>Tr</em>$^2$AIL: Trust and Transparency in AI through Logic </h2>
 <hr style="float: center">
-The <em>Tr</em>$^2$AIL research group is led by Prof. Somak Aditya. The long-term goal of the lab is to achieve transparent Human-aware AI systems through Logic and Reasoning. We want the AI systems to be able to <em>reason-in-the-wild</em> and do so transparently for the end-users with whom it is expected to interact. Technically, we will work on the fundamental challenges faced by current neural and probabilistic logical systems in achieving such properties. I am fortunate to be working with a group of passionate <u><a href="/people">student reserachers</a></u>.
+The <em>Tr</em>$^2$AIL research group is led by Prof. Somak Aditya. The long-term goal of the lab is to achieve transparent Human-aware AI systems through Logic and Reasoning. We want the AI systems to be able to <em>reason-in-the-wild</em> and do so transparently for the end-users with whom it is expected to interact. Technically, we will work on the fundamental challenges faced by current neural and probabilistic logical systems in achieving such properties. 
 
 <div> 
 <img src="trailsummarykgp.png" alt="img"/>
 
-<!-- <h3> <u> Group Members</u> </h3> -->
+<!-- <h3> <u> Group Members</u> </h3>
 
 
-<!-- <h4> FACULTY </h4>
+<h4> FACULTY </h4>
 <ul class="fa-ul">
 <li> <i class="fa-li fas fa-star fa-xs" style="color:black;"></i> PI: Prof. Somak Aditya </li>
 </ul>
 
-<h4> PhD/MTech Students </h4>
+<h4> PhD Students </h4>
 <ul class="fa-ul">
-<li><i class="fa-li fas fa-star fa-xs" style="color:black;"></i> Sachin Vashishth, PhD CSE (<em>Ongoing</em>) </li>
-<li><i class="fa-li fas fa-star fa-xs" style="color:black;"></i> Vivek Karde, MTech CSE (<em>Ongoing</em>) </li>
+<li><i class="fa-li fas fa-star fa-xs" style="color:black;"></i> Sachin Vashishth (<em>Ongoing</em>) </li>
 </ul>
 
-</ul>  -->
+<h4> Graduate Students (MTech/Dual Degree) </h4>
+<ul class="fa-ul">
+<li><i class="fa-li fas fa-star fa-xs" style="color:black;"></i> Vivek Karde, MTech CSE (<em>Ongoing</em>) </li>
+<li><i class="fa-li fas fa-star fa-xs" style="color:black;"></i> Druhin Abrol, BTech, Mechanical Engineering </li>
+</ul>
 
-<!-- <h4> Undergraduate Students (BTech Degree) </h4>
+<h4> Undergraduate Students (BTech Degree) </h4>
 <ul class="fa-ul">
 <li><i class="fa-li fas fa-star fa-xs" style="color:black;"></i> Atharva Naik, BTech CSE </li>
-<li><i class="fa-li fas fa-star fa-xs" style="color:black;"></i> Druhin Abrol, BTech, Mechanical Engineering </li>
 </ul>
 
 <h4> External Students </h4>

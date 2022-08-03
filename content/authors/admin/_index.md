@@ -66,8 +66,10 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Researchers
-- Visitors
+- Principal Investigators
+# - Researchers
+# - Visitors
+
 ---
 <!-- <div class="info">
 I am looking for motivated full-time Ph.D students who are interested in pursuing <b><u>their thesis</u></b> in the exciting juncture of classical and statistical AI (often dubbed as neuro-symbolic methods). 
