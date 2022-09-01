@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: MTech Student
+role: MTech Student, CSE
 
 # Organizations/Affiliations
 organizations:

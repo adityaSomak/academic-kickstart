@@ -37,7 +37,22 @@ Summary and Extensions:
 </li>
 <li> [TaxiXNLI: Multi-lingual Extension of TaxiNLI](https://github.com/microsoft/TaxiXNLI), <em>EMNLP 2021 MRL Workshop</em>
 </li>
-<li> [LoNLI: Testing Diverse Reasoning of NLI Systems](https://github.com/microsoft/LoNLI), <em>Under review</em>
+<li> [LoNLI: Testing Diverse Reasoning of NLI Systems](https://github.com/microsoft/LoNLI), <em>Under review in LRE</em>
+</li>
+
+</ul>
+
+<div>
+<h4> Enhancing NLI: Multi-hop, Causality and Counterfactuals </h4>
+As observed through TaxiNLI family of work, language models struggle with many important reasoning types. With Deepanway Ghoshal and Monojit choudhury, we explored a <b>less annotation-intensive</b> way to <a href=https://arxiv.org/abs/2208.14641">generate intermediate steps</a> for complex reasoning examples in free-form NLI datasets. We observe, not only, we can generate such multi-hop steps without end-to-end supervision; but the steps are accurate as they <em>can be augmented directly</em> to improve NLI model's predictive ability. 
+
+
+<img src="/project/prooftypes.png" alt="img"/>
+</div>
+
+References
+<ul>
+<li> [Generating Intermediate Steps for NLI with Next-Step Supervision](https://arxiv.org/abs/2208.14641), <em>ArXiv 2022, Under review</em>
 </li>
 </ul>
 
