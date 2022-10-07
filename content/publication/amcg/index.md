@@ -1,7 +1,7 @@
 +++
 abstract = ""
 abstract_short = ""
-authors = ["Shaily Bhatt", "Pankaj Singh", "Somak Aditya", "Sandipan Dandapat", "Sunayana Sitaram", "Monojit Choudhury"]
+authors = ["Karthikeyan K", "Shaily Bhatt", "Pankaj Singh", "Somak Aditya", "Sandipan Dandapat", "Sunayana Sitaram", "Monojit Choudhury"]
 date = "2022-03-24"
 image_preview = ""
 math = true
