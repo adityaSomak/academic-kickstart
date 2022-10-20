@@ -1,27 +1,27 @@
 ---
 # Display name
-name: Atharva Naik
+name: Daivik Agarwal
 
 # Username (this should match the folder name)
 authors:
-- atharva
+- daivik
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: CMU MS Student (Formerly BTech-CS, KGP)
+role: BTech Student (MechEng, IIT-KGP)
 
 # Organizations/Affiliations
 organizations:
-- name: Department of CSE, IIT KGP
-  url: "http://cse.iitkgp.ac.in/"
+- name: Department of Mechanical Engineering, IIT KGP
+  url: "http://www.iitkgp.ac.in/department/ME"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include integrating knowledge and enabling higher-order reasoning in AI.
 
 interests:
- - Efficient Neural Code Representation
+ - Vision and Reasoning
 
 # education:
 #   courses:
@@ -64,7 +64,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-#- Researchers
-- Alumni
+- Researchers
+#- Undergrads
+#- Alumni
 ---
 

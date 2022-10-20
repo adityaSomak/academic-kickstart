@@ -125,6 +125,22 @@ a {
     }
 }
 
+.bgimg {
+    position: relative; 
+}
+
+/* .bgimg::before {    
+    content: "";
+    background-image: url("/img/mainbuild.jpeg");
+    background-size: cover;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    opacity: 0.10;
+} */
+
 /* .bx-tag-nlp {
     display: inline-block;
     border: 0;

@@ -29,9 +29,12 @@ weight = 100
 
 +++ -->
 
+<div class="bgimg">
 <h2> <em>Tr</em>$^2$AIL: Trust and Transparency in AI through Logic </h2>
 <hr style="float: center">
 The <em>Tr</em>$^2$AIL research group is led by Prof. Somak Aditya. The long-term goal of the lab is to achieve transparent Human-aware AI systems through Logic and Reasoning. We want the AI systems to be able to <em>reason-in-the-wild</em> and do so transparently for the end-users with whom it is expected to interact. Technically, we will work on the fundamental challenges faced by current neural and probabilistic logical systems in achieving such properties. I am fortunate to be working with a group of passionate <u><a href="/people">student reserachers</a></u>.
+
+
 
 <div> 
 <img src="trailsummarykgp.png" alt="img"/>
@@ -64,6 +67,7 @@ The <em>Tr</em>$^2$AIL research group is led by Prof. Somak Aditya. The long-ter
 <li> Dual Degree Student: Abhinav Menon, CSE, IIIT Hyderabad (Intern) </li>
 </ul> -->
 
+</div>
 </div>
 <div class="info">
 <b> NEW!!! (Oct 2022): </b> I am looking for a motivated BTech student (IIT KGP CS preferably), very proficient in coding to work with us in a multi-university collaboration on "Spatio-Temporal Reasoning in Vision and Language" with U.Utah, IIIT-H, and industrial partners.
@@ -143,3 +147,4 @@ Ph.D. Positions:   For details about PhD application procedure, please visit <a 
 M.S. (by Research) Positions:   For M.S., please apply through the list of advertised institute projects <a href="http://www.iitkgp.ac.in/temporary-jobs">HERE</a>. Once you are already a project staff, you can apply for MS.  -->
 
 </li>
+
