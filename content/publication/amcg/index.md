@@ -2,7 +2,7 @@
 abstract = ""
 abstract_short = ""
 authors = ["Karthikeyan K", "Shaily Bhatt", "Pankaj Singh", "Somak Aditya", "Sandipan Dandapat", "Sunayana Sitaram", "Monojit Choudhury"]
-date = "2022-03-24"
+date = "2022-11-22"
 image_preview = ""
 math = true
 publication_types = ["3"]
@@ -12,7 +12,7 @@ selected = true
 featured = true
 title = "Multilingual CheckList: Generation and Evaluation"
 projects = ["NLP"]
-url_pdf = "https://arxiv.org/pdf/2203.12865.pdf"
+url_pdf = "https://aclanthology.org/2022.findings-aacl.27/"
 url_dataset = ""
 url_video = ""
 
