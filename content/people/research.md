@@ -67,6 +67,10 @@ Prof. Animesh Mukherjee and I are actively looking for a full-time joint PhD stu
   Please note, I am not entertaining any request for short-term projects or internships. My expectation is that interested students are associated with a project for 6 months to an year (and also motivated enough to be associated till we reach a satisfactory milestone). <u>Also</u>, I am looking for students who are deeply interested in (and has some background in) the theoretical aspects of AI techniques (machine learning, probability, and logic).
 </div> -->
 
+<h3> Grant Support </h3>
+- SERB DST Startup Research Grant (2021-23)
+
+
 <h3> FAQs for Propsective Students </h3>
 <!-- Some answers are tailored towards Ph.D students; but should be applicable to MTech and BTech thesis students as well. 
 <br/> -->

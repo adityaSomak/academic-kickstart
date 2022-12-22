@@ -39,6 +39,8 @@ The <em>Tr</em>$^2$AIL research group is led by Prof. Somak Aditya. The long-ter
 <div> 
 <img src="trailsummarykgp.png" alt="img"/>
 
+
+
 <!-- <h3> <u> Group Members</u> </h3> -->
 
 
@@ -70,7 +72,7 @@ The <em>Tr</em>$^2$AIL research group is led by Prof. Somak Aditya. The long-ter
 </div>
 </div>
 <div class="info">
-<b> NEW!!! (Oct 2022): </b> I am looking for a motivated BTech student (IIT KGP CS preferably), very proficient in coding to work with us in a multi-university collaboration on "Spatio-Temporal Reasoning in Vision and Language" with U.Utah, IIIT-H, and industrial partners.
+<s><b> NEW!!! (Oct 2022): </b> I am looking for a motivated BTech student (IIT KGP CS preferably), very proficient in coding to work with us in a multi-university collaboration on "Spatio-Temporal Reasoning in Vision and Language" with U.Utah, IIIT-H, and industrial partners.</s>
 </div>
 
 <div class="info">
@@ -87,6 +89,8 @@ Prof. Animesh Mukherjee and I are actively looking for a full-time joint PhD stu
 <!-- <div class="info">
   Please note, I am not entertaining any request for short-term projects or internships. My expectation is that interested students are associated with a project for 6 months to an year (and also motivated enough to be associated till we reach a satisfactory milestone). <u>Also</u>, I am looking for students who are deeply interested in (and has some background in) the theoretical aspects of AI techniques (machine learning, probability, and logic).
 </div> -->
+
+
 
 <h3> FAQs for Propsective Students </h3>
 <!-- Some answers are tailored towards Ph.D students; but should be applicable to MTech and BTech thesis students as well. 
@@ -147,4 +151,11 @@ Ph.D. Positions:   For details about PhD application procedure, please visit <a 
 M.S. (by Research) Positions:   For M.S., please apply through the list of advertised institute projects <a href="http://www.iitkgp.ac.in/temporary-jobs">HERE</a>. Once you are already a project staff, you can apply for MS.  -->
 
 </li>
+</ol>
+
+<h3> Grant Support </h3>
+We are supported by the following generous organizations:
+<ul>
+<li> SERB DST Startup Research Grant (2021-23)</li>
+</ul>
 
