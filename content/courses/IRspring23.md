@@ -3,7 +3,7 @@
 date = "2022-12-27"
 
 # Project title.
-title = "CS60092 Information Retrieval <span style='color: red'>(Spring 2023) !!NEW!!</span>"
+title = "CS60092 Information Retrieval (Spring 2023) !!NEW!!"
 
 # Project summary to display on homepage.
 summary = "Course Page for CS60092"
@@ -33,11 +33,11 @@ math = false
     </td><td id="nobd" valign="top" align="left"> MON (12:00-12:55) , TUE (10:00-11:55)
 </td></tr><tr><td id="nobd" valign="top" align="left"><b>First Class</b>
     </td><td id="nobd" valign="top" align="left">&nbsp;&nbsp;&nbsp;
-    </td><td id="nobd" valign="top" align="left"><span style="color:red"> TBA </span>
+    </td><td id="nobd" valign="top" align="left"><span style="color:red"> January 3rd, 2023 </span>
 </td></tr><tr><td id="nobd" valign="top" align="left"><b>Venue</b>
     </td><td id="nobd" valign="top" align="left">&nbsp;&nbsp;&nbsp;
     </td><td id="nobd" valign="top" align="left"> TBA
-</td></tr><tr><td id="nobd" valign="top" align="left"><b>Teaching Assistants (Tentative)</b>
+</td></tr><tr><td id="nobd" valign="top" align="left"><b>Teaching Assistants</b>
     </td><td id="nobd" valign="top" align="left">&nbsp;&nbsp;&nbsp;
     </td><td id="nobd" valign="top" align="left">
     Sachin Vashishtha <br/>
@@ -70,7 +70,7 @@ Friday - 18:10 - 19:10 (CSE-308)
 
 <li> <b>[Jan 27]</b> Project Choice submission deadline: <b> Jan 28th 11:59 PM IST </b>. </li> -->
 
-<li>  Note: for students, who are not able to register, kindly wait till 7th when the window closes. I will not be able to answer your emails individually. I will first approve based on CGPA and other criteria (such as total class strength cap etc.), once the window closes. </li>
+<li>  <span style='color: red'>Note: for students, who are not able to register, kindly wait till Jan 6th when the window closes. I will not be able to answer your emails individually. </span> I will first approve based on CGPA and other criteria (such as total class strength cap etc.), once the window closes. </li>
 
 <!-- <li> Every <b>registered</b> student should join the Google mailing list <b>ir-2022-spring@googlegroups.com</b>. All urgent announcements would be made through the group. <span style="color:red">This group is meant only for registered (and approved) students. Kindly mention your roll number and the fact that you have registered in ERP.</span></li> -->
 
