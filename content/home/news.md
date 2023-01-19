@@ -27,8 +27,10 @@ weight = 30
 
 <div class="mCustomScrollbar" data-mcs-theme="inset-dark" style="height:500px;width:100%;font:24px/28px;font-family: cambria; overflow:auto;">
 <i class="fas fa-star fa-xs" style="color:gold;text-shadow:2px 2px 2px #000;vertical-align: middle;"></i> <span style="font-weight: bold;">
-[Jan 2023]</span> IIT KGP FSRG: Received the FSRG Grant aproval from IIT Kharagpur on "The Role of Feedback in Vision-Language enabled Embodied Agents
-towards Application to Disaster Management"!
+[Jan 2023]</span> Toloka AI Grant: Received the Toloka AI Annotation Grant of USD 300 for data creation in the Toloka AI platform. Thanks Toloka AI!
+<br/>
+<i class="fas fa-star fa-xs" style="color:gold;text-shadow:2px 2px 2px #000;vertical-align: middle;"></i> <span style="font-weight: bold;">
+[Jan 2023]</span> IIT KGP FSRG: Received the FSRG Grant aproval from IIT Kharagpur on "The Role of Feedback in Vision-Language enabled Embodied Agents towards Application to Disaster Management"!
 <br/>
 <i class="fas fa-star fa-xs" style="color:gold;text-shadow:2px 2px 2px #000;vertical-align: middle;"></i> <span style="font-weight: bold;">
 [Jan 2023]</span> USPTO: Second patent granted (filed during Adobe Research) on Marketing Knowledge Graph Creation! Congratulations to my co-author (/co-inventor) Dr. Atanu Sinha!
