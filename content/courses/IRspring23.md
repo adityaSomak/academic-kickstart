@@ -155,7 +155,7 @@ Tentative Weightage: Class-Test, Mid-Sem and End-Sem (70%), Term Project (30%).
     <td><b>The term vocabulary & postings lists</b><br /><br />
     <ul>
          <li>Slides:
-             <a href="/files/IRSp23/Lec2.pdf">PDF</a>
+             <a href="/files/IRSp22/Lec3.pdf">PDF</a>
       </ul>
     </td>
     <td>
@@ -172,7 +172,7 @@ Tentative Weightage: Class-Test, Mid-Sem and End-Sem (70%), Term Project (30%).
     <td><b>Skip Pointers, Phrase Queries and Positional Indexing</b><br /><br />
     <ul>
          <li>Slides:
-             <a href="/files/IRSp23/Lec3.pdf">PDF</a>
+             <a href="/files/IRSp22/Lec4.pdf">PDF</a>
       </ul>
     </td>
     <td><ul>
