@@ -29,7 +29,23 @@ weight = 100
 
 +++ -->
 
+<main>
+
+<div>
+<section id="presentcollab">
 <h3> Collaborators </h3>
+<hr style="float: center">
+<ul class="fa-ul">
+<li><i class="fa-li fas fa-star fa-xs" style="color:black;"></i> (PostDoc Advisor) Dr. Monojit Choudhury, Microsoft Research, India </li>
+<li><i class="fa-li fas fa-star fa-xs" style="color:black;"></i> Dr. Maneesh Singh, Verisk Analyitics, NJ, USA </li>
+<li><i class="fa-li fas fa-star fa-xs" style="color:black;"></i> Prof. Jyothi Vedurada, IIT Hyderabad </li>
+<li><i class="fa-li fas fa-star fa-xs" style="color:black;"></i> Prof. Soujanya Poria, SUTD, Singapore </li>
+</ul>
+<br/>
+</section>
+
+<section id="collaborators">
+<h3> Mentors (& Past collaborators) </h3>
 <hr style="float: center">
 <ul class="fa-ul">
 <li><i class="fa-li fas fa-star fa-xs" style="color:black;"></i> (Ph.D Advisor) Prof. Chitta Baral, Arizona State University, USA </li>
@@ -38,14 +54,15 @@ weight = 100
 <li><i class="fa-li fas fa-star fa-xs" style="color:black;"></i> (PostDoc Advisor) Dr. Monojit Choudhury, Microsoft Research, India </li>
 <li><i class="fa-li fas fa-star fa-xs" style="color:black;"></i> Dr. Navin Goyal, Microsoft Research India </li>
 <li><i class="fa-li fas fa-star fa-xs" style="color:black;"></i> Dr. Cornelia Fermüller, UMD College Park, USA </li>
-<li><i class="fa-li fas fa-star fa-xs" style="color:black;"></i> Dr. Maneesh Singh, Verisk Analyitics, NJ, USA </li>
-<li><i class="fa-li fas fa-star fa-xs" style="color:black;"></i> Prof. Jyothi Vedurada, IIT Hyderabad </li>
 <li><i class="fa-li fas fa-star fa-xs" style="color:black;"></i> Dr. Atanu Sinha, Adobe Research India </li>
 </ul>
+<br/>
+</section>
 
+<section id="affiliations">
 <h3>Past Affiliations</h3>
 <hr style="float: center">
-University labs
+<h4>University labs</h4>
 
 <div>
 <ul class="fa-ul">
@@ -60,8 +77,11 @@ University labs
 </li>
 </ul>
 </div>
+</section>
 
-Industrial Organizations
+<section id="industry">
+<h3>Industrial Organizations</h3>
+<hr style="float: center">
 
 <div>
 <ul class="fa-ul">
@@ -85,8 +105,11 @@ under <a href=http://researcher.watson.ibm.com/researcher/view.php?person=in-kka
 </li>
 </ul>
 </div>
+</section>
 
-Universities Attended
+<section id="universities">
+<h3>Universities Attended</h3>
+<hr style="float: center">
 
 <div>
 <ul class="fa-ul">
@@ -110,5 +133,18 @@ IISc Bangalore Makes Indian Debut in top 100 World university (THE ranking). Rea
 </li>
 </ul>
 </div>
+</section>
+</div>
+<nav class="section-nav">
+    <ol>
+      <li><a href="#presentcollab">Present Collaborators</a></li>
+      <li><a href="#collaborators">Mentors</a></li>
+      <li><a href="#affiliations">Past Affiliations</a></li>
+      <li><a href="#industry">Industrial Organizations</a></li>
+      <li><a href="#universities">Universities Attended</a></li>
+    </ol>
+</nav>
+</main>
+
 
 <!-- {{< figure src="/img/affiliations.png" title="" width="80%">}} -->

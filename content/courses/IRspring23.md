@@ -223,6 +223,21 @@ Weightage: Class-Performance/Viva (8%), Mid-Sem and End-Sem (60%), Term Project 
       </ul>
     </td>
   </tr>
+  <tr class='weekbegin'>
+    <td>Week 5</td>
+    <td>Mon. 6/02 \& 7/02</td>
+    <td><b>Index Constructions</b><br /><br />
+    <ul>
+         <li>Slides:
+             <a href="/files/IRSp22/Lec8.pdf">PDF</a>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li><a href="https://nlp.stanford.edu/IR-book/pdf/04const.pdf">IIR chapter 4</a></li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
 <h3>Tentative Topics </h3>
