@@ -332,7 +332,7 @@ a {
 
 /*********************/
 
-  /* 2. Make nav sticky */
+/* 2. Make nav sticky */
 main > nav {
     position: sticky;
     top: 5rem;
@@ -358,14 +358,14 @@ main > nav {
     color: rgb(82, 74, 199);
     transition: all 50ms ease-in-out; /* 💡 This small transition makes setting of the active state smooth */
 }
-main ul, ol {
+/* main > ul, ol {
     list-style: none;
     margin: 0;
     padding: 0;
 }
-main li {
+main > li {
     margin-left: 1rem;
-}
+} */
   
 .section-nav a:hover,
 .section-nav a:focus {

@@ -62,6 +62,7 @@ weight = 100
 <section id="affiliations">
 <h3>Past Affiliations</h3>
 <hr style="float: center">
+<section id="labs">
 <h4>University labs</h4>
 
 <div>
@@ -134,14 +135,19 @@ IISc Bangalore Makes Indian Debut in top 100 World university (THE ranking). Rea
 </ul>
 </div>
 </section>
+</section>
 </div>
 <nav class="section-nav">
     <ol>
       <li><a href="#presentcollab">Present Collaborators</a></li>
       <li><a href="#collaborators">Mentors</a></li>
-      <li><a href="#affiliations">Past Affiliations</a></li>
-      <li><a href="#industry">Industrial Organizations</a></li>
-      <li><a href="#universities">Universities Attended</a></li>
+      <li><a href="#affiliations">Past Affiliations</a>
+      <ul>
+          <li class=""><a href="#labs">University Labs</a></li>
+          <li class=""><a href="#industry">Industrial Organizations</a></li>
+         <li class=""><a href="#universities">Universities Attended</a></li>
+      </ul>
+      </li>
     </ol>
 </nav>
 </main>
