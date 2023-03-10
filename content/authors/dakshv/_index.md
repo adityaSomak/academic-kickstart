@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Daivik Agarwal
+name: Daksh Varshney
 
 # Username (this should match the folder name)
 authors:
@@ -10,18 +10,18 @@ authors:
 superuser: false
 
 # Role/position
-role: BTech Student (MechEng, IIT-KGP)
+role: BTech Student (E&ECE, IIT-KGP)
 
 # Organizations/Affiliations
 organizations:
-- name: Department of Mechanical Engineering, IIT KGP
-  url: "http://www.iitkgp.ac.in/department/ME"
+- name: E&ECE, IIT KGP
+  url: "http://www.ecdept.iitkgp.ac.in/"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include integrating knowledge and enabling higher-order reasoning in AI.
 
 interests:
- - Active Learning in Video Grounding (Pursuing BTP)
+ - Reasoning in NLP, Multilingual (Pursuing BTP)
 
 # education:
 #   courses:

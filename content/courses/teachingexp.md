@@ -25,6 +25,17 @@ math = false
 
 <h3> Teaching </h3>
 <hr style="float: center">
+List of Courses Taught (at IIT Kharagpur)
+
+- Spring 2022, Information Retreival (<a href="courses/irspring22/">Website</a>)
+- Spring 2022, Deep Learning (for PGDBA, with Prof. Sudeshna Sarkar)
+- Spring 2022, Programming and Data Structures Lab 
+- Autumn 2022, Programmaing and Data Structures Theory (<a href="https://sites.google.com/view/cs10003-fall-2022/home">Website</a>)
+- Autumn 2022, Programming and Data Structures Lab 
+- Spring 2023, Information Retreival (<a href="courses/irspring23/">Website</a>)
+- Spring 2023, Programming and Data Structures Lab 
+
+
 Teaching Assistant Duties:
 
 - CSE-576 Natural Language Processing, Fall 2015 and Fall 2016
