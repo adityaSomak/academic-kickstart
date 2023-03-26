@@ -326,6 +326,37 @@ Weightage: Class-Performance/Viva (8%), Mid-Sem and End-Sem (60%), Term Project 
       </ul>
     </td>
   </tr>
+  <tr class='weekbegin'>
+    <td>Week 8</td>
+    <td>Mon. 20/ 03</td>
+    <td><b>Link Analysis: HITS</b><br /><br />
+    <ul>
+         <li>Slides:
+             <a href="/files/IRSp23/Lec14HITS.pdf">PDF</a>
+      </ul>
+    </td>
+    <td>
+    <ul>
+        <li><a href="https://nlp.stanford.edu/IR-book/pdf/21link.pdf">IIR chapter 21</a></li>
+        <li><a href="https://www.youtube.com/watch?v=fNk_zzaMoSs">Vector Spaces Video Series</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr class="warning">
+    <td></td>
+    <td>Tues. 21 / 03</td>
+    <td><b>Link Analysis: PageRank</b><br /><br />
+    <ul>
+         <li>Slides:
+             <a href="/files/IRSp23/Lec14PageRank.pdf">PDF</a>
+      </ul>
+    </td>
+    <td>
+    <ul>
+        <li><a href="https://nlp.stanford.edu/IR-book/pdf/21link.pdf">IIR chapter 21</a></li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
 <h3>Tentative Topics </h3>
@@ -339,12 +370,11 @@ Weightage: Class-Performance/Viva (8%), Mid-Sem and End-Sem (60%), Term Project 
 <li> Index Construction and Compression</li>
 <li> Relevance feedback & query expansion</li>
 <li> Probabilistic information retrieval</li>
-<li> Language models for information retrieval</li>
+<li> Language models for information retrieval (Probabilistic, RNN, Transformers)</li>
 <li> Link analysis -- HITS, PageRank</li>
 <li> Word Vectors</li>
-<li> Summarization</li>
+<li> <s> Summarization </s></li>
 <li> Learning to Rank</li>
-<li> Neural IR</li>
 </ul> 
 
 <h3> Pre-requisites for the course </h3>
