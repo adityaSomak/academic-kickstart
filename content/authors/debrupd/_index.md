@@ -1,27 +1,27 @@
 ---
 # Display name
-name: Daivik Agarwal
+name: Debrup Das
 
 # Username (this should match the folder name)
 authors:
-- daivik
+- debrup
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: BTech Student (MechEng, IIT-KGP)
+role: Dual Degree Student (Math&Computing, IIT-KGP)
 
 # Organizations/Affiliations
 organizations:
-- name: Department of Mechanical Engineering, IIT KGP
-  url: "http://www.iitkgp.ac.in/department/ME"
+- name: Department of Math and Computing, IIT KGP
+  url: "http://www.iitkgp.ac.in/department/MA"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include integrating knowledge and enabling higher-order reasoning in AI.
 
 interests:
- - Active Learning in Video Grounding (Pursuing <em>BTech Thesis</em>)
+ - Neuro-symbolic Conversational systems (Pursuing <em>MTech Thesis</em>)
 
 # education:
 #   courses:

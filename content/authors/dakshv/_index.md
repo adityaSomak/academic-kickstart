@@ -21,7 +21,7 @@ organizations:
 # bio: My research interests include integrating knowledge and enabling higher-order reasoning in AI.
 
 interests:
- - Reasoning in NLP, Multilingual (Pursuing BTP)
+ - Reasoning in NLP, Multilingual (Pursuing <em>BTech Thesis</em>)
 
 # education:
 #   courses:
