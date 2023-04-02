@@ -3,7 +3,7 @@
 date = "2022-12-27"
 
 # Project title.
-title = "CS60092 Information Retrieval (Spring 2023) !!NEW!!"
+title = "CS60092 Information Retrieval (Spring 2023)"
 
 # Project summary to display on homepage.
 summary = "Course Page for CS60092"
@@ -69,8 +69,8 @@ Friday - 18:10 - 19:10 (CSE-308)
 
 <li> <b>[Jan 27]</b> Project Choice submission deadline: <b> Jan 28th 11:59 PM IST </b>. </li> -->
 
-<li> <span style='color: red'>Recording of GUEST LECTURE</span> BY <a href="https://anikem.github.io/">Dr. Anirudh Kembhavi</a>, Director of Computer Vision at <a href="https://allenai.org/">Allen Institute for AI (AI2)</a> is available <a href="https://iitkgpacin-my.sharepoint.com/:v:/g/personal/saditya_cse_iitkgp_ac_in/EdqcwT7ngbBGhb3r4CltsGsBeb8qH8qdezaTKtSeFx6JPw?e=ghKdK4">here</a>.</li>
-<li>  <span style='color: red'>INVITED GUEST LECTURE</span> BY <a href="https://anikem.github.io/">Dr. Anirudh Kembhavi</a>, Director of Computer Vision at <a href="https://allenai.org/">Allen Institute for AI (AI2)</a> on MARCH 13, MONDAY confirmed!!</li>
+<li> Recording of GUEST LECTURE BY <a href="https://anikem.github.io/">Dr. Anirudh Kembhavi</a>, Director of Computer Vision at <a href="https://allenai.org/">Allen Institute for AI (AI2)</a> is available <a href="http://shorturl.at/gizQZ">here</a>.</li>
+<li> INVITED GUEST LECTURE BY <a href="https://anikem.github.io/">Dr. Anirudh Kembhavi</a>, Director of Computer Vision at <a href="https://allenai.org/">Allen Institute for AI (AI2)</a> on MARCH 13, MONDAY confirmed!!</li>
 <li>  <span style='color: red'>Note: for students, who are not able to register, kindly wait. I will not be able to answer your emails individually. </span> From time to time, I will approve based on CGPA and other criteria (such as total class strength cap etc.). </li>
 
 <li> Every <b>registered</b> student should join the Google mailing list <b>ir-2023-spring@googlegroups.com</b>. All urgent announcements would be made through the group. <span style="color:red">This group is meant only for registered (and approved) students. Kindly mention your roll number and the fact that you have registered in ERP.</span></li>
@@ -367,10 +367,9 @@ Weightage: Class-Performance/Viva (8%), Mid-Sem and End-Sem (60%), Term Project 
       </ul>
     </td>
     <td>
-    <!-- <ul>
-        <li><a href="https://nlp.stanford.edu/IR-book/pdf/21link.pdf">IIR chapter 21</a></li>
-        <li><a href="https://www.youtube.com/watch?v=fNk_zzaMoSs">Vector Spaces Video Series</a></li>
-      </ul> -->
+    <ul>
+        <li><a href="https://nlp.stanford.edu/IR-book/pdf/20crawl.pdf">IIR chapter 20</a></li>
+      </ul>
     </td>
   </tr>
   <tr class="warning">
@@ -385,9 +384,10 @@ Weightage: Class-Performance/Viva (8%), Mid-Sem and End-Sem (60%), Term Project 
       </ul>
     </td>
     <td>
-    <!-- <ul>
-        <li><a href="https://nlp.stanford.edu/IR-book/pdf/21link.pdf">IIR chapter 21</a></li>
-      </ul> -->
+    <ul>
+        <li> <a href="https://arxiv.org/pdf/1301.3781.pdf">Efficient Estimation of Word Representations in Vector Space (original word2vec paper)<a></li>
+        <li><a href="https://proceedings.neurips.cc/paper_files/paper/2013/file/9aa42b31882ec039965f3c4923ce901b-Paper.pdf">Distributed Representations of Words and Phrases and their Compositionality (negative sampling paper)</a></li>
+      </ul>
     </td>
   </tr>
 </table>
