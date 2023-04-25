@@ -26,6 +26,8 @@ weight = 30
 </script>
 
 <div class="mCustomScrollbar" data-mcs-theme="inset-dark" style="height:500px;width:100%;font:24px/28px;font-family: cambria; overflow:auto;">
+<i class="fas fa-star fa-xs" style="color:gold;text-shadow:2px 2px 2px #000;vertical-align: middle;"></i> <span style="font-weight: bold;">[Apr 2023]</span> Ashoka: Prof. Somak Aditya was invited to give a talk at <a href="https://www.ashoka.edu.in/">Ashoka University</a>.
+<br/>
 <i class="fas fa-star fa-xs" style="color:gold;text-shadow:2px 2px 2px #000;vertical-align: middle;"></i> <span style="font-weight: bold;">[Mar 2023]</span> CS60092 COURSE UPDATE:  Recording of GUEST LECTURE BY <a href="https://anikem.github.io/">Dr. Anirudh Kembhavi</a>, Director of Computer Vision at <a href="https://allenai.org/">Allen Institute for AI (AI2)</a> is available <a href="http://shorturl.at/gizQZ">here</a>.
 <br/>
 <i class="fas fa-star fa-xs" style="color:gold;text-shadow:2px 2px 2px #000;vertical-align: middle;"></i> <span style="font-weight: bold;">
