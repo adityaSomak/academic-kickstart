@@ -12,7 +12,8 @@ selected = true
 featured = true
 title = "A Robust Information-Masking Approach for Domain Counterfactual Generation"
 projects = ["NLP"]
-url_pdf = ""
+url_pdf = "https://arxiv.org/pdf/2305.02858.pdf"
+url_code = "https://github.com/declare-lab/remask"
 url_dataset = ""
 url_video = ""
 
