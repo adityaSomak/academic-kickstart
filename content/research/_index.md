@@ -86,18 +86,21 @@ We are grateful to be supported by the following generous organizations:
 <li> <a href="https://toloka.ai/grants/">Toloka AI</a> Annotation Grant (2022) ~ USD 300 </li>
 <li> <a href="https://corp.rakuten.co.in/">Rakuten</a> Sponsored Joint Internship for Debrup Das (2023 Summer) </li>
 <li> <a href="https://www.microsoft.com/">Microsoft</a>: "Accelerate Foundation Models Academic Research" jointly with Prof. Animesh Mukherjee (2023) ~ USD 3000 </li>
-</ul> -->
+</ul> 
+#fc374e,36aeb3, 162d59
+-->
 <ol class="olcards">
-		<li style="--cardColor:#fc374e">
+		<li style="--cardColor:rgba(252,55,78,0.7)">
 			<div class="content">
 				<!-- <div class="icon">😀</div> -->
+        <!-- <div class="icon"><img src="serb.png" height="60px" width="60px" background-color=white/></div> -->
 				<div class="title">SERB DST SRG (2021-23)</div>
 				<div class="text">SERB DST Startup Research Grant (2021-23) ~ INR 26 Lacs
         | Topic: "Learning from Rules and Data for Image Analytics"
         </div>
 			</div>
 		</li>
-		<li style="--cardColor:#36aeb3">
+		<li style="--cardColor:rgba(54,174,179,0.7)">
 			<div class="content">
 				<!-- <div class="icon">😁</div> -->
 				<div class="title">IIT Kharagpur FSRG (2022-24)</div>
@@ -108,7 +111,7 @@ We are grateful to be supported by the following generous organizations:
         </div>
 			</div>
 		</li>
-		<li style="--cardColor:#162d59">
+		<li style="--cardColor:rgba(22,45,89,0.2)">
 			<div class="content">
 				<!-- <div class="icon">😉</div> -->
 				<div class="title">Toloka AI Grant (2022)</div>
@@ -117,11 +120,11 @@ We are grateful to be supported by the following generous organizations:
         </div>
 			</div>
 		</li>
-		<li style="--cardColor:#fc374e">
+		<li style="--cardColor:rgba(252,55,78,0.7)">
 			<div class="content">
 				<!-- <div class="icon">😜</div> -->
 				<div class="title">Microsoft Accelerate Foundation Models Grant (2023)</div>
-				<div class="text">Microsoft: "Accelerate Foundation Models Academic Research" (2023) ~ USD 3000 | Topic: "Perils and Prevention of Prompt Injection Attacks for Large Language Models"
+				<div class="text">Microsoft: "Accelerate Foundation Models Academic Research" (2023) ~ USD 5000 | Topic: "Perils and Prevention of Prompt Injection Attacks for Large Language Models"
         </br> Joint PI: Prof. Animesh Mukherjee</div>
 			</div>
 		</li>
