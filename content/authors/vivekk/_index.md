@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: MTech Student, CSE
+role: Scientist, DRDO (Formerly MTech Student, CSE)
 
 # Organizations/Affiliations
 organizations:
@@ -65,6 +65,6 @@ email: ""
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
 #- Grad Students
-- Researchers
+- Alumni
 ---
 

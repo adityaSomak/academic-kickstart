@@ -1,27 +1,27 @@
 ---
 # Display name
-name: Daivik Agarwal
+name: Soni Aditya Bharatbhai
 
 # Username (this should match the folder name)
 authors:
-- daivik
+- adityab
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: BTech Student (MechEng, IIT-KGP)
+role: BTech Student (CS, IIT-KGP)
 
 # Organizations/Affiliations
 organizations:
-- name: Department of Mechanical Engineering, IIT KGP
-  url: "http://www.iitkgp.ac.in/department/ME"
+- name: Department of Computer Science, IIT KGP
+  url: "htthttp://cse.iitkgp.ac.in/"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include integrating knowledge and enabling higher-order reasoning in AI.
 
 interests:
- - Active Learning in Video Grounding (Pursuing <em>BTech Thesis</em>, with Dr. Maneesh Singh)
+ - Generalizing Backdoor Attacks to Opaque Models (Pursuing <em>BTech Thesis</em>, jointly with Prof. Mainack Mondal)
 
 # education:
 #   courses:

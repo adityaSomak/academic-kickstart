@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Dual Degree Student (Math&Computing, IIT-KGP)
+role: Dual Degree MTP Student (Math&Computing, IIT-KGP)
 
 # Organizations/Affiliations
 organizations:

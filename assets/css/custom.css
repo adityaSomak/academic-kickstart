@@ -479,21 +479,29 @@ olcards,
   --inlinePadding: 1em;
   --boxPadding: 0.5em;
   display: grid;
+  /* padding: var(--boxPadding) calc(var(--inlinePadding) + var(--arrowClipSize))
+    var(--boxPadding) calc(var(--inlinePadding) + var(--labelOffset)); */
   padding: var(--boxPadding) calc(var(--inlinePadding) + var(--arrowClipSize))
     var(--boxPadding) calc(var(--inlinePadding) + var(--labelOffset));
+  /* flex-basis: 100%;
+  flex-grow: 0;
+  flex-shrink: 0; */
   grid-template-areas:
     "icon title"
     "icon text";
   gap: 0.25em 1em;
-  clip-path: polygon(
+  /* clip-path: polygon(
     0 0,
     calc(100% - var(--arrowClipSize)) 0,
     100% 50%,
     calc(100% - var(--arrowClipSize)) 100%,
     calc(100% - var(--arrowClipSize)) calc(100% + var(--cardsGap)),
     0 calc(100% + var(--cardsGap))
-  );
+  ); */
+  clip-path: inset(0% 0% 0% 0% round 0 30px 30px 0);
   position: relative;
+  border: 2px solid black;
+  border-radius: 0 30px 30px 0;
 }
 .olcards li .content::before {
   content: "";
