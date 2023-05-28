@@ -32,7 +32,26 @@ weight = 100
 <div class="bgimg">
 <h2> <em>Tr</em>$^2$AIL: Trust and Transparency in AI through Logic </h2>
 <hr style="float: center">
-The <em>Tr</em>$^2$AIL research group is led by Prof. Somak Aditya. The long-term goal of the lab is to achieve transparent Human-aware AI systems through Logic and Reasoning. We want the AI systems to be able to <em>reason-in-the-wild</em> and do so transparently for the end-users with whom it is expected to interact. Technically, we will work on the fundamental challenges faced by current neural and probabilistic logical systems in achieving such properties. I am fortunate to be working with a group of passionate <u><a href="/people">student reserachers</a></u> and my wonderful <u><a href="/external">collaborators</a></u>. Our group acknowledges the kind and generous support by <a href="https://www.microsoft.com/">Microsoft</a>, <a href="https://corp.rakuten.co.in/">Rakuten</a>, <a href="https://toloka.ai/grants/">Toloka AI</a>, SERB DST and IIT Kharagpur (see below for details).
+The <em>Tr</em>$^2$AIL research group is led by Prof. Somak Aditya. The long-term goal of the lab is to achieve transparent Human-aware AI systems through Logic and Reasoning. We want the AI systems to be able to <em>reason-in-the-wild</em> and do so transparently for the end-users with whom it is expected to interact. Technically, we will work on the fundamental challenges faced by current neural and probabilistic logical systems in achieving such properties. I am fortunate to be working with a group of passionate <u><a href="/people">student reserachers</a></u> and my wonderful <u><a href="/external">collaborators</a></u>. Our group acknowledges the kind and generous support by <a href="https://www.microsoft.com/">Microsoft</a>, <a href="https://corp.rakuten.co.in/">Rakuten</a> (through sponsored internship), <a href="https://toloka.ai/grants/">Toloka AI</a>, SERB DST and IIT Kharagpur (see below for details).
+
+<br/> <br/>
+<div class="multi-button">
+<span class="lnkbtn" style="--btnColor:rgb(85,131,241)">
+<a href="/people">Group Members</a></u>
+</span>
+<span class="lnkbtn" style="--btnColor:rgb(39,166,75)">
+<a href="/external">External Collaborators</a></u>
+</span>
+<span class="lnkbtn" style="--btnColor:rgb(242,185,42)" >
+<a href="/publication">Publications</a></u>
+</span>
+<span class="lnkbtn" style="--btnColor:rgb(219,68,55)">
+<a href="#grants">Grants</a></u>
+</span>
+<span class="lnkbtn" style="--btnColor:rgb(39,166,75)">
+<a href="#faqs">FAQs</a></u>
+</span>
+</div>
 
 
 <div> 
@@ -78,6 +97,7 @@ I am looking for motivated Ph.D students who are interested in pursuing <b><u>th
 Prof. Animesh Mukherjee and I are actively looking for a full-time joint PhD student to work on multi-lingual multi-modal representation and reasoning. Please apply though <a href="http://www.iitkgp.ac.in/phd-admission">here</a>, and send me an email.
 </div>
 
+<section id="grants">
 <h3> Grant Support </h3>
 We are grateful to be supported by the following generous organizations:
 <!-- <ul>
@@ -87,10 +107,10 @@ We are grateful to be supported by the following generous organizations:
 <li> <a href="https://corp.rakuten.co.in/">Rakuten</a> Sponsored Joint Internship for Debrup Das (2023 Summer) </li>
 <li> <a href="https://www.microsoft.com/">Microsoft</a>: "Accelerate Foundation Models Academic Research" jointly with Prof. Animesh Mukherjee (2023) ~ USD 3000 </li>
 </ul> 
-#fc374e,36aeb3, 162d59
+#fc374e,36aeb3, 162d59, #FFD580, rgba(252,55,78,0.7), rgba(252,55,78,0.7)
 -->
 <ol class="olcards">
-		<li style="--cardColor:rgba(252,55,78,0.7)">
+		<li style="--cardColor:#FFD580">
 			<div class="content">
 				<!-- <div class="icon">😀</div> -->
         <!-- <div class="icon"><img src="serb.png" height="60px" width="60px" background-color=white/></div> -->
@@ -100,7 +120,7 @@ We are grateful to be supported by the following generous organizations:
         </div>
 			</div>
 		</li>
-		<li style="--cardColor:rgba(54,174,179,0.7)">
+		<li style="--cardColor:rgba(22,45,89,0.2)">
 			<div class="content">
 				<!-- <div class="icon">😁</div> -->
 				<div class="title">IIT Kharagpur FSRG (2022-24)</div>
@@ -111,6 +131,14 @@ We are grateful to be supported by the following generous organizations:
         </div>
 			</div>
 		</li>
+    <li style="--cardColor:#FFD580">
+			<div class="content">
+				<!-- <div class="icon">😜</div> -->
+				<div class="title">Microsoft Accelerate Foundation Models Grant (2023)</div>
+				<div class="text">Microsoft: "Accelerate Foundation Models Academic Research" (2023) ~ USD 5000 | Topic: "Perils and Prevention of Prompt Injection Attacks for Large Language Models"
+        </br> Joint PI: Prof. Animesh Mukherjee</div>
+			</div>
+		</li>
 		<li style="--cardColor:rgba(22,45,89,0.2)">
 			<div class="content">
 				<!-- <div class="icon">😉</div> -->
@@ -118,14 +146,6 @@ We are grateful to be supported by the following generous organizations:
 				<div class="text"><a href="https://toloka.ai/grants/">Toloka AI</a> Annotation Grant (2022) ~ USD 300
         | Topic: "Infusing Language Model with Affordances"
         </div>
-			</div>
-		</li>
-		<li style="--cardColor:rgba(252,55,78,0.7)">
-			<div class="content">
-				<!-- <div class="icon">😜</div> -->
-				<div class="title">Microsoft Accelerate Foundation Models Grant (2023)</div>
-				<div class="text">Microsoft: "Accelerate Foundation Models Academic Research" (2023) ~ USD 5000 | Topic: "Perils and Prevention of Prompt Injection Attacks for Large Language Models"
-        </br> Joint PI: Prof. Animesh Mukherjee</div>
 			</div>
 		</li>
 	</ol>
@@ -139,6 +159,7 @@ We are grateful to be supported by the following generous organizations:
         </filter>
     </defs>
 </svg>
+</section>
 
 </div>
 <!-- <div class="info">
@@ -155,7 +176,7 @@ We are grateful to be supported by the following generous organizations:
 </div> -->
 
 
-
+<section id="faqs">
 <h3> FAQs for Propsective Students </h3>
 <!-- Some answers are tailored towards Ph.D students; but should be applicable to MTech and BTech thesis students as well. 
 <br/> -->
@@ -216,6 +237,7 @@ M.S. (by Research) Positions:   For M.S., please apply through the list of adver
 
 </li>
 </ol>
+</section>
 
 
 
