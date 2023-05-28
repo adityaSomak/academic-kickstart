@@ -55,7 +55,7 @@ The <em>Tr</em>$^2$AIL research group is led by Prof. Somak Aditya. The long-ter
 
 
 <div> 
-<img src="trailsummarykgp.png" alt="img"/>
+<img src="trailsummarykgp.png" alt="img" style="width:80%"/>
 
 
 

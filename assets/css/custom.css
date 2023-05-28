@@ -242,12 +242,13 @@ a {
     background-color: white;
     border: 1px solid white;
     border-radius: 14px;
-    padding: 5px;
-    width: fit-content;
+    padding: 5px;  
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.1), 0 6px 15px 0 rgba(0, 0, 0, 0.1);
-    place-items: center;
-    margin: auto;
-    display: flex;
+    /* place-items: center; */
+    width: fit-content; /*required to wrap around the buttons*/
+    max-width: 100%;
+    display: inline-block; /* Required to make sure it works for mobile */
+    margin: 0 auto;
 }
 
 .multi-button .lnkbtn {
@@ -263,13 +264,14 @@ a {
     color: white;
     border-radius: 7px;
     margin: 10px;
+    display: inline-block;
 }
 
 .multi-button .lnkbtn span {
     cursor: pointer;
     display: inline-block;
     position: relative;
-    transition: 0.5s;
+    transition: 0.3s;
 }
 
 .multi-button .lnkbtn span:after {
@@ -277,7 +279,7 @@ a {
     opacity: 0;
     top: 0;
     right: -20px;
-    transition: 0.5s;
+    transition: 0.3s;
 }
 
 .multi-button .lnkbtn:hover {
@@ -305,7 +307,7 @@ a {
   
   /* mouse over link */
 .multi-button .lnkbtn a:hover {
-    color: hotpink;
+    color: blueviolet;
 }
   
   /* selected link */
