@@ -13,7 +13,7 @@ summary = "In this project, we explore how reasoning with knowledge enhance imag
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["deep-learning", "soft-logic"]`
-tags = ["deep-learning", "soft-logic", "Vision and Language", "Vision", "Language"]
+tags = ["deep-learning", "soft-logic", "Vision and Language", "Vision", "Language", "common-sense"]
 
 # Optional external URL for project (replaces project detail page).
 # external_link = "https://visionandreasoning.wordpress.com"
@@ -24,10 +24,21 @@ math = false
 +++
 
 Many vision and language tasks require commonsense reasoning beyond data-driven image and natural language processing. Cognitive Sciences and Active Vision literature points to an explicit iterative interaction
-among perception, reasoning, and memeory (knowledge) modules ([DeepIU ACS 2015](https://www.public.asu.edu/~cbaral/papers/acs2016.pdf)).
+among perception, reasoning, and memory (knowledge) modules ([DeepIU ACS 2015](https://www.public.asu.edu/~cbaral/papers/acs2016.pdf)).
+
+<h3> Ongoing Projects </h3>
+<ol>
+<li> SERB DST Startup Research Grant (2021-23) ~ INR 26 Lacs
+        | Topic: "Learning from Rules and Data for Image Analytics"</li>
+<li> IIT Kharagpur Faculty Startup Research Grant (2022-24) ~ INR 25 Lacs
+        <br/> Topic: The Role of Feedback in Vision-Language enabled Embodied Agents towards Applications in Desire Management
+        <br/> Joint PI: Prof. Pawan Goyal </li>
+<li> Counterfactual Reasoning in Videos </li>
+<li> Active Learning for 3D Video Grounding (with Dr. Maneesh Singh)</li>
+</ol>
 
 <h3> Captioning </h3> 
-In our earliest attempt ([CVIU 2017](https://imagesdg.wordpress.com/image-to-scene-description-graph/) ), we used a combination of image classification, reasoning with commonsense knowledge (extracted from training captions) to propose a Scene Description Graph as an intermediate representation for a natural image. We showed the efficacy of this representation through image captioning, image retrieval tasks (and QA case studies.)
+In our earliest attempt ([CVIU 2017](https://imagesdg.wordpress.com/image-to-scene-description-graph/)), we used a combination of image classification, reasoning with commonsense knowledge (extracted from training captions) to propose a Scene Description Graph as an intermediate representation for a natural image. We showed the efficacy of this representation through image captioning, image retrieval tasks (and QA case studies).
 
 <h3> Visual QA, Image Puzzles and Visual Reasoning </h3>
 We have proposed instantiations of this abstract architecture to solve image puzzles, VQA and visual reasoning tasks such as CLEVR. In our [AAAI 2018 VQA](https://visionandreasoning.wordpress.com), and [UAI 2018 Puzzles](https://imageriddle.wordpress.com/imageriddle/) work, we have proposed an explicit probabilistic soft logic layer on top of a neural architecture that helps integrate commonsense knowledge and induces post-hoc interpretability.

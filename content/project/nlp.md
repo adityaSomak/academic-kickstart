@@ -13,7 +13,7 @@ image_preview = "headers/taxinli2.png"
 
 # Tags: can be used for filtering projects.
 # Example: `tags = ["deep-learning", "soft-logic"]`
-tags = ["deep-learning", "Logic", "Language", "common-sense", "Semantic Parsing", "Knowledge Acqusition"]
+tags = ["deep-learning", "Logic", "NLP", "common-sense", "Semantic Parsing", "Knowledge Acqusition"]
 
 # Optional external URL for project (replaces project detail page).
 # external_link = "https://github.com/microsoft/TaxiNLI"

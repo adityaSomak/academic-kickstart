@@ -253,7 +253,7 @@ a {
 
 .multi-button .lnkbtn {
     background-color: var(--btnColor); 
-    border: 1px solid rgb(85,131,241);
+    /* border: 1px solid rgb(85,131,241); */
     color: white;
 }
 

@@ -1,7 +1,7 @@
 +++
 abstract = ""
 abstract_short = ""
-authors = ["Somak Aditya", "Rudra Saha", "Yezhou Yang", "Chitta Baral"]
+authors = ["admin", "Rudra Saha", "Yezhou Yang", "Chitta Baral"]
 date = "2019-01-09"
 image_preview = ""
 math = true
@@ -10,7 +10,7 @@ publication = "In WACV 2019"
 publication_short = "In *WACV 2019*"
 selected = true
 title = "Spatial Knowledge Distillation to aid Visual Reasoning"
-projects = ["Vision", "NLP"]
+projects = ["Vision", "nlp"]
 url_pdf = "https://www.public.asu.edu/~cbaral/papers/2019-wacv.pdf"
 url_project = ""
 # url_slides = "#"

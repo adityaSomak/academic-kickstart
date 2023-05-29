@@ -1,7 +1,7 @@
 +++
 abstract = ""
 abstract_short = ""
-authors = ["Vishesh Agarwal", "Somak Aditya", "Navin Goyal"]
+authors = ["Vishesh Agarwal", "admin", "Navin Goyal"]
 date = "2021-05-07"
 image_preview = "headers/taxinli2.png"
 math = true
