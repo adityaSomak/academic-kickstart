@@ -26,6 +26,8 @@ weight = 30
 </script>
 
 <div class="mCustomScrollbar" data-mcs-theme="inset-dark" style="height:500px;width:100%;font:24px/28px;font-family: cambria; overflow:auto;">
+<i class="fas fa-star fa-xs" style="color:gold;text-shadow:2px 2px 2px #000;vertical-align: middle;"></i> <span style="font-weight: bold;">[Jul 2023]</span> CS60050: NO DIRECT EMAILS FOR COURSE REGISTRATION WILL BE ENTERTAINED. They may be spammed or even reported.
+<br/>
 <i class="fas fa-star fa-xs" style="color:gold;text-shadow:2px 2px 2px #000;vertical-align: middle;"></i>  <span style="font-weight: bold;">[Jun 2023]</span> EMNLP 2023: Invited as an Area Chair.
 <br/>
 <i class="fas fa-star fa-xs" style="color:gold;text-shadow:2px 2px 2px #000;vertical-align: middle;"></i>  <span style="font-weight: bold;">[Jun 2023]</span> AAAI 2024: Invited as a Senior PC member for the second time. 
