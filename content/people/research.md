@@ -56,9 +56,9 @@ The <em>Tr</em>$^2$AIL research group is led by Prof. Somak Aditya. The long-ter
 I am looking for motivated Ph.D students who are interested in pursuing <b><u>their thesis</u></b> in the exciting juncture of classical and statistical AI (often dubbed as neuro-symbolic methods). For prospective students, please see answers to FAQs below (to be updated). 
 </div>
 
-<div class="info">
+<!-- <div class="info">
 Prof. Animesh Mukherjee and I are actively looking for a full-time joint PhD student to work on multi-lingual multi-modal representation and reasoning. The student is expected to start with us by Autumn 2022. Please apply though <a href="http://www.iitkgp.ac.in/phd-admission">here</a>, and send me an email.
-</div>
+</div> -->
 
 
 <!-- <span style="color: red"> </span>   -->
