@@ -34,6 +34,8 @@ List of Courses Taught (at IIT Kharagpur)
 - Autumn 2022, Programming and Data Structures Lab 
 - Spring 2023, Information Retreival (<a href="courses/irspring23/">Website</a>)
 - Spring 2023, Programming and Data Structures Lab 
+- Autumn 2023, Machine Learning (<a href="https://sites.google.com/view/cs60050-fall-2023/home">Website</a>, with Prof. Sudeshna Sarkar)
+- Autumn 2023, Programming and Data Structures Lab 
 
 
 Teaching Assistant Duties:
