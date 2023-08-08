@@ -26,6 +26,8 @@ weight = 30
 </script>
 
 <div class="mCustomScrollbar" data-mcs-theme="inset-dark" style="height:500px;width:100%;font:24px/28px;font-family: cambria; overflow:auto;">
+<i class="fa fa-bullhorn" style="color:red;text-shadow:1px 1px 1px #000;"></i> <span style="font-weight: bold;">[Jul 2023]</span> LREV 2023: LREV Journal on Logical NLI dataset accepted with Ishan Tarunesh and Monojit Choudhury (Updated preprint soon).
+<br/>
 <i class="fas fa-star fa-xs" style="color:gold;text-shadow:2px 2px 2px #000;vertical-align: middle;"></i> <span style="font-weight: bold;">[Jul 2023]</span> CS60050: NO DIRECT EMAILS FOR COURSE REGISTRATION WILL BE ENTERTAINED. They may be spammed or even reported.
 <br/>
 <i class="fas fa-star fa-xs" style="color:gold;text-shadow:2px 2px 2px #000;vertical-align: middle;"></i>  <span style="font-weight: bold;">[Jun 2023]</span> EMNLP 2023: Invited as an Area Chair.
