@@ -7,7 +7,7 @@ image_preview = ""
 math = true
 publication_types = ["1"]
 publication = "In The 3rd Workshop on EVENTS: Definition, Detection, Coreference, and Representation, NAACL-HLT. 2015"
-publication_short = "In *NAACL-HLT 2015 Workshop on EVENTS*"
+publication_short = "In <span style='color:brown;'>*NAACL-HLT 2015 Workshop on EVENTS*</span>"
 selected = true
 title = "Identifying various kinds of event mentions in k-parser output"
 projects = ["NLP"]

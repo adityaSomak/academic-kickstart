@@ -7,7 +7,7 @@ image_preview = ""
 math = true
 publication_types = ["1"]
 publication = "In  Advances in Cognitive Systems (ACS) 4 (2016)"
-publication_short = "In *ACS, 2016*"
+publication_short = "In <span style='color:brown;'>*ACS, 2016*</span>"
 selected = true
 title = "DeepIU: An Architecture for Image Understanding"
 projects = ["Vision", "NLP"]

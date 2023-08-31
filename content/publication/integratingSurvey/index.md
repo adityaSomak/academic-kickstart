@@ -7,7 +7,7 @@ image_preview = ""
 math = true
 publication_types = ["1"]
 publication = "In IJCAI 2019"
-publication_short = "In *IJCAI 2019*"
+publication_short = "In <span style='color:brown;'>*IJCAI 2019*</span>"
 selected = true
 title = "Integrating Knowledge and Reasoning in Image Understanding"
 projects = ["Vision", "nlp"]

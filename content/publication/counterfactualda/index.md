@@ -7,7 +7,7 @@ image_preview = ""
 math = true
 publication_types = ["3"]
 publication = "In ACL 2023 (Findings) Long Paper"
-publication_short = "In *ACL 2023 (Long Paper Findings)* "
+publication_short = "In <span style='color:brown;'>*ACL 2023 (Long Paper Findings)*</span> "
 selected = true
 featured = true
 title = "A Robust Information-Masking Approach for Domain Counterfactual Generation"

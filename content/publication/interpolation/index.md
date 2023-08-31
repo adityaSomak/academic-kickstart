@@ -7,7 +7,7 @@ image_preview = ""
 math = true
 publication_types = ["3"]
 publication = "In AACL-IJCNLP 2022 Short Paper"
-publication_short = "In *AACL-IJCNLP 2022 (Short Paper)* "
+publication_short = "In <span style='color:brown;'>*AACL-IJCNLP 2022 (Short Paper)*</span> "
 selected = true
 featured = false
 title = "Vector Space Interpolation for Query Expansion"

@@ -7,10 +7,10 @@ image_preview = ""
 math = true
 publication_types = ["1"]
 publication = "In WACV 2019"
-publication_short = "In *WACV 2019*"
+publication_short = "In <span style='color:brown;'>*IEEE WACV 2019*</span>"
 selected = true
 title = "Spatial Knowledge Distillation to aid Visual Reasoning"
-projects = ["Vision", "nlp"]
+projects = ["Vision", "nlp","neurosymbolic"]
 url_pdf = "https://www.public.asu.edu/~cbaral/papers/2019-wacv.pdf"
 url_project = ""
 # url_slides = "#"

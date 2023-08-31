@@ -7,7 +7,7 @@ image_preview = "headers/taxinli2.png"
 math = true
 publication_types = ["1"]
 publication = "In CoNLL 2020"
-publication_short = "In *CoNLL 2020*"
+publication_short = "In <span style='color:brown;'>*CoNLL 2020*</span>"
 selected = true
 featured = true
 title = "TaxiNLI: Taking a Ride up the NLU Hill"

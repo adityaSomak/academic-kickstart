@@ -7,10 +7,10 @@ image_preview = ""
 math = true
 publication_types = ["1"]
 publication = "In UAI. 2018"
-publication_short = "In *UAI 2018*"
+publication_short = "In <span style='color:brown;'>*UAI 2018*</span>"
 selected = true
 title = "Combining Knowledge and Reasoning through Probabilistic Soft Logic for Image Puzzle Solving"
-projects = ["Vision", "NLP"]
+projects = ["Vision", "nlp","neurosymbolic"]
 url_pdf = "http://auai.org/uai2018/proceedings/papers/83.pdf"
 url_project = "https://imageriddle.wordpress.com/imageriddle/"
 url_code = "https://github.com/adityaSomak/ImageRiddleSolving"

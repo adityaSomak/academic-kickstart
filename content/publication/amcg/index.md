@@ -7,7 +7,7 @@ image_preview = ""
 math = true
 publication_types = ["3"]
 publication = "In AACL-IJCNLP 2022 (Findings) Long Paper"
-publication_short = "In *AACL-IJCNLP 2022 (Long Paper Findings)* "
+publication_short = "In <span style='color:brown;'>*AACL-IJCNLP 2022 (Long Paper Findings)*</span> "
 selected = true
 featured = true
 title = "Multilingual CheckList: Generation and Evaluation"

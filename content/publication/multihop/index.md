@@ -7,11 +7,11 @@ image_preview = ""
 math = true
 publication_types = ["3"]
 publication = "In ArXiv 2022"
-publication_short = "In *ArXiv 2022* (under review)"
+publication_short = "In <span style='color:brown;'>*ArXiv 2022* (under review)</span>"
 selected = true
 featured = true
 title = "Generating Intermediate Steps for NLI with Next-Step Supervision"
-projects = ["nlp"]
+projects = ["nlp","neurosymbolic"]
 url_pdf = "https://arxiv.org/abs/2208.14641"
 url_dataset = ""
 url_video = ""

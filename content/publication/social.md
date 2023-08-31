@@ -7,7 +7,7 @@ image_preview = ""
 math = true
 publication_types = ["1"]
 publication = "In NAACL-HLT. 2015"
-publication_short = "In *NAACL-HLT, 2015*"
+publication_short = "In <span style='color:brown;'>*NAACL-HLT, 2015*</span>"
 selected = true
 title = "Recognizing social constructs from textual conversation"
 projects = ["NLP"]

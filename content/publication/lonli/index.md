@@ -7,7 +7,7 @@ image_preview = "headers/taxinli2.png"
 math = true
 publication_types = ["2"]
 publication = "In Language Resources and Evaluations 2023"
-publication_short = "In *LREV 2023* (In Print)"
+publication_short = "In <span style='color:brown;'>*LREV 2023* (In Print)</span>"
 selected = true
 featured = false
 title = "LoNLI: An Extensible Framework for Testing Diverse Logical Reasoning Capabilities for NLI"

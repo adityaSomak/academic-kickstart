@@ -7,10 +7,10 @@ image_preview = ""
 math = true
 publication_types = ["1"]
 publication = "In IJCAI. 2015"
-publication_short = "In *IJCAI, 2015*"
+publication_short = "In <span style='color:brown;'>*IJCAI, 2015*</span>"
 selected = true
 title = "Towards Addressing the Winograd Schema Challenge-Building and Using a Semantic Parser and a Knowledge Hunting Module."
-projects = ["NLP"]
+projects = ["NLP","neurosymbolic"]
 url_pdf = "http://www.aaai.org/ocs/index.php/IJCAI/IJCAI15/paper/download/11096/10846"
 url_demo = "https://kparser.org"
 # url_slides = "#"

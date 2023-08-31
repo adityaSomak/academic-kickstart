@@ -7,7 +7,7 @@ image_preview = ""
 math = true
 publication_types = ["1"]
 publication = "In AAAI Spring Symposium Series. 2015"
-publication_short = "In *AAAI Spring Symposium, 2015*"
+publication_short = "In <span style='color:brown;'>*AAAI Spring Symposium, 2015*</span>"
 selected = true
 title = "Visual common-sense for scene understanding using perception, semantic parsing and reasoning."
 projects = ["Vision", "NLP"]

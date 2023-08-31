@@ -7,7 +7,7 @@ image_preview = ""
 math = true
 publication_types = ["1"]
 publication = "In AAAI 2022 Demonstrations"
-publication_short = "In *AAAI 2022 Demonstrations*"
+publication_short = "In <span style='color:brown;'>*AAAI 2022 Demonstrations*</span>"
 selected = true
 featured = true
 title = "LITMUS Predictor: An AI Assistant for Building Reliable, High-Performing and Fair Multilingual NLP Systems"

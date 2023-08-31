@@ -7,11 +7,11 @@ image_preview = "headers/taxinli2.png"
 math = true
 publication_types = ["1"]
 publication = "In ICLR 2021 MathAI Workshop"
-publication_short = "In *ICLR 2021 MathAI*"
+publication_short = "In <span style='color:brown;'>*ICLR 2021 MathAI*</span>"
 selected = true
 featured = true
 title = "Analyzing the Nuances of Transformers' Polynomial Simplification Abilities"
-projects = ["symbolicmath"]
+projects = ["symbolicmath","neurosymbolic"]
 url_pdf = "https://mathai-iclr.github.io/papers/papers/MATHAI_6_paper.pdf"
 url_poster = "https://mathai-iclr.github.io/papers/posters/MATHAI_6_poster.pdf"
 url_video = "https://www.youtube.com/watch?v=Qjh76c3_qLI&feature=youtu.be"

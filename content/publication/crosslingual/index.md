@@ -7,7 +7,7 @@ image_preview = ""
 math = true
 publication_types = ["1"]
 publication = "In EMNLP 2021 MRL Workshop"
-publication_short = "In *EMNLP 2021 MRL Workshop*"
+publication_short = "In <span style='color:brown;'>*EMNLP 2021 MRL Workshop*</span>"
 selected = true
 featured = true
 title = "Analyzing the Effects of Reasoning Types on Cross-Lingual Transfer Performance"
