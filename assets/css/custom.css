@@ -207,6 +207,24 @@ a {
     transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
 }
 
+.bx-tag-nlpl {
+    border: none;
+    background-color: #9ef0c6;
+    color: #261f54;
+    font-weight: 400;
+    border-radius: 3px;
+    padding: 5px 10px;
+    margin-right: 8px;
+    margin-bottom: 8px;
+    display: inline-block;
+    font-size: 85%;
+    line-height: 1;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+
 /* .bx--tag {
     display: inline-block;
     border: 0;

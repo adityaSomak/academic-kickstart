@@ -26,7 +26,9 @@ weight = 30
 </script>
 
 <div class="mCustomScrollbar" data-mcs-theme="inset-dark" style="height:500px;width:100%;font:24px/28px;font-family: cambria; overflow:auto;">
-<i class="fa fa-bullhorn" style="color:red;text-shadow:1px 1px 1px #000;"></i> <span style="font-weight: bold;">[Jul 2023]</span> LREV 2023: LREV Journal on Logical NLI dataset accepted with Ishan Tarunesh and Monojit Choudhury (Updated preprint soon).
+<i class="fa fa-bullhorn" style="color:red;text-shadow:1px 1px 1px #000;"></i> <span style="font-weight: bold;">[Sep 2023]</span> AACL-IJCNLP 2023: 2 Long papers accepted in Main Conference: 1) SYNC: A Structurally guided Hard Negative Curricula for Efficient Neural Code Search (with Atharva Naik, Soumitra Das, Jyothi Vedurada), 2) Prover: Generating Intermediate Steps for NLI with Commonsense Knowledge Retrieval and Next-Step Prediction (with Deepanway Ghosal, Monojit Choudhury). Stay tuned for code and preprints!
+<br/>
+<i class="fa fa-bullhorn" style="color:red;text-shadow:1px 1px 1px #000;"></i> <span style="font-weight: bold;">[Aug 2023]</span> LREV 2023: LREV Journal on Logical NLI dataset accepted with Ishan Tarunesh and Monojit Choudhury (Updated preprint soon).
 <br/>
 <i class="fas fa-star fa-xs" style="color:gold;text-shadow:2px 2px 2px #000;vertical-align: middle;"></i> <span style="font-weight: bold;">[Jul 2023]</span> CS60050: NO DIRECT EMAILS FOR COURSE REGISTRATION WILL BE ENTERTAINED. They may be spammed or even reported.
 <br/>
