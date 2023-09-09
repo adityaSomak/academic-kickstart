@@ -1,7 +1,7 @@
 +++
 abstract = ""
 abstract_short = ""
-authors = ["Atharva Naik", "Soumitra Das", "Jyothi Vedurada", "Somak Aditya"]
+authors = ["atharva", "Soumitra Das", "Jyothi Vedurada", "Somak Aditya"]
 date = "2023-09-05"
 image_preview = ""
 math = true
