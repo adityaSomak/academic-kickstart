@@ -25,6 +25,9 @@ math = false
 
 Models that claim to understand language, should also be able to demonstrate its abilities to reason across various dimensions. My present goal is to *evaluate*, *enhance* and *explain* the reasoning capabilities of such systems (or language models).
 
+<h4> <span style="color:red">!!NEW!!</span> Reasoning in LLMs </h4>
+Our group has invested significantly in advancing reasoning abilities of LLMs in a multi-hop setting. The following drafts are in progress: 1) DeSelect$^+$: Efficient Leaf Selection to Improve Entailment Tree Generation, 2) A comprehensive survey of Logical Reasoning abilities of Large Language Models alongwith a benchmark, and 3) Multi-step Logical Reasoning under Incomplete Knowledge.
+
 <h3> Natural Language Inference </h3>
 Large pre-trained language models show high performance in popular NLP benchmarks (GLUE, SuperGLUE), while failing poorly in datasets with targeted linguistic and logical phenomena. We consolidate the interesting reasoning phenomena
 in Taxonomy of reasoning w.r.t the NLI task. Our first work along this line published in [CoNLL 2020](https://github.com/microsoft/TaxiNLI) showed that these models (BERT, RoBERTa) may not know how to perform certain types of reasoning such as causal, numeric, spatial, temporal; but they can identify the type of reasoning required for a new example. 
@@ -37,13 +40,13 @@ Summary and Extensions:
 </li>
 <li> [TaxiXNLI: Multi-lingual Extension of TaxiNLI](https://github.com/microsoft/TaxiXNLI), <em>EMNLP 2021 MRL Workshop</em>
 </li>
-<li> [LoNLI: Testing Diverse Reasoning of NLI Systems](https://github.com/microsoft/LoNLI), <em>Under review in LRE</em>
+<li> [LoNLI: Testing Diverse Reasoning of NLI Systems](https://github.com/microsoft/LoNLI), <em>LREV 2023, In Print, <span style="color:red">!!NEW!!</span></em>
 </li>
 
 </ul>
 
 <div>
-<h4> Enhancing NLI: Multi-hop, Causality and Counterfactuals </h4>
+<h4> Enhancing NLI: Multi-hop, Causality and Counterfactuals & Reasoning in LLMs </h4>
 As observed through TaxiNLI family of work, language models struggle with many important reasoning types. With Deepanway Ghoshal and Monojit choudhury, we explored a <b>less annotation-intensive</b> way to <a href=https://arxiv.org/abs/2208.14641">generate intermediate steps</a> for complex reasoning examples in free-form NLI datasets. We observe, not only, we can generate such multi-hop steps without end-to-end supervision; but the steps are accurate as they <em>can be augmented directly</em> to improve NLI model's predictive ability. 
 
 
@@ -52,13 +55,17 @@ As observed through TaxiNLI family of work, language models struggle with many i
 
 References
 <ul>
-<li> [Generating Intermediate Steps for NLI with Next-Step Supervision](https://arxiv.org/abs/2208.14641), <em>ArXiv 2022, Under review</em>
+<li> [Generating Intermediate Steps for NLI with Next-Step Supervision](https://arxiv.org/abs/2208.14641), <em>AACL-IJCNLP 2023, Main</em> <span style="color:red">!!NEW!!</span>
 </li>
 </ul>
+
+
 
 <hr style="width:100%;text-align:left;margin-left:0">
 
 Previously I have been interested in mapping natural language to formal language representation and reasoning with it. My proposed solutions towards Question-Answering and Winograd Schema Challenge during my Ph.D have been motivated by the central idea of semantic parsing, followed by logical (or probabilistic logical) reasoning.
+
+
 
 <h3> Semantic Parsing (K-Parser) </h3>
 We (led by co-authors Arpit Sharma and Nguyen Vo) have explored mapping of natural language to formal representation, that enbales logical reasoning. Through several papers ([K-Parser IJCAI-15](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.717.6262&rep=rep1&type=pdf), [K-Parser NAACL 15](https://aclanthology.org/W15-0811.pdf)), we showed how such semantic parsing enables us to find event mentions, and (even patially but interpretably) solved Winograd Schema challenge problems.
