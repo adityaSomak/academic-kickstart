@@ -13,6 +13,7 @@ featured = true
 title = "SYNC: A Structurally guided Hard Negative Curricula for Efficient Neural Code Search"
 projects = ["nlp","neurosymbolic","programminglanguages"]
 url_pdf = ""
+url_code = "https://github.com/atharva-naik/SYNC"
 url_dataset = ""
 url_video = ""
 

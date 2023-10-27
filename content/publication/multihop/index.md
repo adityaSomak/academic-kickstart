@@ -13,6 +13,8 @@ featured = true
 title = "Prover: Generating Intermediate Steps for NLI with Commonsense Knowledge Retrieval and Next-Step Prediction"
 projects = ["nlp","neurosymbolic"]
 url_pdf = "https://arxiv.org/abs/2208.14641"
+url_code = "https://github.com/deepanwayx/prover"
+url_poster = "https://github.com/deepanwayx/prover/blob/main/Prover_2023_Poster.pdf"
 url_dataset = ""
 url_video = ""
 

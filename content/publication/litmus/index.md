@@ -13,6 +13,7 @@ featured = true
 title = "LITMUS Predictor: An AI Assistant for Building Reliable, High-Performing and Fair Multilingual NLP Systems"
 projects = ["nlp"]
 url_pdf = "https://www.microsoft.com/en-us/research/uploads/prod/2022/01/aaai_demo-3.pdf"
+url_project = "https://microsoft.github.io/Litmus/"
 url_dataset = ""
 url_video = ""
 
