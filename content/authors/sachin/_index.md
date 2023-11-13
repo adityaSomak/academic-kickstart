@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Sachin Vashisth
+name: Sachin Vashistha
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Student, CSE
+role: PhD Student, CSE (PMRF Scholar, 2023)
 
 # Organizations/Affiliations
 organizations:
