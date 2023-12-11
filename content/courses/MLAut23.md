@@ -3,7 +3,7 @@
 date = "2023-07-27"
 
 # Project title.
-title = "CS60050 Machine Learning (Autumn 2023) <span style='font-weight: bold;color: red'>!NEW!</span>"
+title = "CS60050 Machine Learning (Autumn 2023)"
 
 # Project summary to display on homepage.
 summary = "Course Page for CS60050"

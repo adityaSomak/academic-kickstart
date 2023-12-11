@@ -25,8 +25,14 @@ weight = 30
     })(jQuery);
 </script>
 
-<div class="mCustomScrollbar" data-mcs-theme="inset-dark" style="height:500px;width:100%;font:24px/28px;font-family: cambria; overflow:auto;">
+<div class="mCustomScrollbar" data-mcs-theme="inset-dark" style="height:500px;width:100%;font:22px/24px;font-family: cambria; overflow:auto;">
+<i class="fa fa-bullhorn" style="color:red;text-shadow:1px 1px 1px #000;"></i> <span style="font-weight: bold;">[Dec 2023]</span> Microsoft: Thanks Microsoft for awarding additional Azure grant of USD 20000 under the  "Accelerate Foundation Models Academic Research" initiative.
+<br/>
+<i class="fa fa-bullhorn" style="color:red;text-shadow:1px 1px 1px #000;"></i> <span style="font-weight: bold;">[Nov 2023]</span> CoLM 2023: Invited as Area Chair in the new <a href="https://colmweb.org/index.html">Conference on Langugage Models</a>! Please submit your papers.
+<br/>
 <i class="fa fa-bullhorn" style="color:red;text-shadow:1px 1px 1px #000;"></i> <span style="font-weight: bold;">[Nov 2023]</span> <em>Tr</em>$^2$AIL Lab: <em>Tr</em>$^2$AILer <a href="authors/sachin">Sachin Vashishtha</a> won the PMRF scholarship for 2023! Congratulations Sachin!
+<br/>
+<i class="fas fa-star fa-xs" style="color:gold;text-shadow:2px 2px 2px #000;vertical-align: middle;"></i> <span style="font-weight: bold;">[Nov 2023]</span> <em>Tr</em>$^2$AIL Lab: <em>Tr</em>$^2$AILer and MTech student <a href="authors/sachin">Debrup Das</a>'s internship with Rakuten India got extended for the second time. He is working now for 8 months funded by Rakuten! Congratulations Debrup!!
 <br/>
 <i class="fa fa-bullhorn" style="color:red;text-shadow:1px 1px 1px #000;"></i> <span style="font-weight: bold;">[Sep 2023]</span> AACL-IJCNLP 2023: Two Long papers accepted in Main Conference: 1) SYNC: A Structurally guided Hard Negative Curricula for Efficient Neural Code Search (with Atharva Naik, Soumitra Das, Jyothi Vedurada), 2) Prover: Generating Intermediate Steps for NLI with Commonsense Knowledge Retrieval and Next-Step Prediction (with Deepanway Ghosal, Monojit Choudhury). Stay tuned for code and preprints!
 <br/>
