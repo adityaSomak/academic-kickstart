@@ -50,6 +50,14 @@ multiple groups, delivering advanced topic lectures.
 <h3> Mentoring (Post Ph.D) </h3>
 <hr style="float: center">
 
+- (2023-Present) Swarup Padhi: LLM and Numeric, <em>Pursuing BTech Thesis</em>
+- (2023-Present) [Daivik Agarwal](https://adityasomak.github.io/authors/daivik/): 3D Spatial Reasoning, <em>Pursuing BTech Thesis</em>
+- (2023-Present) [Shreyas Jena](https://adityasomak.github.io/authors/shreyasj/): Counterfactual Video QA, <em>Pursuing BTech Thesis</em>
+- (2023-Present) [Aditya Soni](https://adityasomak.github.io/authors/adityab/): LLM and Bacjdoor attacks, <em>Pursuing BTech Thesis</em>
+- (2023-Present) [Debrup Das](https://adityasomak.github.io/authors/debrupd/): LLM and Mathematical Reasoning, <em>Pursuing MTech Thesis</em>
+- (2022-Present) [Sachin Vashishtha](https://adityasomak.github.io/authors/sachin/): NeuroSymbolic NLP, Jailbreaks and LLM, LLM and Reasoning, <em>Pursuing PhD, PMRF Fellow</em>
+- (2022) [Vivek Karde](https://adityasomak.github.io/authors/vivekk/): Analyzing Effects of Singlehop Entailments on CrossLingual NLI, <em>MTech Degree Awarded</em>
+- (2021-23) [Atharva Naik](https://atharva-naik.github.io/): Code Search/Retrieval , Jailbreak and LLMs, <em>Presently MS Student CMU</em>
 - (2021) [Ishan Tarunesh](https://ishan00.github.io/): CheckList NLI
 - (2021) [Karthikeyan K](https://scholar.google.com/citations?user=KACcWC4AAAAJ&hl=en): Multi-lingual extension of TaxiNLI ([TaxiXNLI](https://github.com/microsoft/TaxiXNLI); Primary Mentor: Monojit Choudhury; at Duke U.)
 - (2021) Vishesh Agarwal: Polynomial Simplification (Primary Mentor: Navin Goyal)
