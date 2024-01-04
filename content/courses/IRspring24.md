@@ -42,7 +42,6 @@ math = false
     </td><td id="nobd" valign="top" align="left">
     Sachin Vashishtha (sachinvashistha6916@gmail.com) <br/>
     Anuj Parashar (anujparashar16012000@gmail.com) <br/>
-    Yerragorla Krishna Mohan (krishnamohanyerragorla@gmail.com) <br/>
 </td></tr></tbody></table>
 </blockquote>
 
