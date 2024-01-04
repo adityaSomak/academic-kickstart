@@ -1,27 +1,27 @@
 ---
 # Display name
-name: Daksh Varshney
+name: Swarup Padhi
 
 # Username (this should match the folder name)
 authors:
-- daivik
+- swarupp
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: BTech Student (E&ECE, IIT-KGP)
+role: Dual Degree Student (CSE, IIT-KGP)
 
 # Organizations/Affiliations
 organizations:
-- name: E&ECE, IIT KGP
+- name: CSE, IIT KGP
   url: "http://www.ecdept.iitkgp.ac.in/"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include integrating knowledge and enabling higher-order reasoning in AI.
 
 interests:
- - Reasoning in NLP, Multilingual (Pursuing <em>BTech Thesis</em>)
+ - Numeric Reasoning in Smaller LMs (Pursuing <em>BTech Thesis</em>)
 
 # education:
 #   courses:
