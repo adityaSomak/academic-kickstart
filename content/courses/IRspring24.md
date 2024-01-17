@@ -107,7 +107,7 @@ Weightage: Class-Performance/Quiz (8-10%), Mid-Sem and End-Sem (60%), Term Proje
 
   <tr>
     <td></td>
-    <td>Tue 10/01 <br/>Mon 15/01</td>
+    <td>Tue 10/01 </td>
     <!-- <td>Lecture (Chris)</td> -->
     <td><b>Boolean Retrieval</b>: Dictionary and postings lists, boolean querying
     <!--(<a href="https://github.com/manning/MergeAlgorithms">starter code</a>)-->
@@ -121,6 +121,23 @@ Weightage: Class-Performance/Quiz (8-10%), Mid-Sem and End-Sem (60%), Term Proje
     <td>
     <ul>
         <li><a href="http://nlp.stanford.edu/IR-book/pdf/02voc.pdf">IIR chapter 2</a></li>
+      </ul>
+    </td>
+  </tr>
+<tr class='weekbegin'>
+    <td>Week 2</td>
+    <td>Mon 15/ 01 <br/> Tue 16/01</td>
+    <td><b>The term vocabulary & postings lists</b><br /><br />
+    <ul>
+         <li>Slides:
+             <a href="/files/IRSp22/Lec3.pdf">PDF</a>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li><a href="https://nlp.stanford.edu/IR-book/pdf/02voc.pdf">IIR chapter 2</a></li>
+        <li><a href="http://www.sims.berkeley.edu/~hearst/irbook/porter.html">Porter's stemmer (MIR)</a></li>
+        <li><a href="http://www.tartarus.org/~martin/PorterStemmer/">Porter stemming algorithm (Official)</a></li>
       </ul>
     </td>
   </tr>
