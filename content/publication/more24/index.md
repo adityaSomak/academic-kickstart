@@ -11,7 +11,7 @@ publication_short = "In <span style='color:brown;'>*ArXiv 2024*</span> "
 selected = true
 featured = true
 title = "STUCK IN THE QUICKSAND OF NUMERACY, FAR FROM AGI SUMMIT: EVALUATING LLMS' MATHEMATICAL COMPETENCY THROUGH ONTOLOGY-GUIDED PERTURBATIONS"
-projects = ["nlp"]
+projects = ["nlp", "symbolicmath"]
 url_pdf = "https://arxiv.org/pdf/2401.09395.pdf"
 url_code = "https://huggingface.co/datasets/declare-lab/GSM8k_MORE"
 url_dataset = ""

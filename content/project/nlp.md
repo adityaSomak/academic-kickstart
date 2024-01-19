@@ -28,6 +28,20 @@ Models that claim to understand language, should also be able to demonstrate its
 <h4> <span style="color:red">!!NEW!!</span> Reasoning in LLMs </h4>
 Our group has invested significantly in advancing reasoning abilities of LLMs in a multi-hop setting. The following drafts are in progress: 1) DeSelect$^+$: Efficient Leaf Selection to Improve Entailment Tree Generation, 2) A comprehensive survey of Logical Reasoning abilities of Large Language Models alongwith a benchmark, and 3) Multi-step Logical Reasoning under Incomplete Knowledge.
 
+References
+<ul>
+<li> [Code Prompting Elicits Conditional Reasoning Abilities
+in Text+Code LLMs](https://arxiv.org/pdf/2401.10065.pdf),  Haritz Puerto<sup>1</sup>, Martin Tutek<sup>1</sup>, Somak Aditya<sup>2</sup>, Xiaodan Zhu<sup>1,3</sup>, Iryna Gurevych<sup>1</sup>
+<sup>1</sup>Ubiquitous Knowledge Processing Lab (UKP Lab),TU Darmstadt and Hessian Center for AI (hessian.AI)
+<sup>2</sup>IIT Kharagpur, <sup>2</sup>Queen’s University, <em>ArXiv Jan 2024</em> <span style="color:red">!!NEW!!</span>
+</li>
+<li> [Towards LogiGLUE: A Brief Survey and A Benchmark for Analyzing
+Logical Reasoning Capabilities of Language Models](https://arxiv.org/pdf/2310.00836.pdf), Man Luo<sup>1,2*</sup>,  Shrinidhi Kumbhar<sup>1*</sup>, Ming shen,<sup>1</sup> Mihir Parmar<sup>1</sup>, Neeraj Varshney<sup>1</sup>, Pratyay Banerjee<sup>3</sup>, Somak Aditya<sup>4</sup>, Chitta Baral<sup>1</sup>, <sup>1</sup>Arizona State University, <sup>2</sup>Mayo Clinic, <sup>3</sup>Amazon Alexa AI, <sup>4</sup>IIT KGP <em>ArXiv Nov 2023</em> <span style="color:red">!!NEW!!</span>
+</li>
+<li> [Generating Intermediate Steps for NLI with Next-Step Supervision](https://arxiv.org/abs/2208.14641), <em>AACL-IJCNLP 2023, Main</em> <span style="color:red">!!NEW!!</span>
+</li>
+</ul>
+
 <h3> Natural Language Inference </h3>
 Large pre-trained language models show high performance in popular NLP benchmarks (GLUE, SuperGLUE), while failing poorly in datasets with targeted linguistic and logical phenomena. We consolidate the interesting reasoning phenomena
 in Taxonomy of reasoning w.r.t the NLI task. Our first work along this line published in [CoNLL 2020](https://github.com/microsoft/TaxiNLI) showed that these models (BERT, RoBERTa) may not know how to perform certain types of reasoning such as causal, numeric, spatial, temporal; but they can identify the type of reasoning required for a new example. 
