@@ -5,7 +5,7 @@ authors = ["Karthikeyan K", "Shaily Bhatt", "Pankaj Singh", "Somak Aditya", "San
 date = "2022-11-22"
 image_preview = ""
 math = true
-publication_types = ["3"]
+publication_types = ["1"]
 publication = "In AACL-IJCNLP 2022 (Findings) Long Paper"
 publication_short = "In <span style='color:brown;'>*AACL-IJCNLP 2022 (Long Paper Findings)*</span> "
 selected = true

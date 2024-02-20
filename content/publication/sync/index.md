@@ -5,7 +5,7 @@ authors = ["atharva", "Soumitra Das", "Jyothi Vedurada", "Somak Aditya"]
 date = "2023-09-05"
 image_preview = ""
 math = true
-publication_types = ["3"]
+publication_types = ["1"]
 publication = "In *AACL-IJCNLP* 2023"
 publication_short = "In <span style='color:brown;'>*AACL-IJCNLP 2023 (Main)*</span>"
 selected = true

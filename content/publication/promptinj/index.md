@@ -2,12 +2,12 @@
 abstract = ""
 abstract_short = ""
 authors = ["Abhinav Rao", "sachin", "atharva", "admin",  "Monojit Choudhury"]
-date = "2023-05-24"
+date = "2024-02-20"
 image_preview = ""
 math = true
-publication_types = ["3"]
-publication = "In ArXiv 2023 (Under Review)"
-publication_short = "In *ArXiv 2023 (Under Review)* "
+publication_types = ["1"]
+publication = "In LREC-COLING 2024 (In Print)"
+publication_short = "In <span style='color:brown;'>*LREC-COLING 2024 (In Print)*</span> "
 selected = true
 featured = true
 title = "Tricking LLMs into Disobedience: Understanding, Analyzing, and Preventing Jailbreaks"

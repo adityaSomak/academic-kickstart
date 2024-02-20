@@ -5,7 +5,7 @@ authors = ["Pengfei Hong", "Rishabh Bhardwaj", "Navonil Majumdar", "Somak Aditya
 date = "2023-05-03"
 image_preview = ""
 math = true
-publication_types = ["3"]
+publication_types = ["1"]
 publication = "In ACL 2023 (Findings) Long Paper"
 publication_short = "In <span style='color:brown;'>*ACL 2023 (Long Paper Findings)*</span> "
 selected = true
