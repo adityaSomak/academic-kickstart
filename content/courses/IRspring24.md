@@ -159,8 +159,8 @@ Weightage: Class-Performance/Quiz (8-10%), Mid-Sem and End-Sem (60%), Term Proje
     </td>
   </tr>
    <tr class='warning'>
-    <td></td>
-    <td>Tues 24 / 01 & Mon 29 / 01</td>
+    <td>Week 4</td>
+    <td>Tues 23 / 01 & Mon 29 / 01</td>
     <td><b>Scoring, term weighting & the vector space model</b><br /><br />
     <ul>
          <li>Slides:
@@ -177,7 +177,7 @@ Weightage: Class-Performance/Quiz (8-10%), Mid-Sem and End-Sem (60%), Term Proje
     </td>
   </tr>
   <tr class='weekbegin'>
-    <td>Week 4</td>
+    <td>Week 5</td>
     <td>Tue. 30/ 01 & Mon. 05 / 02</td>
     <td><b>Dictionaries and Tolerant Retieval</b><br /><br />
     <ul>
@@ -204,6 +204,48 @@ Weightage: Class-Performance/Quiz (8-10%), Mid-Sem and End-Sem (60%), Term Proje
     <ul>
         <li><a href="https://nlp.stanford.edu/IR-book/pdf/08eval.pdf">IIR chapter 8</a></li>
         <li><a href="https://towardsdatascience.com/what-is-average-precision-in-object-detection-localization-algorithms-and-how-to-calculate-it-3f330efe697b">Average Precision</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr class='weekbegin'>
+    <td>Week 6</td>
+    <td>Mon. 12/02</td>
+    <td><b>Index Constructions</b><br /><br />
+    <ul>
+         <li>Slides:
+             <a href="/files/IRSp22/Lec8.pdf">PDF</a>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li><a href="https://nlp.stanford.edu/IR-book/pdf/04const.pdf">IIR chapter 4</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr class='warning'>
+    <td></td>
+    <td>Mon. 13/02 </td>
+    <td><b>Tutorial 1</b><br /><br />
+    <ul>To be Updated</ul>
+    </td>
+    <td>
+      <ul>
+        <li><a href="https://nlp.stanford.edu/IR-book/exercises.html">IIR Exercises (From IIR book and Other Problem Sets)</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr class='weekbegin'>
+    <td>Week 7</td>
+    <td>Tue. 27/ 02</td>
+    <td><b>Index Compression</b><br /><br />
+    <ul>
+         <li>Slides:
+             <a href="/files/IRSp22/Lec9.pdf">PDF</a>
+      </ul>
+    </td>
+    <td>
+      <ul>
+        <li><a href="https://nlp.stanford.edu/IR-book/pdf/05comp.pdf">IIR chapter 5</a></li>
       </ul>
     </td>
   </tr>
