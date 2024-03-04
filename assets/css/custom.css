@@ -651,3 +651,17 @@ olcards,
 .olcards li .content .text {
   grid-area: text;
 }
+
+.table-responsive {
+    display: block;
+    width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    font-family: "Roboto",sans-serif;
+    font-weight: 100;
+    background-color:rgba(0, 0, 0, 0);
+}
+
+table>tbody>tr:nth-child(odd)>td, table>tbody>tr:nth-child(odd)>th {
+    background-color: #FFFFFF;
+}
