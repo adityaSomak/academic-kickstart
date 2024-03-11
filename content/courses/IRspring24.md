@@ -250,7 +250,7 @@ Weightage: Class-Performance/Quiz (8-10%), Mid-Sem and End-Sem (60%), Term Proje
     </td>
   </tr>
    <tr class="weekbegin">
-    <td></td>
+    <td>Week 8</td>
     <td>Mon. 4 / 03 & Tues. 5 / 03</td>
     <td><b>Relevance Feedback & Query Expansion</b><br /><br />
     <ul>
@@ -263,6 +263,22 @@ Weightage: Class-Performance/Quiz (8-10%), Mid-Sem and End-Sem (60%), Term Proje
         <li><a href="https://nlp.stanford.edu/IR-book/pdf/09expand.pdf">IIR chapter 9</a></li>
         <li><a href="https://sigir.org/files/museum/pub-08/XXIII-1.pdf">Rocchios's Feedback Paper (SIGIR 1965)</a></li>
         <li><a href="https://www.cs.cornell.edu/people/tj/publications/joachims_97a.pdf">Probabilistic Analysis of the Rocchio (Joachim '97)</a></li>
+      </ul>
+    </td>
+  </tr>
+  <tr class="warning">
+    <td>Week 9</td>
+    <td>Mon. 11 / 03</td>
+    <td><b>Probabilistic IR</b><br /><br />
+    <ul>
+         <li>Slides:
+             <a href="/files/IRSp22/Lec11.pdf">PDF</a>
+      </ul>
+    </td>
+    <td>
+    <ul>
+        <li><a href="https://nlp.stanford.edu/IR-book/pdf/11prob.pdf">IIR chapter 11</a></li>
+        <li><a href="https://seeing-theory.brown.edu/compound-probability/index.html">Basics of Probability Theory</a></li>
       </ul>
     </td>
   </tr>
