@@ -2,12 +2,12 @@
 abstract = ""
 abstract_short = ""
 authors = ["Debrup Das", "Debopriyo Banerjee", "Somak Aditya", "Ashish Kulkarni"]
-date = "2024-02-28"
+date = "2024-03-14"
 image_preview = ""
 math = true
 publication_types = ["1"]
-publication = "In ICLR ME-FOMO Workshop"
-publication_short = "In <span style='color:brown;'>*ICLR ME-FOMO Workshop*</span> &  *NAACL 2024 (under Review)*"
+publication = "In NAACL 2024 (Main)"
+publication_short = "In <span style='color:brown;'>*NAACL 2024 (Main, In Print)*</span>"
 selected = true
 featured = true
 title = "MATHSENSEI: A Tool-Augmented Large Language Model for Mathematical Reasoning"

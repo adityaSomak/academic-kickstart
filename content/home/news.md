@@ -30,12 +30,11 @@ weight = 30
     <div class="table-responsive" style="max-height: 30vw">
     <table class="table table-sm table-borderless">            
     <tbody>
-             <tr><th scope="row" style="width: 100px">Mar 2024</th>
+            <tr><th scope="row" style="width: 100px">Mar 2024</th>
                   <!-- <th scope="row" >Oct 2023</th> -->
             <td>
-                    <i class="fa fa-bullhorn" style="color:red;text-shadow:1px 1px 1px #000;"></i> ICLR 2024 ME-FOMO Workshop: 1 Paper accepted about Tool-Augmented LLMs and Mathematical Reasoning <a href="https://arxiv.org/pdf/2402.17231.pdf">MATHSENSEI: A Tool-Augmented Large Language Model for Mathematical Reasoning</a> with Debrup Das, Debopriyo Banerjee, and Ashish Kulkarni.
+                    <i class="fa fa-bullhorn" style="color:red;text-shadow:1px 1px 1px #000;"></i> NAACL 2024: Long Paper accepted in Main Track about Tool-Augmented LLMs and Mathematical Reasoning <a href="https://arxiv.org/pdf/2402.17231.pdf">MATHSENSEI: A Tool-Augmented Large Language Model for Mathematical Reasoning</a> with Debrup Das, Debopriyo Banerjee, and Ashish Kulkarni. A shorter draft previously also published in ICLR 2024 ME-FOMO Workshop.
             </td>
-            </tr> 
             <tr><th scope="row" style="width: 100px">Feb 2024</th>
                   <!-- <th scope="row" >Oct 2023</th> -->
             <td>
