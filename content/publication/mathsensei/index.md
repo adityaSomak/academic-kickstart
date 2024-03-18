@@ -14,8 +14,8 @@ title = "MATHSENSEI: A Tool-Augmented Large Language Model for Mathematical Reas
 projects = ["nlp","neurosymbolic"]
 url_pdf = "https://arxiv.org/pdf/2402.17231.pdf"
 url_code = "https://github.com/Debrup-61/MathSensei"
-url_page = ""
-url_dataset = ""
+url_page = "https://debrup-61.github.io/MathSensei.github.io/"
+url_demo = "https://huggingface.co/spaces/MathSensei-Community/MathSensei-V1"
 url_video = ""
 
 
