@@ -13,8 +13,8 @@ featured = true
 title = "Code Prompting Elicits Conditional Reasoning Abilities in Text+ Code LLMs"
 projects = ["nlp","code"]
 url_pdf = "https://arxiv.org/abs/2401.10065"
-url_code = ""
-url_page = ""
+url_code = "https://github.com/UKPLab/arxiv2024-conditional-reasoning-llms"
+url_project = ""
 url_dataset = ""
 url_video = ""
 

@@ -13,7 +13,7 @@ featured = true
 title = "Tricking LLMs into Disobedience: Understanding, Analyzing, and Preventing Jailbreaks"
 projects = ["nlp"]
 url_pdf = "https://arxiv.org/abs/2305.14965"
-url_dataset = ""
+url_code = "https://github.com/AetherPrior/TrickLLM"
 url_video = ""
 
 

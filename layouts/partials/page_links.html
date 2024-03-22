@@ -47,7 +47,7 @@
   {{ i18n "btn_code" }}
 </a>
 {{ end }}
-{{ with $page.Params.url_dataset }}
+{{ with $page.Params.url_project }}
   {{ $resource := $page.Resources.GetMatch . }}
   {{ if $resource }}
     {{ $link = $resource.RelPermalink }}
@@ -55,7 +55,7 @@
     {{ $link = . | relURL }}
   {{ end }}
 <a class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}}" href="{{ $link }}" target="_blank" rel="noopener">
-  {{ i18n "btn_dataset" }}
+  {{ i18n "btn_project" }}
 </a>
 {{ end }}
 {{ with $page.Params.url_poster }}
@@ -97,6 +97,17 @@
   {{ end }}
 <a class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}}" href="{{ $link }}" target="_blank" rel="noopener">
   {{ i18n "btn_video" }}
+</a>
+{{ end }}
+{{ with $page.Params.url_dataset }}
+  {{ $resource := $page.Resources.GetMatch . }}
+  {{ if $resource }}
+    {{ $link = $resource.RelPermalink }}
+  {{ else }}
+    {{ $link = . | relURL }}
+  {{ end }}
+<a class="btn btn-outline-primary my-1 mr-1{{ if $is_list }} btn-sm{{end}}" href="{{ $link }}" target="_blank" rel="noopener">
+  {{ i18n "btn_dataset" }}
 </a>
 {{ end }}
 {{ with $page.Params.url_source }}

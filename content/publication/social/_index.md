@@ -11,7 +11,7 @@ publication_short = "In <span style='color:brown;'>*NAACL-HLT, 2015*</span>"
 selected = true
 title = "Recognizing social constructs from textual conversation"
 projects = ["NLP"]
-url_pdf = "http://www.aaai.org/ocs/index.php/IJCAI/IJCAI15/paper/download/11096/10846"
+url_pdf = "https://aclanthology.org/N15-1141.pdf"
 url_demo = "https://kparser.org"
 # url_slides = "#"
 
