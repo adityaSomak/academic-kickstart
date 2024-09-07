@@ -21,7 +21,7 @@ organizations:
 # bio: My research interests include integrating knowledge and enabling higher-order reasoning in AI.
 
 interests:
- - Counterfactual Reasoning in Videos (Pursuing <em>BTech Thesis</em>)
+ - Counterfactual Reasoning in Videos (Pursuing <em>MTech Thesis</em>, Submitted BTech Thesis)
 
 # education:
 #   courses:
