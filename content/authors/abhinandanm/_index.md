@@ -1,27 +1,27 @@
 ---
 # Display name
-name: Soni Aditya Bharatbhai
+name: Abhinandan Mondal
 
 # Username (this should match the folder name)
 authors:
-- adityab
+- abhinandanm
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: BTech Student (CS, IIT-KGP)
+role: MTech Student, CSE
 
 # Organizations/Affiliations
 organizations:
-- name: Department of Computer Science, IIT KGP
-  url: "htthttp://cse.iitkgp.ac.in/"
+- name: Department of CSE, IIT KGP
+  url: "http://cse.iitkgp.ac.in/"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include integrating knowledge and enabling higher-order reasoning in AI.
 
 interests:
- - Generalizing Backdoor Attacks to Opaque Models (Pursuing <em>BTech Thesis</em>, jointly with Prof. Mainack Mondal)
+ - FOL Parsing and Neuro-Logic Pipelines for QA
 
 # education:
 #   courses:
@@ -54,9 +54,9 @@ social:
   link: https://github.com/adityaSomak
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: 
+- icon: cv
+  icon_pack: ai
+  link: 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -64,8 +64,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-#- Researchers
-#- Undergrads
-- Alumni
+#- Grad Students
+- Researchers
 ---
 

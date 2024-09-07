@@ -21,7 +21,7 @@ organizations:
 # bio: My research interests include integrating knowledge and enabling higher-order reasoning in AI.
 
 interests:
- - Neuro-symbolic Conversational systems (Pursuing <em>MTech Thesis</em>)
+ - Tool-Augmented Mathematical Reasoning (Submitted <em>MTech Thesis</em>)
 
 # education:
 #   courses:
@@ -64,8 +64,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Researchers
+#- Researchers
 #- Undergrads
-#- Alumni
+- Alumni
 ---
 

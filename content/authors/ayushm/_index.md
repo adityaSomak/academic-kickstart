@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Soni Aditya Bharatbhai
+name: Ayush Munot
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: BTech Student (CS, IIT-KGP)
+role: BTech Student (ME, IIT-KGP)
 
 # Organizations/Affiliations
 organizations:
@@ -21,7 +21,7 @@ organizations:
 # bio: My research interests include integrating knowledge and enabling higher-order reasoning in AI.
 
 interests:
- - Generalizing Backdoor Attacks to Opaque Models (Pursuing <em>BTech Thesis</em>, jointly with Prof. Mainack Mondal)
+ - Visual Numeric Puzzles, LLMs and Planning (with Rakuten)
 
 # education:
 #   courses:
@@ -64,8 +64,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-#- Researchers
+- Researchers
 #- Undergrads
-- Alumni
+#- Alumni
 ---
 

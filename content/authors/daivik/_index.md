@@ -21,7 +21,7 @@ organizations:
 # bio: My research interests include integrating knowledge and enabling higher-order reasoning in AI.
 
 interests:
- - Active Learning in Video Grounding (Pursuing <em>BTech Thesis</em>, with Dr. Maneesh Singh)
+ - Vision and Language Grounding (Submitted <em>BTech Thesis</em>, with Prof. Animesh Mukherjee)
 
 # education:
 #   courses:
@@ -64,8 +64,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-- Researchers
+#- Researchers
 #- Undergrads
-#- Alumni
+- Alumni
 ---
 
