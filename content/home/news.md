@@ -30,6 +30,11 @@ weight = 30
     <div class="table-responsive" style="max-height: 30vw">
     <table class="table table-sm table-borderless">            
     <tbody>
+            <tr><th scope="row" style="width: 100px">Sep 2024</th>
+                  <!-- <th scope="row" >Oct 2023</th> -->
+            <td>
+                    <i class="fa fa-bullhorn" style="color:red;text-shadow:1px 1px 1px #000;"></i> EMNLP 2024: Two Long Papers accepted in Main Track about i) <a href="https://openreview.net/pdf?id=6OZm8mkwrp">Code Prompting Elicits Conditional Reasoning Abilities in Text+Code LLMs</a> (with Haritz Puerto, Martin Tutek, Xiaodan Zhu, & Iryna Gurevych), ii) <a href="https://openreview.net/pdf?id=TfBbI5xicm">ERVQA: A Dataset to Benchmark the Readiness of Large Vision Language Models in Hospital Environments</a> (Sourjyadip Ray, Kushal Gupta, Soumi Kundu, Dr Payal Arvind Kasat, Somak Aditya, Pawan Goyal)
+            </td>
             <tr><th scope="row" style="width: 100px">June 2024</th>
                   <!-- <th scope="row" >Oct 2023</th> -->
             <td>

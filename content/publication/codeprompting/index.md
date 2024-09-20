@@ -2,12 +2,12 @@
 abstract = ""
 abstract_short = ""
 authors = ["Haritz Puerto", "Martin Tutek", "Somak Aditya", "Xiaodan Zhu", "Iryna Gurevych"]
-date = "2024-02-18"
+date = "2024-09-20"
 image_preview = ""
 math = true
 publication_types = ["3"]
-publication = "In ICLR ME-FOMO Workshop"
-publication_short = "In <span style='color:brown;'>*ArXiv 2024*</span>"
+publication = "In EMNLP 2024 Main"
+publication_short = "In <span style='color:brown;'>*EMNLP 2024 (Main)*</span>"
 selected = true
 featured = true
 title = "Code Prompting Elicits Conditional Reasoning Abilities in Text+ Code LLMs"
