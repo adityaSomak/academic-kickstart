@@ -11,7 +11,7 @@ publication_short = "In <span style='color:brown;'>*EMNLP 2024 (Main)*</span>"
 selected = true
 featured = true
 title = "ERVQA: A Dataset to Benchmark the Readiness of Large Vision Language Models in Hospital Environments"
-projects = ["nlp","code"]
+projects = ["nlp","Vision"]
 url_pdf = "https://openreview.net/pdf?id=TfBbI5xicm"
 url_code = ""
 url_project = ""
