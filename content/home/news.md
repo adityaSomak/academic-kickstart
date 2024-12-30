@@ -30,6 +30,11 @@ weight = 30
     <div class="table-responsive" style="max-height: 30vw">
     <table class="table table-sm table-borderless">            
     <tbody>
+            <tr><th scope="row" style="width: 100px">Dec 2024</th>
+                  <!-- <th scope="row" >Oct 2023</th> -->
+            <td>
+                     Invited talk at National Research Council, Canada. Host: Dr. Sowmya Vajjala. Topic: <em>Evolution of Neurosymbolic NLP: From Integrating "Knowledge" to "Skills"</em>
+            </td>
             <tr><th scope="row" style="width: 100px">Sep 2024</th>
                   <!-- <th scope="row" >Oct 2023</th> -->
             <td>
