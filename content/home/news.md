@@ -30,10 +30,20 @@ weight = 30
     <div class="table-responsive" style="max-height: 30vw">
     <table class="table table-sm table-borderless">            
     <tbody>
+            <tr><th scope="row" style="width: 100px">Mar 2025</th>
+                  <!-- <th scope="row" >Oct 2023</th> -->
+            <td>
+                     CODS 2025: Invited as a Demo Track co-chair.
+            </td>
+            <tr><th scope="row" style="width: 100px">Jan 2025</th>
+                  <!-- <th scope="row" >Oct 2023</th> -->
+            <td>
+                     <i class="fa fa-bullhorn" style="color:red;text-shadow:1px 1px 1px #000;"></i> NAACL 2025: One long paper in main track <a href="https://arxiv.org/pdf/2502.07101">"SMAB: MAB based word Sensitivity Estimation Framework and its Applications in Adversarial Text Generation"</a> with Saurabh Kumar Pandey, Sachin Vashishtha, and Monojit Choudhury (equal contribution from Saurabh and Sachin).
+            </td>
             <tr><th scope="row" style="width: 100px">Dec 2024</th>
                   <!-- <th scope="row" >Oct 2023</th> -->
             <td>
-                     Invited talk at National Research Council, Canada. Host: Dr. Sowmya Vajjala. Topic: <em>Evolution of Neurosymbolic NLP: From Integrating "Knowledge" to "Skills"</em>
+                     Invited talk at National Research Council, Canada. Host: Dr. Sowmya Vajjala. Topic: <em>Evolution of Neurosymbolic NLP: From Integrating "Knowledge" to "Skills"</em>.
             </td>
             <tr><th scope="row" style="width: 100px">Sep 2024</th>
                   <!-- <th scope="row" >Oct 2023</th> -->
