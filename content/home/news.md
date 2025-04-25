@@ -30,10 +30,20 @@ weight = 30
     <div class="table-responsive" style="max-height: 30vw">
     <table class="table table-sm table-borderless">            
     <tbody>
+            <tr><th scope="row" style="width: 100px">April 2025</th>
+                  <!-- <th scope="row" >Oct 2023</th> -->
+            <td>
+                     CACM 2025: Invited to be part of CACM Reviewer Board Pilot project (to be announced on June 1st).
+            </td>
             <tr><th scope="row" style="width: 100px">Mar 2025</th>
                   <!-- <th scope="row" >Oct 2023</th> -->
             <td>
                      CODS 2025: Invited as a Demo Track co-chair.
+            </td>
+            <tr><th scope="row" style="width: 100px">Feb 2025</th>
+                  <!-- <th scope="row" >Oct 2023</th> -->
+            <td>
+                     IISc: Invited talk on "Integrating Knowledge and Reasoning in Vision & NLP through Neurosymbolic Methods".
             </td>
             <tr><th scope="row" style="width: 100px">Jan 2025</th>
                   <!-- <th scope="row" >Oct 2023</th> -->
