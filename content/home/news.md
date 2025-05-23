@@ -30,6 +30,16 @@ weight = 30
     <div class="table-responsive" style="max-height: 30vw">
     <table class="table table-sm table-borderless">            
     <tbody>
+            <tr><th scope="row" style="width: 100px">May 2025</th>
+                  <!-- <th scope="row" >Oct 2023</th> -->
+            <td>
+                     MSRI 2025: Invited as a speaker/participant at Microsoft Research India Academic Summit 2025.
+            </td>
+            <tr><th scope="row" style="width: 100px">May 2025</th>
+                  <!-- <th scope="row" >Oct 2023</th> -->
+            <td>
+                     <i class="fa fa-bullhorn" style="color:red;text-shadow:1px 1px 1px #000;"></i>ACL 2025: Paper on "Evaluating LLMs' Mathematical and Coding Competency through Ontology-guided Interventions" accepted in ACL Findings. Co-authors: Pengfei Hong, Deepanway Ghoshal, Navonil Majumdar, Rada Mihalcea, Soujanya Poria
+            </td>
             <tr><th scope="row" style="width: 100px">April 2025</th>
                   <!-- <th scope="row" >Oct 2023</th> -->
             <td>

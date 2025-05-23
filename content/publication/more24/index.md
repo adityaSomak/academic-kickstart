@@ -2,12 +2,12 @@
 abstract = ""
 abstract_short = ""
 authors = ["Pengfei Hong", "Deepanway Ghoshal", "Navonil Majumdar", "Somak Aditya", "Rada Mihalcea", "Soujanya Poria"]
-date = "2024-01-17"
+date = "2025-05-16"
 image_preview = ""
 math = true
 publication_types = ["3"]
-publication = "In ArXiv"
-publication_short = "In <span style='color:brown;'>*ArXiv 2024*</span> "
+publication = "In ACL 2025"
+publication_short = "In <span style='color:brown;'>*ACL 2025 (Findings)*</span> "
 selected = true
 featured = true
 title = "STUCK IN THE QUICKSAND OF NUMERACY, FAR FROM AGI SUMMIT: EVALUATING LLMS' MATHEMATICAL COMPETENCY THROUGH ONTOLOGY-GUIDED PERTURBATIONS"

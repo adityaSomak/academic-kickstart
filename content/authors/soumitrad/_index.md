@@ -1,27 +1,27 @@
 ---
 # Display name
-name: Abhinandan Mondal
+name: Soumitra Das
 
 # Username (this should match the folder name)
 authors:
-- abhinandanm
+- soumitrad
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: MTech Student, CSE
+role: UMass Amherst MS student (Previously CS, IIT KGP)
 
 # Organizations/Affiliations
 organizations:
-- name: Department of CSE, IIT KGP
+- name: UMass Amherst, USA
   url: "http://cse.iitkgp.ac.in/"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include integrating knowledge and enabling higher-order reasoning in AI.
 
 interests:
- - FOL Parsing and Neuro-Logic Pipelines for QA
+ - Efficient Numeric Encoding of Language Models
 
 # education:
 #   courses:
@@ -54,9 +54,9 @@ social:
   link: https://github.com/adityaSomak
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-- icon: cv
-  icon_pack: ai
-  link: 
+# - icon: cv
+#   icon_pack: ai
+#   link: 
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -64,7 +64,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.  
 user_groups:
-#- Grad Students
-- Alumni
+- Interns
+#- Alumni
 ---
 
