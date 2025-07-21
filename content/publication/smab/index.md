@@ -5,7 +5,7 @@ authors = ["Saurabh Kumar Pandey", "Sachin Vashishtha", "Somak Aditya", "Monojit
 date = "2025-01-20"
 image_preview = ""
 math = true
-publication_types = ["3"]
+publication_types = ["1"]
 publication = "In NAACL 2025 Main"
 publication_short = "In <span style='color:brown;'>*NAACL 2025 (Main)*</span>"
 selected = true

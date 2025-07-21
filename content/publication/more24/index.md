@@ -5,7 +5,7 @@ authors = ["Pengfei Hong", "Deepanway Ghoshal", "Navonil Majumdar", "Somak Adity
 date = "2025-05-16"
 image_preview = ""
 math = true
-publication_types = ["3"]
+publication_types = ["1"]
 publication = "In ACL 2025"
 publication_short = "In <span style='color:brown;'>*ACL 2025 (Findings)*</span> "
 selected = true
