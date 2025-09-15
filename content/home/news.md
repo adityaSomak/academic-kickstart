@@ -33,6 +33,11 @@ weight = 30
             <tr><th scope="row" style="width: 100px">August 2025</th>
                   <!-- <th scope="row" >Oct 2023</th> -->
             <td>
+                     EMNLP 2025: NLKI: An initative towards lightweight VLMs capable of <a href="https://beingdutta.github.io/NLKI-Project-Page-EMNLP-2025-Findings/">commonsense reasoning website</a> is launched
+            </td>
+            <tr><th scope="row" style="width: 100px">August 2025</th>
+                  <!-- <th scope="row" >Oct 2023</th> -->
+            <td>
                      EMNLP 2025: 1 Main (EduVidQA: Generating and Evaluating Long-form Answers to Student Questions based on Lecture Videos) and 1 findings (NLKI: A lightweight Natural Language Knowledge Integration Framework for improving small VLMs in Commonsense VQA tasks) accepted. Congratulations to all co-authors. Preprints will be out soon.
             </td>
             <tr><th scope="row" style="width: 100px">July 2025</th>
