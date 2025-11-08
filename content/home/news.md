@@ -30,6 +30,24 @@ weight = 30
     <div class="table-responsive" style="max-height: 30vw">
     <table class="table table-sm table-borderless">            
     <tbody>
+    <tr>
+            <th scope="row" style="width: 100px">Nov 2025</th>
+                  <!-- <th scope="row" >Oct 2023</th> -->
+            <td>
+                     <i class="fa fa-bullhorn" style="color:red;text-shadow:1px 1px 1px #000;"></i> AAAI: 2 papers accepted. 1 main track and 1 alignment track. Posting details soon.
+            </td>
+            <tr>
+            <th scope="row" style="width: 100px">Nov 2025</th>
+                  <!-- <th scope="row" >Oct 2023</th> -->
+            <td>
+                     <i class="fa fa-bullhorn" style="color:red;text-shadow:1px 1px 1px #000;"></i> AAAI: My PhD student Sachin got accepted in AAAI DC.
+            </td>
+            </tr>
+            <tr><th scope="row" style="width: 100px">Nov 2025</th>
+                  <!-- <th scope="row" >Oct 2023</th> -->
+            <td>
+                     <i class="fa fa-bullhorn" style="color:red;text-shadow:1px 1px 1px #000;"></i> Microsoft AARI: Proposal "Agentic Verifiers: Provably Safe Test-time scaling for Reasoning Models" accepted under Microsoft Agentic Research Initiative(AARI) with Amit Sharma Sourangshu Bhattacharya Uma Satya Ranjan (IIT Jammu) Vineeth N Balasubramanian Nagarajan Natarajan
+            </td>
             <tr><th scope="row" style="width: 100px">Sep 2025</th>
                   <!-- <th scope="row" >Oct 2023</th> -->
             <td>

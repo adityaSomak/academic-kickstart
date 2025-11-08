@@ -12,10 +12,10 @@ selected = true
 featured = true
 title = "EduVidQA: Generating and Evaluating Long-form Answers to Student Questions based on Lecture Videos"
 projects = ["nlp","Vision"]
-url_pdf = "/files/EduVidQAEMNLP25.pdf"
-url_code = ""
+url_pdf = "https://aclanthology.org/2025.emnlp-main.1760/"
+url_code = "https://github.com/sourjyadip/eduvidqa-emnlp25"
 url_project = ""
-url_dataset = ""
+url_dataset = "https://github.com/sourjyadip/eduvidqa-emnlp25/tree/main/data"
 url_video = ""
 
 
