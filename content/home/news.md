@@ -34,6 +34,12 @@ weight = 30
             <th scope="row" style="width: 100px">Nov 2025</th>
                   <!-- <th scope="row" >Oct 2023</th> -->
             <td>
+                     <i class="fa fa-bullhorn" style="color:red;text-shadow:1px 1px 1px #000;"></i> WACV: 1 paper accepted on "AD^2: Analysis and Detection of Adversarial Threats in Visual Perception for End-to-End Autonomous Driving Systems" with Ishan Sahu, Somnath Hazra and Prof. Soumyajit Dey. Ishan is a joint working professional PhD student.
+            </td>
+            <tr>
+            <th scope="row" style="width: 100px">Nov 2025</th>
+                  <!-- <th scope="row" >Oct 2023</th> -->
+            <td>
                      <i class="fa fa-bullhorn" style="color:red;text-shadow:1px 1px 1px #000;"></i> AAAI: 2 papers accepted. 1 main track and 1 alignment track. Posting details soon.
             </td>
             <tr>
