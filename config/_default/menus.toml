@@ -48,6 +48,11 @@
   url = "research/"
   weight = 80
 
+[[main]]
+ name = "World Models"
+ url = "pragworld/index.html"
+ weight = 80
+
 #[[main]]
 #  name = "<em>Tr</em>$^2$AIL"  # Title of the link.
 #  url = "people/"  # Widget Page folder name.
@@ -64,3 +69,6 @@
   name = "CV"
   url = "files/SomakAditya_LatestCV.pdf"
   weight = 90
+
+
+

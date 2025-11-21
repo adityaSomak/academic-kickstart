@@ -12,10 +12,10 @@ selected = true
 featured = true
 title = "PRAGWORLD: A Benchmark Evaluating LLMs' Local World Model under Minimal Linguistic Alterations and Conversational Dynamics"
 projects = ["nlp","AI"]
-url_pdf = ""
-url_code = ""
-url_project = ""
-url_dataset = ""
+url_pdf = "https://arxiv.org/abs/2511.13021"
+url_code = "https://github.com/SachinVashisth/PRAGWORLD"
+url_project = "pragworld/index.html"
+url_dataset = "https://github.com/SachinVashisth/PRAGWORLD"
 url_video = ""
 
 
