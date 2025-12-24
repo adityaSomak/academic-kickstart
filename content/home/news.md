@@ -31,6 +31,12 @@ weight = 30
     <table class="table table-sm table-borderless">            
     <tbody>
     <tr>
+            <th scope="row" style="width: 100px">Dec 2025</th>
+                  <!-- <th scope="row" >Oct 2023</th> -->
+            <td>
+                     <i class="fa fa-bullhorn" style="color:red;text-shadow:1px 1px 1px #000;"></i> ANRF ARG: ARG Grant Accepted (200 out of 6000 CS, 6000 non-CS proposals) on "PrahelikaAI: Democratizing Education through Neurosymbolic Puzzle solvers in an Indian Context"
+            </td>
+            <tr>
             <th scope="row" style="width: 100px">Nov 2025</th>
                   <!-- <th scope="row" >Oct 2023</th> -->
             <td>

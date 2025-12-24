@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: BTech Student (CS, IIT-KGP)
+role: Dual Degree Student (CSE, IIT-KGP)
 
 # Organizations/Affiliations
 organizations:
