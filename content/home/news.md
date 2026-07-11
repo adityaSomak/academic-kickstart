@@ -32,7 +32,13 @@ weight = 30
     <tbody>
     <tr>
     <th scope="row" style="width: 100px">June 2026</th>
-                  <!-- <th scope="row" >Oct 2023</th> -->
+            <!-- <th scope="row" >Oct 2023</th> -->
+            <td>
+                      NLP CS60075 course wesbite is up! We will include discussions about Neurosymbolic NLP as well. See <a href="https://cs60075-a2026-nlp-course-page.netlify.app/">here</a>
+            </td>
+            <tr>
+            <th scope="row" style="width: 100px">June 2026</th>
+            <!-- <th scope="row" >Oct 2023</th> -->
             <td>
                       Two JRFs join PrahelikaAI project: Mehul Kini (incoming MS) and Preeta Das (incoming PhD)!
             </td>
