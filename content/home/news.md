@@ -31,6 +31,30 @@ weight = 30
     <table class="table table-sm table-borderless">            
     <tbody>
     <tr>
+    <th scope="row" style="width: 100px">Sept 2026</th>
+            <!-- <th scope="row" >Oct 2023</th> -->
+            <td>
+                      New Tr^2AIL website launched. Visit <a href="https://www.traillab.in/">https://www.traillab.in/</a>.
+            </td>
+    <tr>
+    <th scope="row" style="width: 100px">Sept 2026</th>
+            <!-- <th scope="row" >Oct 2023</th> -->
+            <td>
+                      [ISI Kolkata]: Prof. Somak Aditya spoke at the Centre for Artificial Intelligence and Machine Learning (CAIML), Indian Statistical Institute, Kolkata, on "From Symbols to Neurons and Back: The Evolution of Reasoning in AI".
+            </td>
+    <tr>
+    <th scope="row" style="width: 100px">Sept 2026</th>
+            <!-- <th scope="row" >Oct 2023</th> -->
+            <td>
+                      "TDDN: Text-aligned Diffused DINO Network for Puzzle Understanding" work goes live. See <a href="https://harsha963.github.io/TDDN/#">here</a>.
+            </td>
+    <tr>
+    <th scope="row" style="width: 100px">Sept 2026</th>
+            <!-- <th scope="row" >Oct 2023</th> -->
+            <td>
+                      PrahelikaAI Update 1: First walkthrough and demo is live. See <a href="https://drive.google.com/file/d/1EOFx-ega8nYoHy-awyEPweD7NHMWsyQz/view?usp=drive_web">here</a>.
+            </td>
+    <tr>
     <th scope="row" style="width: 100px">June 2026</th>
             <!-- <th scope="row" >Oct 2023</th> -->
             <td>

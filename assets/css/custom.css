@@ -414,7 +414,7 @@ main {
 
 #tickr-box 
 	{
-	background: #D3D3D3;
+	background: #c9e9ba;
 	max-width: 100%;
 	padding: 3px;
 	margin: 0px auto 0px auto;
@@ -445,8 +445,8 @@ main {
 
 #tickr-scroll 
 	{
-	background: rgb(210, 209, 209);
-	height: 54px;
+	background: #CCFF99;
+	height: auto;
 	margin: 3px auto 0px auto;
 	overflow: hidden;
 	padding: 0px;
@@ -464,7 +464,7 @@ main {
 
 #tickr-scroll a 
 	{
-	color: #FFFFFF;
+	color: #3b32f7;
 	text-decoration: none;
 	}
 
