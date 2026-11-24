@@ -5,7 +5,7 @@ authors = ["Ishan Sahu", "Somnath Hazra", "Somak Aditya", "Soumyajit Dey"]
 date = "2025-11-11"
 image_preview = ""
 math = true
-publication_types = ["3"]
+publication_types = ["1"]
 publication = "In WACV 2026 Main"
 publication_short = "In <span style='color:brown;'>*WACV 2026 (Main)*</span>"
 selected = true
